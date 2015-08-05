@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 【翻译】如何成为一名黑客
+title: 如何成为一名黑客
+categories: 翻译
 ---
 Eric Steven Raymond
 
@@ -47,10 +48,10 @@ Copyright © 2001 Eric S. Raymond
 ***
 
 <link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/googlecode.min.css">
- 
+
 <script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
 <script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>
- 
+
 <script>hljs.initHighlightingOnLoad();</script>
 <script type="text/javascript">
  $(document).ready(function(){
