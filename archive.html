@@ -1,8 +1,10 @@
 ---
 layout: default
+title: Archive
+permalink: /archive/
 ---
 
-<div class="well">
+<div class="archive">
 {%for post in site.posts %}
     {% unless post.next %}
         <h2>{{ post.date | date: '%Y' }}</h2>
