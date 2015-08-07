@@ -13,11 +13,11 @@ title: FireEye大牛解释联邦人事局事件的启示
 
 在此期间，《网络安全监控实战》一书作者，FireEye首席安全战略官Richard Bejtlich通过其个人博客TaoSecurity持续跟进此事，不断澄清媒体及外行人对于国土安全部的网络安全防护项目的错误理解。国土安全部被媒体热议的安全项目有两个：CDM（[Continuous Diagnostics and Mitigation](https://www.us-cert.gov/cdm)，持续诊断监控项目负责搜寻内部系统缺陷）和 E3A（[EINSTEIN 3 Accelerated](http://www.dhs.gov/publication/einstein-3-accelerated)，负责监控恶意流量，是价值45亿美元的国家网络安全与防护项目的核心能力）。
 
-<img src="http://bitandliteracy.github.io/images/cdm-process.jpg"  alt="CDM Process" />
+<img src="{{ site.baseurl }}/images/cdm-process.jpg"  alt="CDM Process" />
 
 Richard Bejtlich在第一篇文章 [Continuous Diagnostic Monitoring Does Not Detect Hackers](http://taosecurity.blogspot.com/2015/06/continuous-diagnostic-monitoring-does.html) 中纠正了The Hill网站编辑[Cory Bennett](http://thehill.com/policy/cybersecurity/244365-federal-cyber-protection-knocked-as-outdated-behind-schedule)的错误理解。如上图所示，CDM项目的作用只是查找内部系统缺陷，最后还需由技术人员来修补漏洞。第二篇文章 [Hearing Witness Doesn't Understand CDM](http://taosecurity.blogspot.com/2015/06/hearing-witness-doesnt-understand-cdm.html) 反驳的是前国土安全部官员Daniel M. Gerstein在听证会上对于CDM的错误解读，CDM所处理的只是内部系统漏洞，如果这些漏洞得不到修补的话就会成为潜在的恶意风险，这些漏洞本身并非恶意行为，恶意行为是入侵者攻击所致。简而言之，CDM有助于降低恶意风险，但并不能识别甚至阻止恶意行为，这一项目只不过是为了更快地找出并修复系统漏洞。
 
-<img src="http://bitandliteracy.github.io/images/E3A-works.jpg"  alt="EINSTEIN 3 Accelerated Works" />
+<img src="{{ site.baseurl }}/images/E3A-works.jpg"  alt="EINSTEIN 3 Accelerated Works" />
 
 Ars Technica编辑、前海军军官Sean Gallagher的文章 [Why the “biggest government hack ever” got past the feds](http://arstechnica.com/security/2015/06/why-the-biggest-government-hack-ever-got-past-opm-dhs-and-nsa/) 则专门分析了E3A系统的来龙去脉。如上图所示，E3A系统部署于网关处，原本是基于深度包检测技术，最近一次价值2.18亿美元的功能升级让它具备了恶意流量分析及签名检测能力，不过它仍需国土安全部的技术人员来告诉它具体去分析或检测什么。根据已经发生过的攻击方式的特征，E3A有能力阻止它们再次发生；但是在面对尚未发现的“0-Day”及其伪装成正常流量的全新攻击方式时，E3A的上述功能就无能为力了。
 
