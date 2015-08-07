@@ -1,13 +1,13 @@
 .site-header {
   padding-top: $space-1;
   padding-bottom: $space-2;
+  background-color: #4a525a; /* dark blue slate thing */
 }
 
 .site-header a {
   color: $hn-orange;
   font-size: $h3;
   font-weight: 300;
-  background-color: #4a525a; /* dark blue slate thing */
 }
 
 .site-header .site-title {
