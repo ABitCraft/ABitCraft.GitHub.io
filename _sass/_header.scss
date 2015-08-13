@@ -1,7 +1,7 @@
 .site-header {
   padding-top: $space-1;
   padding-bottom: $space-2;
-  background-color: #4a525a; /* dark blue slate thing */
+  background-color: #e7e7e7; /* dark blue slate thing */
 }
 
 .site-header a {
@@ -19,15 +19,15 @@
 }
 
 .site-header nav a {
-  color: $ars-darken;
+  color: #000;
 }
 
 .site-header nav a:hover,
 .site-header nav a:focus,
 .site-header nav a:active {
-  color: $ars-hover;
+  color: $ars;
   opacity: 1;
-  border-bottom: 2px solid $ars-hover;
+  border-bottom: 2px solid $ars;
 }
 
 .site-nav a + a {

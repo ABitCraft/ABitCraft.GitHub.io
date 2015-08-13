@@ -1,6 +1,6 @@
 .pagination {
   font-size: 1rem;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   text-align: center;
 }
@@ -9,7 +9,7 @@
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  background: #fafafa;
+  background: #7a7a7a;
   border-radius: 0.1875em;
   border: 1px solid #f3f3f3;
   color: #333333;
@@ -22,7 +22,7 @@
 
 .pagination a:hover, .pagination a:focus {
   background: white;
-  color: #477dca;
+  color: #608c28;
 }
 
 .pagination a:active {
