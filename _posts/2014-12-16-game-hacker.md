@@ -3,28 +3,6 @@ layout: post
 title: 游戏黑客之道
 ---
 
-<link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/googlecode.min.css">
- 
-<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>
- 
-<script>hljs.initHighlightingOnLoad();</script>
-<script type="text/javascript">
- $(document).ready(function(){
-      $("h2,h3,h4,h5,h6").each(function(i,item){
-        var tag = $(item).get(0).localName;
-        $(item).attr("id","wow"+i);
-        $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');
-        $(".newh2").css("margin-left",0);
-        $(".newh3").css("margin-left",20);
-        $(".newh4").css("margin-left",40);
-        $(".newh5").css("margin-left",60);
-        $(".newh6").css("margin-left",80);
-      });
- });
-</script>
-<div id="category"></div>
-
 ***
 
 John Carmack 说过，“在信息时代，客观障碍已不复存在，所谓障碍都是主观上的。如果你想动手开发什么全新的技术，你不需要几百万美元的资金，你只需要在冰箱里放满比萨和可乐，再有一台便宜的计算机，和为之献身的决心。”他做游戏时是这样，他玩火箭时是这样，他开发虚拟现实技术时想必更是如此。“我们在地板上睡过，我们从河水中趟过。”
@@ -92,19 +70,19 @@ Carmack 发现他最喜欢的是图像编程：创作一些二进制代码并看
 Carmack 在他1998年2月的 .plan file 中写道：
 
 > 我的人生就是以知识的积累和学习的不断深入来分为不同阶段。
-> 
+>
 > 我启蒙阶段用的是学校里的苹果II型机，但当时的条件局限了我的学习速度和深度。今天的状况已经好多了，只要有一台便宜的二手 PC 机、一张 Linux 光盘和一个因特网的账号，你就拥有了足够的工具和资源，你就可以达到任何你期望的编程境界。
-> 
+>
 > 《软盘》的头六个月对我而言如同活在梦里，平生第一次，我身边有了比我更博识的程序员（Romero 和 Lane Roath），我手边有了大量的书籍和资料，而且我可以全身心投入到编程中，那真是一段好时光。
-> 
+>
 > 接下来的两年，直到 Doom 和几个家用机版本移植完成，我在稳步提高着我的知识面和技术水平，其中包括：更深入的图像编程、网络、Unix、编译原理、跨平台、RISC 架构等等。
-> 
+>
 > Quake 开发的第一年简直如同腾云驾雾，有迈克尔·亚伯拉什作为顾问，我尝试了大量新鲜课题。如果科班出身的图像程序员们知道我在写 Doom 时有多么业余，他们肯定会大吃一惊，那时的我甚至不能正确地剪切墙体多边形（这就是为什么我用了那莫名其妙的极坐标系统），Quake 逼着我踏上正轨，同时探索出新思路。
-> 
+>
 > Quake 开发的最后半年是在痛苦中度过的，那时我满脑子只想着把这该死的东西做完，当然，一切付出到后来都有了回报，但我绝不怀恋这段时光。
-> 
+>
 > Quake2 开发的过程中，我的学习经历又得到了进一步扩充：GLQuake、quakeworld、radiosity、OpenGL 工具开发、Win32 编程等等，与此同时，我也有了不少关于下一步如何做的想法。
-> 
+>
 > 我认为接下来的 Trinity engine 将和 Quake 一样硕果累累。我在一些课题上已经有了非常深入的理解，我还正在尝试一些图像编程以外的全新领域，它们将会和我所有其他方面的工作产生积极互动。
 
 #### ⒉Get one of the open-source Unixes and learn to use and run it.

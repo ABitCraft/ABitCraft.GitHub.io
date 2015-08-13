@@ -3,28 +3,6 @@ layout: post
 title: 未来的学习者
 ---
 
-<link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/googlecode.min.css">
- 
-<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>
- 
-<script>hljs.initHighlightingOnLoad();</script>
-<script type="text/javascript">
- $(document).ready(function(){
-      $("h2,h3,h4,h5,h6").each(function(i,item){
-        var tag = $(item).get(0).localName;
-        $(item).attr("id","wow"+i);
-        $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');
-        $(".newh2").css("margin-left",0);
-        $(".newh3").css("margin-left",20);
-        $(".newh4").css("margin-left",40);
-        $(".newh5").css("margin-left",60);
-        $(".newh6").css("margin-left",80);
-      });
- });
-</script>
-<div id="category"></div>
-
 ***
 
 ####引言
@@ -103,7 +81,7 @@ Thomas Paine 认为，一切智能上的权利，都属于天赋权利。个人�
 ###### 全球概览
 + "Stay Hungry. Stay Foolish." 收集34期全球概览主要内容的官方网站，另外还收集有共同进化、全球评论、全球软件评论等其他全球系列出版物。http://www.wholeearth.com/index.php
 + 《数字乌托邦》，斯坦福大学传播系副教授 Fred Turner 挖掘《全球概览》背后的文化变迁的专著。如果你希望了解科技发展所带来的人的形象的进步，那么你一定避不开这本书，这也正是硅谷思想的脉络节点。下面还有作者和当时的参与者们关于这本书的访谈。 http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/
-> + Fred Turner lectures on From Counterculture to Cyberculture, Haus der Kulturen der Welt, Berlin, Germany, June 21, 2013 (German & English). http://www.youtube.com/watch_popup?v=Jz-oMLpxpCg 
+> + Fred Turner lectures on From Counterculture to Cyberculture, Haus der Kulturen der Welt, Berlin, Germany, June 21, 2013 (German & English). http://www.youtube.com/watch_popup?v=Jz-oMLpxpCg
 > + Fred Turner, Stewart Brand, Kevin Kelly and Howard Rheingold discuss “From Counterculture to Cyberculture: The Legacy of the Whole Earth Catalog“, Stanford University, November 9, 2006. http://www.youtube.com/watch_popup?v=Jz-oMLpxpCg
 + Cool Tools, KK 说是 Stewart Brand 启发了 Cool Tools; 《穹顶之书》作者以及早期的《全球概览》编辑 Lloyd Kahn 说这本书就是21世纪版的《全球概览》。同《全球概览》一样，这是一本能启发和鼓励你去学习和动手的书。 http://kk.org/cooltools/
 + 《1024·人与机器共同进化》，Technology is culture. 技术既作为一种工具，又作为一种文化。这里推荐的是遗产部分的三篇：《<全球概览>：嬉皮士生存指南》《“全球”效应六人谈》《如何制作<全球概览>》。 http://1024.dongxi.net
