@@ -17,30 +17,6 @@ categories: 翻译
 
 ***
 
-<link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/googlecode.min.css">
-
-<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-<script src="http://yandex.st/highlightjs/6.2/highlight.min.js"></script>
-
-<script>hljs.initHighlightingOnLoad();</script>
-<script type="text/javascript">
- $(document).ready(function(){
-      $("h2,h3,h4,h5,h6").each(function(i,item){
-        var tag = $(item).get(0).localName;
-        $(item).attr("id","wow"+i);
-        $("#category").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');
-        $(".newh2").css("margin-left",0);
-        $(".newh3").css("margin-left",20);
-        $(".newh4").css("margin-left",40);
-        $(".newh5").css("margin-left",60);
-        $(".newh6").css("margin-left",80);
-      });
- });
-</script>
-<div id="category"></div>
-
-***
-
 # 前言
 
 1996年，我们启程开始制作伟大的游戏，但当时我们意识到我们得先创造一个哺育那种“伟大”的摇篮。在那个摇篮里，每一位才换横溢的个体都能以他们自己的方式将他们最杰出的成就交到数以百万计的玩家手中。这本书所涵盖的，正是引导我们前行的纪律和原则。在 Valve 成长的道路上，我们希望这些纪律和原则能够让每一位加入我们行列的新人从中受益。

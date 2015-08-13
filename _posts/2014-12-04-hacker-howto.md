@@ -3,6 +3,7 @@ layout: post
 title: 如何成为一名黑客
 categories: 翻译
 ---
+
 Eric Steven Raymond
 
 [Thyrsus Enterprises](http://www.catb.org/~esr/)
@@ -44,8 +45,6 @@ Copyright © 2001 Eric S. Raymond
 </div>
 
 *参照 [柯非](http://idarkside.org/docs/hacker-howto.html) (1.48) 和 [Wang Dingwei](http://translations.readthedocs.org/en/latest/hacker_howto.html) (1.43) 的译文以及《大教堂与市集》一书所附录的翻译（版本未知，猜测为原版书印刷时的版本），语句方面有不少调整，目的是探究作者本意，推荐有兴趣的人相互对照来读，欢迎交流指正。*
-
-***
 
 ***
 
