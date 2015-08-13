@@ -6,7 +6,7 @@ permalink: /about/
 
 *Welcome to my domain!*
 
-> BITandLiteracy 是向 Mark Hurst 的 Bit Literacy 致敬。
+> BITandLiteracy是向Mark Hurst的Bit Literacy致敬。
 
 ***
 
@@ -16,6 +16,7 @@ permalink: /about/
 
 维护这些内容，一则是为科技文化本身服务，二则是为提升自己，并与大家共勉。诚然，这些文档本身不会产生价值，但却会让运用它们的人提升价值。
 
-<pre><code>豆瓣 http://www.douban.com/people/BitandLiteracy/
+<pre><code>GitHub https://github.com/BITandLiteracy
+豆瓣 http://www.douban.com/people/BitandLiteracy/
 邮箱 AppU.hyb@gmail.com
 </code></pre>

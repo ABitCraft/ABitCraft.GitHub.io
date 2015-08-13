@@ -3,7 +3,7 @@ layout: post
 title: Google建议外行多学习安全专家的做法
 ---
 
-在上周的SOUPS（[Symposium On Usable Privacy and Security](https://cups.cs.cmu.edu/soups/2015/)，可用的隐私与安全专题研讨会）年度会议上，来自Google的三位研究人员发表了一篇题为 [“...no one can hack my mind”: Comparing Expert and Non-Expert Security Practices](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf) 的研究报告。该研究对比了231位安全专家和294位非专业人士在四个方面（软件更新、杀毒程序、账号安全以及对安全问题的关心程度）具体理解与实践。
+在上周的 SOUPS（[Symposium On Usable Privacy and Security](https://cups.cs.cmu.edu/soups/2015/)，可用的隐私与安全专题研讨会）年度会议上，来自Google的三位研究人员发表了一篇题为 [“...no one can hack my mind”: Comparing Expert and Non-Expert Security Practices](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf) 的研究报告。该研究对比了231位安全专家和294位非专业人士在四个方面（软件更新、杀毒程序、账号安全以及对安全问题的关心程度）具体理解与实践。
 
 ![Security Practices]({{ site.baseurl }}/images/Security-practices-v6.png "Security Practices")
 
