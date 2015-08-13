@@ -3,7 +3,7 @@ layout: post
 title: FireEye大牛解释联邦人事局事件的启示
 ---
 
-对于OPM（Office of Personnel Management，美国联邦人事局数据窃取问题的媒体讨论以及相应的调查过程与听证会已经持续挺长时间了，我们先结合官方的报告稍微回顾一下这里都发生了那些事情：
+对于 OPM（Office of Personnel Management，美国联邦人事局）数据窃取问题的媒体讨论以及相应的调查过程与听证会已经持续挺长时间了，我们先结合官方的报告稍微回顾一下这里都发生了那些事情：
 
 > + 4月，OPM[发现](https://www.opm.gov/cybersecurity/)其存储的420万在职与离任联邦政府雇员人事信息遭窃。
 > + 6月初，OPM在调查上述问题的过程中发现有更多信息被窃——背景调查数据库的[2150万](http://arstechnica.com/security/2015/07/call-it-a-data-rupture-hack-hitting-opm-affects-21-5-million/)（截至7月10日）在职、离任及潜在联邦雇员与合同工的个人信息。
