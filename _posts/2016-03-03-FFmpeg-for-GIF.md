@@ -2,7 +2,7 @@
 layout: post
 title: 尝试用 FFmpeg 来生成 GIF 图
 ---
-由于工作上每天都要制作不少 GIF 图，所以用过很久 Photoshop, LICEcap, GIF Brewery 等 GUI 工具。直到最近读到这篇（[High quality GIF with FFmpeg](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)，即 [使用 FFmpeg 处理高质量 GIF 图片](http://www.oschina.net/translate/high-quality-gif-with-ffmpeg)）通过 FFmpeg 来输出 GIF 图的文章，我决定去尝试一下用命令行的方式来生成 GIF 图效果。
+由于工作上每天都要制作不少 GIF 图，所以用过很久 Photoshop, LICEcap, GIF Brewery 等 GUI 工具。直到最近读到这篇（[High quality GIF with FFmpeg](http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html)，即 [使用 FFmpeg 处理高质量 GIF 图片](http://www.oschina.net/translate/high-quality-gif-with-ffmpeg)）通过 FFmpeg 来输出 GIF 图的文章，我决定去尝试一下用命令行的方式来生成 GIF 图时的效果。
 
 *习惯于用参数的话，还是能省心不少的。*
 
