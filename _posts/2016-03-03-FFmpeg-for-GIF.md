@@ -6,6 +6,9 @@ title: 尝试用 FFmpeg 来生成 GIF 图
 
 *习惯于用参数的话，还是能省心不少的。*
 
+* FFmpeg GIF
+{:toc}
+
 ***
 
 ## 安装 FFmpeg

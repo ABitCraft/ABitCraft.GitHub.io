@@ -2,14 +2,16 @@
 layout: post
 title: 未来的学习者
 ---
+* 未来的学习者
+{:toc}
 
-####引言
+##引言
 
 1971年，Kevin Kelly从仅上了一年的罗德岛大学辍学。2006年11月，在斯坦福大学回忆起他第一次见到《全球概览》时的情景，KK说这本书让他意识到“原来是可以不用上大学的”。而当初Stewart Brand在《全球概览》每一期内封页上的开场白都是“……一种私人的、个人的力量正在发展，这种个人力量，用来接受教育、寻找灵感、塑造环境，以及与任何感兴趣的人分享自己的冒险经历。”“能促进这一过程的工具，正是《全球概览》所寻找和推广的。”
 
 促进个人力量发展的宗旨，使得《全球概览》可以提供出一条不一样的学习途径。从这一点出发，学习者的身份是Builder, 是为乐趣解决问题，同时building自身的能力，building自己的生活。这篇文章的目的，正是从学习者自身的角度，试图来描绘一种新的人的形象。
 
-#### 现代学校系统是Planner角度下的产物
+## 现代学校系统是Planner角度下的产物
 
 然而，寻求个人力量的发展，恰恰并非是现代学校系统建立的初衷。Seth Godin用《盗梦工厂》一书这样解释——“大规模的教育……的发明是为了迅速而大量地制造符合工业化体系要求的工人。” Horace Mann从开始设计公立学校的理念就是“培养品格和教授‘读写算’同样重要。通过灌输服从权威、按时出勤、听铃做事的概念，给学生将来的就业打下基础。”依据定规解决问题，而非是从促进个人力量的发展出发，这样的教育者确实属于典型的Planner形象。
 
@@ -21,7 +23,7 @@ title: 未来的学习者
 
 毕竟，学习的自由在于学习者自身。
 
-#### 作为Builder的学习者
+## 作为Builder的学习者
 
 Thomas Paine认为，一切智能上的权利，都属于天赋权利。个人既充分具有这种权利，又有充分行使这些权利的能力。对于学习和教育，我们所要做的，只不过是把这项能力重新拿回到自己手中，并且把自己的所学都用出来，直至自己所做的每件事都能产生真正意义上的效果。Paul Graham在《为什么书呆子不受欢迎》最后写道，“对于书呆子来说，意识到学校并非全部的人生，也是很重要的事情……它只是一个暂时的过程，只要你向前看，你就能超越它，哪怕现在你还是身处其中。”“书呆子并不是失败者。”未来的学习者更不是，基于真实世界的状况，未来的学习成果注定是要把世界改变得更好的。
 
@@ -33,7 +35,7 @@ Thomas Paine认为，一切智能上的权利，都属于天赋权利。个人�
 
 对于未来的学习者，我想他们同样也会通过描绘一种不一样的人的形象，来促进自身力量的发展并塑造出自己理想中的生活，最终推动整个世界向前发展。
 
-#### 学习作为一种“网络化”的活动
+## 学习作为一种“网络化”的活动
 
 “如果我们需要一种改变人生的教育，就必须以更高的标准来要求大学。”同理，一种能把个人天赋发展成更好的人生的教育，必定也会以更高的标准来要求学习者。从整体上来看双方的这种变革，如同“看不见的手”所解释的市场机制一样，自学成才——这种完全从个人出发的学习途径，恰恰正是能实现大规模制度化教育系统一直在宣称事实上却始终背道而驰的崇高目标——用智慧取代愚昧，以及真正从学习者本身出发的因材施教。
 
@@ -65,7 +67,7 @@ Thomas Paine认为，一切智能上的权利，都属于天赋权利。个人�
 
 深入去研究的话，还在于更进一步的阅读。如下面所示，我自己在维护的是这样一些资料，欢迎推荐更多有价值的资源。
 
-###### Unschooler
+#### Unschooler
 + Hacking Your Education, 作者Dale J. Stephens, 作为一名Unschooler, TED speaker, 和Thiel Fellow, 这本书的目的是破除只有上大学才能成功的观念，为年轻的创业者提供实用学习技能。你可以在他创立的网站http://www.uncollege.org找到这样一批志同道合的人。
 + Thiel Fellowship ( 原名 20 under 20), 由Peter Thiel通过Thiel Foundation创立，为20岁以下的学生提供10万美元奖学金跳过大学以直接专注于他们的目标——研究、创业、自我教育等。这里是他们的网站http://www.thielfellowship.org
 + 52 Cups of Coffee, 2010年6月，密歇根州立大学学生Megan Gebhart决定在接下来的一年喝52杯咖啡，不是一个人，而是作为一项为期一年的咖啡对话实验，她一边体验一边学习，这些经历都发表在她的网站http://www.52cups.com, 并且这些文章即将于今年8月份出版成书。这里是她在TEDx的演讲https://www.youtube.com/watch?v=bkXyzDFt6qg
@@ -76,7 +78,7 @@ Thomas Paine认为，一切智能上的权利，都属于天赋权利。个人�
 + 《危险心灵》，2003年，侯文咏探讨教育系统对心灵成长影响的小说。成长到底是累积与拥有，还是意味着不断地失去？思考心灵在成长过程中所遭遇的危险，你也可以参考2010年桂纶镁参演同名电视剧。
 + 《“研”磨记》，斯坦福大学计算机博士Philip Guo写的一本关于他的博士经历的小书，对他在斯坦福大学的六年博士生涯（2006年至2012年）做了一个编年形式的记载。英文版链接：www.phdgrind.com
 
-###### 全球概览
+#### 全球概览
 + "Stay Hungry. Stay Foolish." 收集34期全球概览主要内容的官方网站，另外还收集有共同进化、全球评论、全球软件评论等其他全球系列出版物。http://www.wholeearth.com/index.php
 + 《数字乌托邦》，斯坦福大学传播系副教授Fred Turner挖掘《全球概览》背后的文化变迁的专著。如果你希望了解科技发展所带来的人的形象的进步，那么你一定避不开这本书，这也正是硅谷思想的脉络节点。下面还有作者和当时的参与者们关于这本书的访谈。 http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/
 > + Fred Turner lectures on From Counterculture to Cyberculture, Haus der Kulturen der Welt, Berlin, Germany, June 21, 2013 (German & English). http://www.youtube.com/watch_popup?v=Jz-oMLpxpCg
@@ -84,7 +86,7 @@ Thomas Paine认为，一切智能上的权利，都属于天赋权利。个人�
 + Cool Tools, KK说是Stewart Brand启发了Cool Tools; 《穹顶之书》作者以及早期的《全球概览》编辑Lloyd Kahn说这本书就是21世纪版的《全球概览》。同《全球概览》一样，这是一本能启发和鼓励你去学习和动手的书。 http://kk.org/cooltools/
 + 《1024·人与机器共同进化》，Technology is culture. 技术既作为一种工具，又作为一种文化。这里推荐的是遗产部分的三篇：《<全球概览>：嬉皮士生存指南》《“全球”效应六人谈》《如何制作<全球概览>》。 http://1024.dongxi.net
 
-###### Hackerdom
+#### Hackerdom
 + 《黑客：计算机革命的英雄》，黑客文化和伦理的奠基之作。Steven Levy追述了黑客的传统和历史，讲述黑客的人生和故事，归纳黑客创造的技术奇迹，总结黑客文化和伦理。http://www.stevenlevy.com/index.php/books/hackers
 + 《黑客与画家》本书是Paul Graham的文集，主要介绍黑客即优秀程序员的爱好和动机，讨论黑客成长、黑客对世界的贡献以及编程语言和黑客工作方法等所有对计算机时代感兴趣的人的一些话题。Robert Morris 说，“此书将迫使你重新思考计算机编程的本质。” http://paulgraham.com/hackpaint.html
 + The Jargon File, 这是一份由Eric Raymond所维护的黑客俚语大全，这是一份开放的公共文档，并以此为基础正式出版过黑客词典。 http://www.catb.org/~esr/jargon/html/
@@ -97,7 +99,7 @@ Thomas Paine认为，一切智能上的权利，都属于天赋权利。个人�
 
 ***
 
-#### 附：相关人物
+## 附：相关人物
 1. Kevin Kelly, 数字文化学者，人称 KK, 创立了All Species Foundation; 目前专注于恒金基金会的项目——Clock of the Long Now, Rosetta Project, 以及与Stewart Brand共同主持每月一次的SALT研讨会。他是《连线》杂志创始主编，还主编过《全球评论》，以及作为《共同进化》季刊的编辑。他出版的作品有《失控》《新经济 新规则》《科技想要什么》《技术元素》，还有最新的Cool Tools等。个人网站 http://kk.org
 2. Stewart Brand, 他是一位创作者。1968年创办了《全球概览》，1985年创建WELL, 1987年全球商业网络，1996年恒金基金会；他的写作有The Media Lab(1987), How Buildings Learn(1994), The Clock of the Longnow(1999), Whole Earth Discipline(2009), SALT Summaries(2011). 个人主页 http://sb.longnow.org/SB_homepage/Home.html
 3. Seth Godin, 17本畅销书的作者，主要是上世纪90年代后期以来一系列商业领域专著。1995年创建 Yoyodyne, 并于1998年以3000万美元被雅虎收购。2006年创建聚合推荐网站Squidoo, 同时也是Stop Stealing Dreams系列文章最初发表的地方。2012年7月，他在Kickstarter成功众筹了系列新书的出版项目。https://www.kickstarter.com/projects/297519465/the-icarus-deception-why-make-art-new-from-seth-go 个人网站 http://www.sethgodin.com/sg/default.asp
