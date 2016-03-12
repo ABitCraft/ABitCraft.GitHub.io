@@ -3,10 +3,10 @@ layout: post
 title: 卡马克论想法更迭
 ---
 
+*这篇文章是 Facebook JavaScript 团队的 Amjad Masad 实践 John Carmack 的 Idea Generation System 后所写下的总结 ["John Carmack on Idea Generation"](http://amasad.me/2016/03/09/john-carmack-on-idea-generation/)。感谢海伦老师的倾情翻译和解读：“卡马克论想法更迭，游戏之神是这样练成的”，这里仅转载原文部分。*
+
 * 卡马克论想法更迭
 {:toc}
-
-*这篇文章是 Facebook JavaScript 团队的 Amjad Masad 实践 John Carmack 的 Idea Generation System 后所写下的总结 ["John Carmack on Idea Generation"](http://amasad.me/2016/03/09/john-carmack-on-idea-generation/)。感谢海伦老师的倾情翻译和解读：“卡马克论想法更迭，游戏之神是这样练成的”，这里仅转载原文部分。*
 
 ***
 
