@@ -1,0 +1,188 @@
+---
+layout: post
+title: 黑客与英雄们
+---
+
+* 黑客与英雄们
+{:toc}
+
+这篇讨论美、德两国黑客文化的文章是 [Elliot Williams](http://hackaday.com/author/hexagon5un/) 发表在 [Hackaday](http://hackaday.com) 网站的 "Hackers and Heroes" 专题：
+
+> 第一部分 [HACKERS AND HEROES: A TALE OF TWO COUNTRIES](http://hackaday.com/2016/01/11/hackers-and-heroes-a-tale-of-two-countries/) 由 n3o4po11o 翻译：[黑客与英雄们：双国战记](http://hardenedlinux.org/translation/2016/02/12/Hackers-and-heroes-a-tale-of-two-countries.html)。
+> 
+>  第二部分 [Hackers and Heroes: Rise of the CCC and Hackerspaces](http://hackaday.com/2016/01/12/hackers-and-heroes-rise-of-ccc-and-hackerspaces/) 由 Tom Li 翻译：[黑客与英雄们：CCC和黑客空间的崛起](http://hardenedlinux.org/translation/2016/02/14/Hackers-and-heroes-rise-of-the-ccc-and-hackerspaces.html)。
+> 
+> 原作者 Elliot Williams 是华盛顿特区黑客空间 HacDC 的创始成员，同时也是慕尼黑混沌计算机俱乐部的会员。
+
+**感谢 [HardenedLinux ](http://hardenedlinux.org/) 鼓励我们分享**，以下为完整内容：
+
+***
+<img src="http://hardenedlinux.org/images/german-america.jpg" alt="German & America" />
+
+从很多方面来说，德国与美国的黑客文化都很相似，从软硬结合类型到相近的业余无线电到 Blinkenlights。通过阅读 Hackaday，你会发现两个国家都有类似的项目出现。在过去的10年中，两个国家都有大量黑客空间 (hackerspace) 出现。可能在你生活的城市中就有一两个:)。但生活在美国的黑客还缺少了一个德国黑客已经拥有的东西：**尊重**。
+
+在不同的圈子里提到”黑客”这个词，你永远不知道会得到什么样的回应。什么样的人才能算是”黑客”呢？是我们所提到的那些在 Ashley Madison（婚外情网站）上通过账户信息来勒索的人吗？或者是从 Target 那里盗窃信用卡的那些人呢？还是那些花了大量的时间来破坏东西、创建东西以及拆解东西只是为了看看它们是如何工作的人？
+
+<img src="http://hardenedlinux.org/images/hacker_montage.png" alt="hacker montage" />
+
+关于“谁是 [黑客](http://catb.org/~esr/jargon/html/H/hacker.html)”的讨论是一个非常古老的议题，当然了是基于互联网的标准，但它的含义不止步于此。但如果你仔细回想一下最近一次在主流媒体中听到关于”黑客”这个词，但不是贬义的情况。如果在本世纪你无法回想起这样的情况，那么你生活在美国。如果你回答”就昨天，刚在国内最重要的报纸中看到”，那么你生活在德国。
+
+## 黑客在社会中的地位
+
+激发我写这些的文章题为“[为什么黑客对社会这么重要 (Why Hackers are so Important for Society)](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.sueddeutsche.de%2Fdigital%2Fchaos-computer-club-warum-hacker-so-wichtig-fuer-die-gesellschaft-sind-1.2798088&edit-text=&act=url)”我们彼此都心知肚明，因为我们将一个东西拆解以后从最底层来了解整个东西的原理：从消费电子到加密协议。但回过头来想想，如果是从美国的报纸上读到关于黑客的头条呢？
+
+<img src="http://hardenedlinux.org/images/800px-piratenpartei_deutschland_logo-svg.png" alt="Pirate party" />
+
+德国黑客受到了很多的尊重，德国政府经常在 IT 安全，电子投票机，数据自由以及其他类似的领域采纳混沌计算机俱乐部 [(Chaos Computer Club, CCC)](http://ccc.de/en) 的意见。当 CCC 有故事要发布时，那些媒体，甚至和计算机无关的媒体都会去。海盗党 (The Pirate Party)，由名为 c-base 的黑客空间所创办，在2012获得了足够高的投票在4个州议会有了议席，并在欧洲议会有了一个议席。当然了不是每一个德国人都觉得”黑客”是好的，但从媒体的态度、政治以及社会影响上来看比起美国好了太多。
+
+值得思考的是，这是如何实现的以及有什么建议可以给美国的黑客圈子。我没办法说我有所有的答案。部分的文章是为了通过比较引出一个话题。但重要的是思考为什么美国的黑客会被排斥而在德国的黑客就(几乎)和社会的普通群体一样呢，特别是在公开辩论需要更多的技术背景的情况下。
+
+## HACKING ON THE PHONE
+
+<img src="https://hackadaycom.files.wordpress.com/2016/01/war_games.jpg" alt="War games" />
+© Metro-Goldwyn-Mayer Studios Inc. All Rights Reserved.
+
+旁边这张美国黑客的照片是一个男人，甚至可能是一个青少年，独自一人接连几个小时试图攻破 AT&T 公司的系统或者在玩 [War Game](https://en.wikipedia.org/wiki/WarGames)。在20世纪80年代这样的行为没有太大的错误，当然除了孤独的那部分。当时有一群人(phone phreaks)黑了电话，使其能够用来(非法)拨打免费电话。但他们通常团伙行动，彼此分享信息。免费的信息共享在[毁灭军团 (Legion of Doom)](https://en.wikipedia.org/wiki/Legion_of_Doom_%28hacking%29) 创办的 [Technical Journal](http://www.textfiles.com/magazines/LOD/), [Phrack](http://phrack.org/), [2600](http://www.2600.com/) 以及无数的论坛 (BBSes) 中，并且都是开放的，但如果你访问过，这将是一个非常令人激动的事。
+
+在当时，AT&T 对长途电话进行垄断，并且价格很不合理。为了让一群志同道合的技术黑客能够一起进行交流，或者拨入境外的论坛，他们几乎必须要闯入 AT&T 的系统。这也成就了电话网络为当时最有趣也最富有挑战性的信息技术。但常见的关于电话 phreaks 的帖子都围绕着让彼此能够通信，也止步于此。
+
+德国黑客当时也处于非常类似的情况。德国也有电话垄断，但它比美国的 AT&T 限制性更大。在德国，不仅你只有一个电话运营商 ([Deutsche Bundespost](https://en.wikipedia.org/wiki/Deutsche_Bundespost))，而且运营商还是联邦政府所拥有的，也是当时最大的雇主。Bundespost 可以通过法律要求用户使用特定的设备来接入网络,其中包含了一个在80年代来说贵得离谱的调制解调器 (modem)。CCC 早期有一些关于电话 phreaking 是针对 Bundespost，这些的话，我将它归到”肯定会对其的合法性与道德产生争议”的目录，但这些活动同样将价格可接受的 DIY modem 带到了平常人的生活在，让他们能够彼此通信。虽然这个行为在法律上不合法，但我觉得在道德上是正确的，并且从技术上来说，这样的东西太酷了。
+
+<img src="https://hackadaycom.files.wordpress.com/2016/01/akustikkoppler_ccc_datenklo.jpg" alt="akustikkoppler ccc datenklo" />
+DatenkloPhoto: Johann H. Addicks / addicks@gmx.net
+
+[Datenklo](http://www.offiziere.ch/trust-us/habi1/097_datenklo.html) ([谷歌翻译版](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.offiziere.ch%2Ftrust-us%2Fhabi1%2F097_datenklo.html&edit-text=&act=url)) 是一个运行在300比特率基于声音耦合的 DIY modem。它的名字由”数据 (data)”和”厕所 (toilet)”两个单词混合而成。因为用来隔绝话筒的橡胶环和厕所密封管道用的材料大小是一样的。
+
+不好意思，跑题了;-)20世纪80年代早期在美国和德国的黑客行为主要分为”合法”以及”没那么合法”，人群主要为那些热爱探索技术以及热爱数字通信与打印媒体的人。当时所有人都通过电话 phreaking 来对抗运营商的垄断，因此他们能够聚在一起在背后偷偷谈论电话系统是如何运作并不被发现。因为当时最酷的就是进入电话系统。
+
+但接下来旅程变得不一样了。在20世纪90年代，美国的黑客们被排斥并且大多都分散在不同的地方，与此同时德国黑客们已经形成了一个强大的全国性组织，并在几个城市有了分舵。
+
+## 转变 (THE TURN)
+
+在美国，电话 phreaking 的黄金时代在1990年结束了，因为当时美国特勤局查封了很多用来架设论坛以及为黑客们提供服务的服务器。绝大部分的电话飞客 (phreacks) 都潜入地下了。黑客小组被当作“黑帮”来对待，并且在论坛上讨论电话系统内部的原理的人越来越多是为了犯罪而不是为了普通交流。数百台运行着可疑论坛的电脑被扣押数个月到数年，有的甚至都没有被起诉！于此同时美国政府将之前实施的用于保护政府电脑的法律[延伸到了在互联网上的每一台电脑](https://en.wikipedia.org/wiki/United_States_v._Morris_%281991%29)。
+
+<img src="https://hackadaycom.files.wordpress.com/2016/01/us-secretservice-starlogo.png" alt="US Secret Services" />
+
+总的来说，这些事让美国的 hacking ”一夜回到解放前”。Hacking 被认为是犯罪的行为，很多黑客团队都解散了，甚至有一小部分人遭受了牢狱之灾。Hacking 在美国的所有社区都发生了翻天覆地的变化，至少有一段时间变得寂静，或者被迫要在地下世界里才拥有一片小天地。Bruce Sterling 的 [The Hacker Crackdown](https://stuff.mit.edu/hacker/hacker.html) 在 phreaking 的后黄金时代是一本非常经典的编年史。
+
+在1990年，回过头来看[纽约时报在1981年](http://www.nytimes.com/1981/07/26/business/case-of-the-purloined-password.html?pagewanted=3&pagewanted=all)对于黑客已经”过时”的描述，不仅让人感到悲伤：
+
+> 黑客为技术上的专家;技艺精湛，通常很年轻，程序员，总是带着奇思秒想来试探计算机系统的防御系统，总是探寻着机器的极限和可能性，尽管他们总是看起来像是在破坏系统，在计算机行业中是重要的资产，通常来说非常有价值。
+
+公众的舆论已经将黑客认为是离经叛道的人或者是罪犯。
+
+## L0PHT HEAVY INDUSTRIES
+
+<img src="http://hardenedlinux.org/images/l0pht_logo.gif" alt="L0pht" />
+
+但黑客总要 hack 点东西，大量根据地理分布而聚集在一起的黑客团队放弃了本地的活动。在20世纪90年代，[L0pht](http://www.l0pht.com/) 为地上世界“存在”的黑客团队。但问题是这个 “l0pht” 和常见的黑客空间 (hackerspace) 一样：满是垃圾（呃哼，是令人鼓舞的技术原料）还有计算机，满是对所有这些事情感兴趣的聪明家伙们。
+
+在早期，L0pht 有一堆好的文章，比如下面这篇[纽约时报上的文章](http://www.nytimes.com/1999/10/03/magazine/hack-counterhack.html?scp=2&sq=l0pht%20heavy&st=cse)。
+
+可能美国的黑客与政府关系的高潮是当我们看到 l0pht 里的7个成员在美国参议院里为自己涉及美国国家安全的[活动作证](https://www.youtube.com/watch?v=VVJldn_MmMY)。参议员 Fred Thompson 为了减少打击介绍他们为“黑客智库”给其他参议员。有趣的是，最开始 L0pht 与政府扯上关系只是一个由 [Mudge 实施的防御演习](https://www.youtube.com/watch?v=axnWyPEly84&t=11m42s)，是为了提升名气并避免任何误解（不想被抓）。
+
+来自 L0pht 的人们最后成为了 Full Disclosure 的早期拥护者，不管是[负责任的揭露](https://en.wikipedia.org/wiki/Responsible_disclosure)还是其他的形式。在20世纪90年代，他们的 advisories 是每一个对 hacking 和计算机安全有兴趣的人必读的读物。尽管 L0pht 所从事的事情并非所有都是严格意义上来说合法的，但可以确定的事他们正在做正确的事：正处于混沌中立与混沌善良之间。华盛顿邮报写了一个[关于 l0pht 的文章](http://www.washingtonpost.com/sf/business/2015/06/22/net-of-insecurity-part-3/)应该在你的阅读列表当中。
+
+我觉得 l0pht 最厉害的事为他们成为了一个“存在实体”的团队，而且他们对于修复有问题的东西有着强烈的动力，因为他们在公众中有着很高的知名度，所以他们清楚他们正在被监视。这是他们脚踏黑白两道的标志。而且，他们是有组织有计划的。
+
+L0pht 不再是一个民间的 hackerspace，转而成为一个安全企业。他们成员根据自己商业模式不同都分离出去了。可以这么说，L0pht 这个团队的后期，根据利益点的不同，有的成为 hacking 认证的商业公司，有的成为安全企业。在20世纪90年代后的美国，”hacking” 在商业上并不成功。白帽黑客（也就是我们所知的“安全研究员”）和黑帽黑客之间的分歧越来越明显。一面是高薪，一面是合法的环境，在这样的大环境下，留给像 l0pht 这样处于中间的机会已经不多了。这对于美国的黑客文化是一个非常危险坑，特别是对于那些没有足够的水平到喜欢玩弄计算机的年轻人。在整个文化中，他们要处于什么位置呢？
+
+## TODAY THE USA, TOMORROW GERMANY
+
+在美国的黑客文化中，从开放和社区化到全面潜入地下 (underground) 绕了很长的远路(除了剩下几个在公众的视野当中)。明天，我将从19世纪80年代开始，讲述同一时期德国的黑客历史，讨论一下两国的黑客场景以及美国的黑客可以从中学习的地方。如果你同意这个观点，在美国的黑客场景下还有很多工作可以做。敬请期待。
+
+***
+
+从电话飞客的根源，到对黑客活动的镇压以及法律案例，使得黑客开始转入地下活动（或者下海经商）。美国的黑客文化在过去的三十年中已经得到了很多关注。关注度最高的大概是 L0pht，一个九十年代显著的黑客空间，他们参与漏洞的公开披露，并且有争议地被认为是美国最后一个有公众影响力的黑客组织。
+
+美国黑客的细节已经[在我昨天的文章中](http://hardenedlinux.org/translation/2016/02/12/Hackers-and-heroes-a-tale-of-two-countries.html)详细讲述了，并以一段后记结束。L0pht 已经绝尘而去，而且据我所知，此后没有其他组织将社会责任和公众影响力相匹配了，这对黑客来说简直是耻辱 —— 现在的美国，许多黑客相关问题正在表决，但很大程度上并没有听取我们的想法。
+
+## 混沌计算机俱乐部（CCC）
+
+但先让我们把目光从美国转向德国。在八十年代早期，德国像美国一样，有许多本地计算机俱乐部，充其量也就是每个月吃顿饭，有一个科技馆或者（对于 CCC 来说）一个新闻办公室。早期计算机爱好者无偿地交换知识和软件，至少在美国，比起找地方聚会以外，并没有什么正式安排：时间已经定好了，还能有啥？
+
+德国精神则有些不同，你可以在同伙中找到 “Vereinsmentalität”，一种“俱乐部思想精神”。基本上，在德国能找到的任何兴趣爱好和体育运动，都有一个有组织的俱乐部可供加入。例如冬季两项运动、养蜂、水彩画或者 hacking，德国人喜欢组织起来一同做有趣的事情。
+
+因此在1981年，CCC 诞生为一个非正式本地黑客俱乐部，然后开始在汉堡进行定期聚会。在1984年，他们举办了第一届混沌通讯大会 —— 一个圣诞节之后的年会，如今已经是第32年了。几年前，CCC 作为一个正式组织进行了登记，但除了单纯的 “Vereinsmentalität” 以外，还有更多的东西。
+
+翻译自[CCC网站](http://www.ccc.de/de/club)：“为了消除我们法律方面的误解，CCC 是一个促进信息自由，和保护人权至少是全球通讯不受阻碍的人权，而进行注册登记的 e.V（e.V, Eingetragener Verein，注册组织，德国组织的一种法律地位）。”请注意这里的关键词：“消除法律方面的误解”。可见，虽然在最初五年 CCC 还只是个非正式组织，但他们已经搞了些在法律上可能有大麻烦的耀眼黑客行动 —— 毫无疑问，几年之后美国也会这样的。但讽刺的是，这种先发制人的地上公开活动而不是隐藏自己，反而使他们得到了一些保护。
+
+如果你[将 CCC 成为注册组织的原因和政府盯上 L0ph 成员的 Mudge 的原因进行比较](http://hardenedlinux.org/translation/2016/02/12/Hackers-and-heroes-a-tale-of-two-countries.html)，你就会立刻理解本文的要点。公开负责的黑客组织，比起一个“黑帮”或者一个不见阳光的组织，可是冒着被指控的危险而活动的。想想看，有多少黑帮取得了非营利组织的法律资质（501c3）?同时，如果媒体记者或者国会议员有疑问，他们可以毫不费力地去找他们问问。黑客就这样成为了社团成员。
+
+CCC 在这点上做得十分在行，他们偶尔推出的出版物提醒他们记住：真正将他们聚在一起的力量，“Spaß am Gerät”，玩转机器的乐趣，也就是 happy hacking。
+
+<img src="http://hardenedlinux.org/images/logo_ccc.png" alt="CCC Logo" />
+Kabelsalat ist gesund! 这张 CCC Logo 提醒你，桌子底下的一团电缆是利于健康的。
+
+## BTX Hack
+
+就在 CCC 像其他俱乐部一样诞生时，一些早期的高调 hacks 帮忙找到了俱乐部的方向，也让作为普通人一面的他们塑造了他们的公众形象。我并不是说所有人的动机都是纯正的或者光明磊落的，但就像 L0pht 后来在美国一样，CCC 也成为了网络新闻中关于安全漏洞的公开信息来源。CCC 将这些安全漏洞一律公开，而不考虑它们会造成什么样的潜在后果。而且，如果蒙受损失的是黑客们的头号大敌 —— 德国邮政 (Bundespost)，也不会损害黑客的声誉。
+
+<img src="https://hackadaycom.files.wordpress.com/2016/01/posthorn_montage.png" alt="Posthorn Montage" />
+左图：德国邮政 Logo。右图：CCC 海盗旗。看懂了吧？
+
+德国邮政是一个德国黑客喜爱的目标。这家曾经的政府垄断企业，就像美国的 AT&T 一样，大都会收取高昂的费用，因为他们能够这么做。上次的文章曾提到过，德国邮政禁止进口调制解调器（modem, “猫”），强迫德国人购买更贵的“官方”版本。电话费，在那个时代也就是流量费，也非常昂贵，即使是个普通人也想找到一个邮政的替代。理想主义黑客，比如 CCC 的创始人 Wau Holland 就想要个免费替代。
+
+1984年的目标是 Bildshirmtext。Bildshirmtext 简称 BTX，是当时很先进的拨号连接服务，类似于美国早期的 Compuserve。在当时被政府垄断的电话公司中，BTX 仅此一家，而且相对昂贵。
+
+<img src="http://hardenedlinux.org/images/btx1.jpg" alt="Bildshirmtext" />
+
+在 CCC 的创始人 Wau Holland 和 Steffen Wernéry 发现了一个缓冲区溢出漏洞之后，故事就开始了。这个漏洞使得他们可以截获没有加密的数据和密码，全部都是明文的。在找过德国邮政并被无视之后，他们发起了一次浩大的黑客活动，并且上了 ZDF——德国第二大的全国电视台——在晚间新闻中现身。Holland 和 Wernéry 获取了汉堡一家银行的密码，并反复用银行的账户为 CCC 办理了 BTX 的收费业务。在挥霍了136000德国马克之后，他们去找了记者（自然，他们也把钱都还给了银行）。
+
+针对重要系统发起了[高调黑客活动](http://www.spiegel.de/einestages/btx-hack-1984-angriff-der-ccc-hacker-gegen-die-bundespost-a-1002443.html)（[Google 翻译链接](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.spiegel.de%2Feinestages%2Fbtx-hack-1984-angriff-der-ccc-hacker-gegen-die-bundespost-a-1002443.html&edit-text=&act=url])），上了新闻，这改变了游戏规则。汉堡银行对他们关于潜在安全问题的提醒表示感谢，德国邮政不得不在几天内做出回应，称他们已经修复了这个缺陷。但是猫已经从袋子里放出来了，公众开始对他们的数据安全进行更多的反思。CCC 则成为了拨号世界的罗宾汉。
+
+对新闻媒体的直言不讳，使得 CCC 在绝大多数时候位于法律和公共观点中正确的一方。例如，当媒体问及警方是否知道他们的举措时，Holland 回应称，他已经将 CCC 的新闻通讯，[die datenschleuder](http://ds.ccc.de/download.html): the “data-flinger”，寄给了巴伐尼亚警察局的计算机犯罪科。媒体将 CCC 以及一般意义上的黑客，作为公民社会中对那些声称数据一切安全的大企业的必要制约。
+
+通过这一具有公共影响力的高调黑客活动，促进了更多的 happy hacking。CCC 的成员数量迅速增长，并且在汉堡以外设立了许多卫星俱乐部。如今，CCC 在德国有25个支部，超过5500名成员。毫无疑问，CCC 是德国或许乃至世界最大的计算机俱乐部。而且由于他们对影响到所有人的技术，从 BTX 到[计算机投票系统](http://www.ccc.de/en/updates/2009/wahlcomputer-urteil-bverfg)进行公开试探，因此媒体和社会，有时甚至是政府都会听取他们的声音。
+
+<img src="http://hardenedlinux.org/images/ccc_holland-shot0002.jpg" alt="Wernéry and Holland" />
+
+Wernéry 和 Holland 以及一堆显示器，电视一频道的黄金时间。
+
+## 黑客空间，德国带给美国（以及世界）的馈赠
+
+通过探讨 CCC 带给我们的东西，说来也怪，让我们重新转向了美国。不管你有没有意识到，CCC 在德国的25个支部（还包括位于柏林的 [c-base](http://c-base.org/)，维亚纳的 [metalab](https://metalab.at/) 这两个独立但友好的组织），事实上是我所说的美国黑客空间新浪潮的原型。
+
+一群美国黑客，包括 Bre Pettis, Nick Farr, 和 Mitch Altman，[在2007年参与了混沌通讯夏令营](http://www.wired.com/2007/08/us-hackers-moun/)，并游览了德国和奥地利的黑客空间，以了解他们为什么会那样，并且想要将这些思想带回美国。在2007年12月举办的第24届混沌计算机大会，关于如何运作一个黑客空间，一切对他们来说都是崭新的，因此混沌计算机俱乐部科隆和杜塞尔多夫支部的创始人 Jens Ohlig 和 Lars Weiler 为帮助他们的美国朋友，举办了一个题目为[《建设黑客空间》](https://www.youtube.com/watch?v=8lywXCZogsg)的演讲。
+
+这个演讲的幻灯片[《黑客空间设计模式》](http://events.ccc.de/congress/2007/Fahrplan/attachments/1003_Building%20a%20Hacker%20Space.pdf)，成为这三人引领美国黑客空间新浪潮的起点。在2008年2月，营利组织 [NYC Resistor](http://www.nycresistor.com/) 开张营业，3月，非营利组织 [HacDC](http://www.hacdc.org/) 成立，开始进行非营利活动。尽管他们在这里和那里聚会有一段时间了，在2008年10月，[Noisebridge](https://www.noisebridge.net/) 租借了一个场地，并在六个月内紧接其后，成立为一个非营利组织。
+
+<img src="http://hardenedlinux.org/images/hackersonaplane2.jpg" alt="Hackers On Plane" />
+
+在这些年中，有成百的黑客空间在美国建立。如今，[在 hackerspace.org 上，全美国有406个登记活跃的黑客空间](https://wiki.hackerspaces.org/w/index.php?title=Special:Ask&offset=0&limit=500&q=[[Category%3AHackerspace]]+[[country%3A%3AUnited+States+of+America]]+[[hackerspace+status%3A%3Aactive]]&p=format%3Dul%2Fdefault%3D-27-27There-20is-20no-20known-20hackerspace-20in-20this-20country.-27-27&po=%3FCity%0A%3FState%0A%3FWebsite%0A%3FResidencies%0A&sort=Last+Updated)，在全世界则有超过1200 个。八年时间内的如此成果显然不差！如果你还没有参与到本地的黑客空间中，这对你来说是笔损失。
+
+因为不同成员的品味不同，每个黑客空间都稍有区别。我不知道黑客空间和创客空间的明显界限在哪里，但似乎有些组织更注重硬件项目，而其他则专注计算机和信息自由。我的个人体验是，严格的界限并不存在，而且每个空间的强项会随着时间推移而变化。
+
+这是件好事，因为当人们乐于 hacking 自己感兴趣的东西时，他们的生产力也最高，并且有机会为他们的工作进行异花授粉保证新鲜度。例如 HacDC 的早期，我们曾经有一段关于高空气球的美好时光，因为它能使我们这些搞硬件的，与业余无线电甚至是网络开发的人拼凑起来，共同参与到一个实时地图测绘的好项目上。但同时，HacDC 也企划了[拜占庭计划](http://project-byzantium.org/)，一个易配置的临时 mesh 无线网络解决方案。
+
+但是，我虽然热爱美国黑客空间在过去十年中雨后春笋般的出现，以及我访问的每个黑客空间各自的特色，我不得不说美国缺失了一些东西：一个更大的组织和目的。如果400+个美国黑客空间众志成城，他们将会取得多酷的成果怎么高估都不过分。
+
+<img src="https://hackadaycom.files.wordpress.com/2016/01/800px-hackerspacesteedesign.jpg" alt="HackerSpaces" />
+
+## USA-CON!
+
+所以下一步怎么走？美国队？虽然让全美的400+个黑客空间都达成共识是极端困难的，但想象一下，如果能让他们能偶尔一同发出声音会有多大的好处？但如何开始？怎么才能将这个混沌组织起来？
+
+你想知道德国人是怎么做的吗？最初是一个年度大会，随后则专门成立一个组织来负责协调会议。你会被一个年度大会促成的专注和团队合作所惊讶到。一个年度活动给了团队一个最后期限去共同努力，其中的重要性我就不必说了。而且，一个年度大会给了他们物理聚会和获得乐趣的机会，而这显然是不能被轻视的。
+
+不知道你们有什么共同点？你从[黑客伦理](https://en.wikipedia.org/wiki/Hacker_Ethic)开始并不算个坏主意，你不妨试试。黑客伦理从 MIT 那些贡献计算机资源的日子产生绝非偶然，并随后成了德国 CCC 的基根:
+
+对计算机的使用 —— 以及任何能让你了解到这个世界的事物 —— 应该是全面的和无限制的。总是要为势在必行的上机操作让路。
+
+> + **一切信息应当是自由的。**
+>
+> + **不信任权威，提倡去中心化**
+>
+> + **黑客应该以他们本身的 hacking 作为评价标准，而不是学位、年龄、种族或地位。**
+>
+> + **你可以用计算机创造美和艺术。**
+>
+> + **计算机能使生活变得更美好。**
+
+并至少考虑一下 CCC 的两点附加条件：
+
+> + **不要对他人的数据插手**
+>
+> + **使用开放数据，保护私人数据。**
+
+*（本文作者 Elliot 是 HacDC 的创始成员，并且缴纳 CCC 慕尼黑支部会费，尽管可耻的是他在相当长一段时间里再也没去过）*
