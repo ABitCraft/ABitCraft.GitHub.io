@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>如何成为一名黑客 &#8211; BITandLiteracy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Crafting tools. Crafting code. ">
+    <meta name="author" content="AppU">
+    <meta name="keywords" content="翻译">
+    <link rel="canonical" href="http://BITandLiteracy.github.io/hacker-howto">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for BITandLiteracy" href="/feed.xml" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css?201604251528" type="text/css">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" media="all" href="/css/han.min.css?201604251528" type="text/css">
+
+    
+
+    <!-- Icons -->
+    <link rel="icon" type="image/png" href="/favicon.png" sizes="96x96">
+
+    
+</head>
+
+<body class="site">
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://BITandLiteracy.github.io" class="site-title">BITandLiteracy</a>
+      <a href="/about/">关于</a>
+      <nav class="site-nav">
+        <a href="/essays/">Essays</a>
+<a href="/archive/">Archive</a>
+<a href="/about/">About</a>
+
+      </nav>
+
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+<div class="post-header mb2">
+  <h1>如何成为一名黑客</h1>
+  <span class="post-meta">Dec 4, 2014</span><br>
+    
+  <span class="post-meta small">
+  
+    6 minute read
+  
+  </span>
+</div>
+
+<article class="post-content">
+  <p>Eric Steven Raymond</p>
+
+<p><a href="http://www.catb.org/~esr/">Thyrsus Enterprises</a></p>
+
+<p><a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#101;&#115;&#114;&#064;&#116;&#104;&#121;&#114;&#115;&#117;&#115;&#046;&#099;&#111;&#109;">&#101;&#115;&#114;&#064;&#116;&#104;&#121;&#114;&#115;&#117;&#115;&#046;&#099;&#111;&#109;</a></p>
+
+<p>Copyright © 2001 Eric S. Raymond</p>
+
+<div class="row">
+<div class="span2">
+<table class="table table-bordered table-striped table-condensed">
+<tr><th align="left" colspan="3">版本历史</th></tr>
+<tr><td align="left">版本 1.50</td><td align="right">2015-07-19</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">添加链接"Let's Go Larval"</td></tr>
+<tr><td align="left">版本 1.49</td><td align="right">2014-11-21</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">添加链接"How To Learn Hacking"</td></tr>
+<tr><td>版本 1.48</td><td align="right">2014-06-19</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">freshmeat/freecode项目死了。</td></tr>
+<tr><td>版本 1.47</td><td align="right">2014-05-20</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">修正几个过时的链接。加入一个黑客空间吧！</td></tr>
+<tr><td>版本 1.46</td><td align="right">2013-09-25</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">添加微赞助说明和gittip链接。为什么你们非要请教我关于你们如何开始呢。</td></tr>
+<tr><td>版本 1.45</td><td align="right">2013-05-12</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">Open Solaris并不开放，Unity糟糕透顶。</td></tr>
+<tr><td>版本 1.44</td><td align="right">2012-05-20</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">更新了对Java的评论。</td></tr>
+<tr><td>版本 1.43</td><td align="right">2011-02-07</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">2010年Python在受欢迎程度上超过Perl。</td></tr>
+<tr><td>版本 1.42</td><td align="right">2010-10-22</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">添加"Historical note"一节。</td></tr>
+<tr><td>版本 1.40</td><td align="right">2008-11-03</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">修正链接。</td></tr>
+<tr><td>版本 1.39</td><td align="right">2008-08-14</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">修正链接。</td></tr>
+<tr><td>版本 1.38</td><td align="right">2008-01-08</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">弃用Java作为一门早期要学的语言。</td></tr>
+<tr><td>版本 1.37</td><td align="right">2007-10-04</td><td align="right">esr</td></tr>
+<tr><td align="left" colspan="3">推荐新手使用Ubuntu这一Unix发行版。</td></tr>
+</table>
+</div>
+</div>
+
+<ul id="markdown-toc">
+  <li><a href="#section" id="markdown-toc-section">为什么会有这份文档？</a></li>
+  <li><a href="#section-1" id="markdown-toc-section-1">什么是黑客？</a></li>
+  <li><a href="#section-2" id="markdown-toc-section-2">黑客的态度</a>    <ul>
+      <li><a href="#section-3" id="markdown-toc-section-3">⒈这个世界充满着令人着迷的问题等待解决。</a></li>
+      <li><a href="#section-4" id="markdown-toc-section-4">⒉同样的问题不该被解决两次。</a></li>
+      <li><a href="#section-5" id="markdown-toc-section-5">⒊拒绝枯燥和单调。</a></li>
+      <li><a href="#section-6" id="markdown-toc-section-6">⒋崇尚自由。</a></li>
+      <li><a href="#section-7" id="markdown-toc-section-7">⒌态度不能代替能力。</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-8" id="markdown-toc-section-8">基本黑客技能</a>    <ul>
+      <li><a href="#section-9" id="markdown-toc-section-9">⒈学会编程。</a></li>
+      <li><a href="#unix" id="markdown-toc-unix">⒉获取开源的Unix系统并学会使用。</a></li>
+      <li><a href="#html" id="markdown-toc-html">⒊学会使用万维网与编写HTML。</a></li>
+      <li><a href="#section-10" id="markdown-toc-section-10">⒋如果你还没有足够实用的英语，学会它。</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-11" id="markdown-toc-section-11">提高自己在黑客圈的地位</a>    <ul>
+      <li><a href="#section-12" id="markdown-toc-section-12">⒈编写开源软件</a></li>
+      <li><a href="#section-13" id="markdown-toc-section-13">⒉帮助测试并调试开源软件</a></li>
+      <li><a href="#section-14" id="markdown-toc-section-14">⒊发布有用的信息</a></li>
+      <li><a href="#section-15" id="markdown-toc-section-15">⒋帮助维护基础设施的运转</a></li>
+      <li><a href="#section-16" id="markdown-toc-section-16">⒌为黑客文化本身服务</a></li>
+    </ul>
+  </li>
+  <li><a href="#nerd-" id="markdown-toc-nerd-">黑客与书呆子 (Nerd) 的关系</a></li>
+  <li><a href="#section-17" id="markdown-toc-section-17">风格的要点</a></li>
+  <li><a href="#section-18" id="markdown-toc-section-18">历史记录：黑客活动、开源及自由软件</a></li>
+  <li><a href="#section-19" id="markdown-toc-section-19">其他资源</a></li>
+  <li><a href="#faq" id="markdown-toc-faq">FAQ（常见问题）</a></li>
+</ul>
+
+<p><em>参照<a href="http://idarkside.org/docs/hacker-howto.html">柯非</a>(1.49)和<a href="http://translations.readthedocs.org/en/latest/hacker_howto.html">Wang Dingwei</a>(1.43)的译文以及《大教堂与市集》一书所附录的翻译（版本未知，猜测为原版书印刷时的版本），语句方面有不少调整，目的是探究作者本意，推荐有兴趣的人相互对照来读，欢迎交流指正。</em></p>
+
+<hr />
+
+<h2 id="section">为什么会有这份文档？</h2>
+
+<p>身为<a href="http://www.catb.org/jargon">Jargon File</a>（黑客词典）和其他几篇广为流传的同类文章的作者，我常收到热心的网络新手的邮件，问及（大意上是）“我如何才能成为一名魔法师般的黑客？”。1996年的时候我注意到没有任何相关的 FAQ 或文档页面谈及这个重要的问题，所以我写下了这一份。许多黑客认为它是最权威的，我猜想那就表示它就是如此吧。然而，我并不声称是这一话题上的独家权威，如果你不喜欢在这里读到的内容，那就去写一篇你自己的。</p>
+
+<p>如果你读到的是这份文档的离线拷贝，可以在<a href="http://catb.org/~esr/faqs/hacker-howto.html">http://catb.org/~esr/faqs/hacker-howto.html</a>找到本文的最新版本。</p>
+
+<p>注意：文档的结尾有一份<a href="#FAQ">常见问题列表</a>。请在向我发邮件询问关于本文的任何问题前再三阅读。</p>
+
+<p>目前这份文档有许多翻译版本：<a href="http://www.slashproc.net/doc/howto-ar.html">阿拉伯语</a>、<a href="http://moneyaisle.com/worldwide/how-to-become-a-hacker-be">白俄罗斯语</a>、<a href="http://zer4tul.github.io/docs/hacker-howto.html#hacker-howto">中文</a>、<a href="http://jjk.kybli.net/projekty/jakse-stat-hackerem.html">捷克语</a>、<a href="http://www.olemichaelsen.dk/hacker-howto.html">丹麦语</a>、 <a href="http://www.knudde.be/index.php?page_name=hacker_howto">荷兰语</a> 、<a href="http://www.kakupesa.net/hacker/">爱沙尼亚语</a>、<a href="http://www.linuxtaskforce.de/hacker-howto-ger.html">德语</a> 、<a href="http://users.otenet.gr/~indy90/hacker-howto-gr/">希腊语</a>、<a href="http://www.victorfleur.com/documents/hacker.html">意大利语</a> 、<a href="http://he.wikisource.org/wiki/איך_להיות_האקר">希伯来语</a>、 <a href="http://cruel.org/freeware/hacker.html">日语</a>、<a href="http://rtfb.lt/hacker-howto-lt.html">立陶宛语</a>、<a href="http://stian.atlantiscrew.net/doc/hacker-howto.html">挪威语</a> 、<a href="http://ashiyane.org/forums/showthread.php?t=20570">波斯语</a>、<a href="http://jvdm.sdf.org/pt/raquer-howto">巴西葡萄牙语</a>、<a href="http://garaj.xhost.ro/hacker-howto/hacker-howto.ro.htm">罗马尼亚语</a> 、<a href="http://www.sindominio.net/biblioweb/telematica/hacker-como.html">西班牙语</a> 、<a href="http://www.belgeler.org/howto/hacker-howto/hacker-howto.html">土耳其语</a> 以及 <a href="http://www1.tripnet.se/~mly/open/faqs/hacker-howto.se.html">瑞典语</a>。请注意，由于本文不定期更新，这些翻译版可能存在不同程度的过时。</p>
+
+<p>装饰本文的“五点九宫格”图像被称作<em>“glider”</em>。在一种叫做<a href="http://dmoz.org/Computers/Artificial_Life/Cellular_Automata/">生命游戏（LIFE）</a>的数学模型中，这个简单的样本有一些异乎寻常的特性，多年以来黑客们一直为此着迷。我想它对黑客的象征意义来说是一个很好的视觉徽记——抽象，初见时感觉稍微神秘，通过本身错综复杂的逻辑可以通向整个世界。<a href="http://catb.org/~esr/hacker-emblem/">这里</a>可以阅读更多有关glider的信息。</p>
+
+<p>如果你觉得这篇文章有价值，烦请<a href="http://gittip.com/esr">在 Gittip 给我一点赞助</a>。也请考虑赞助其他为你提供了有价值代码的黑客。小额的赞助也能够聚沙成塔，使为你提供帮助的人从繁重的劳动中解放出来，创造更多的价值。</p>
+
+<p><a name="what_is" id="what_is"></a></p>
+
+<h2 id="section-1">什么是黑客？</h2>
+
+<p><a href="http://www.catb.org/jargon">Jargon File</a>讲了一大堆“hacker”这个术语的定义，大多都涉及“技术高超”“热衷于解决问题”以及“达到极致程度”这样的描述。如果你想知道如何 <em>成为</em> 一名黑客的话，真正重要的只有两点。</p>
+
+<p>这可以追溯到数十年前第一代分时小型机刚刚诞生, 而ARPAnet实验还处于最初阶段，那时形成了一个由编程行家和网络巫师所组成的，以崇尚分享文化为特征的社群。这一群体的成员们创造了“hacker”这个用语。黑客们构建了互联网，黑客们造就了Unix操作系统今天的样子，黑客们让万维网发挥作用。如果你是这种文化的一部分，如果你对这一文化有所贡献，并且社群其他人都知道你又称你为”hacker”，那你便是一名黑客。</p>
+
+<p>黑客的观念并不只局限于软件黑客的文化圈。也有很多人把黑客的态度用于其他事情，比如电子或音乐——事实上，你可以在最高水平的任何科学或艺术中发现黑客观念。要是软件黑客认出其他领域的同道中人也会把他们称作黑客——也有人宣称黑客的本质是完全独立于他们从事的特定媒介的。然而在这份文档中，我们将专注于讨论软件黑客的技能和态度，以及开创“黑客”这一用语的分享文化的传统。</p>
+
+<p>还有另外一群人往往高调宣称他们自己也是黑客，但他们根本不是。他们（大都是些毛头小子）只是一类蓄意破坏计算机和电话系统的人。真正的黑客把这些人称作“骇客”(cracker)，且不屑与之为伍。黑客们大多认为骇客们懒惰、不负责任并且也不是十分明智，有能力侵入安全系统并不能使你成为黑客，正如会热线发动汽车并不意味着你是汽车工程师一样。不幸的是，许多记者和作家往往错把骇客描述成“黑客”；这使真正的黑客们恼火不已。</p>
+
+<p>根本的区别是：黑客搞建设，骇客搞破坏。</p>
+
+<p>如果你想成为一名黑客，请继续读下去。如果你只想做一个骇客，那就去读<a href="news:alt.2600">alt.2600</a>新闻组并准备好进5到10次监狱直至你认识到自己并不如你所想象的那样聪明能干。关于骇客，我所能说的就只有这点。</p>
+
+<p><a name="attitude" id="attitude"></a></p>
+
+<h2 id="section-2">黑客的态度</h2>
+
+<p><a href="#believe1">⒈这个世界充满着令人着迷的问题等待解决。</a><br />
+<a href="#believe2">⒉同样的问题不该被解决两次。</a><br />
+<a href="#believe3">⒊拒绝枯燥和单调。</a><br />
+<a href="#believe4">⒋崇尚自由。</a><br />
+<a href="#believe5">⒌态度不能代替能力。</a></p>
+
+<p>黑客们解决问题，建设事物，同时他们崇尚自由且自愿地相互帮助。想要被认可为一名黑客，你的行为必须要表现出你自身已经具备了这样的态度。而想要表现出你具备了这样的态度，你就得真正认同这样的态度。</p>
+
+<p>但是，如果你认为培养黑客态度只是作为取得文化圈中得到认可的方式，那你就大错特错了。成为真正具备这种素质的人对 <em>你</em> 非常重要——这将有助于有助于你深入学习并激励你不断前行。和所有创造性的艺术一样，成为大师的最有效方法，就是模仿大师的观念模式——不止是智力上的，还包括感情上。</p>
+
+<p>或者正如下面这首现代的禅诗所讲的：</p>
+
+<pre><code>
+To follow the path:
+沿着这样一条道路：
+look to the master,
+瞻念大师（的言行），
+follow the master,
+追随大师（的举动），
+walk with the master,
+与大师（一）同（修）行，
+see through the master,
+洞察大师（的意境），
+become the master.
+成为（你所想成为的）大师。
+</code></pre>
+
+<p>所以，如果你想成为一名黑客，重复以下的事情直到你真正信奉它们：</p>
+
+<p><a name="believe1" id="believe1"></a></p>
+
+<h4 id="section-3">⒈这个世界充满着令人着迷的问题等待解决。</h4>
+
+<p>做一名黑客是会有很多乐趣的，但这些乐趣需要付出相当的努力才能获得。这些努力需要动力。成功的运动员从他们身体的运行以及推动自身超越生理极限时身体上的愉悦中获得动力。同样，作为一名黑客，你也可以从解决问题、磨练技能以及锻炼智力中得到这种基本层面的触动。</p>
+
+<p>如果你天生不是这样的人，那你需要设法变成这样的人以使你能够成为一名黑客。否则你就会发现你的精力会被诸如性、金钱、社会上的虚名这些让你分心的东西所消磨掉。</p>
+
+<p>（你还必须对自己的学习能力树立信心——这种信念使你相信，尽管你所掌握的知识可能不足以解决你当前的问题，可一旦你从问题的一小部分入手并从中学习，你将会学到足够的知识用来解决下一部分——如此往复，直到整个问题都会被你解决。）</p>
+
+<p><a name="believe2" id="believe2"></a></p>
+
+<h4 id="section-4">⒉同样的问题不该被解决两次。</h4>
+
+<p>创造性的头脑是一种无比珍贵且稀缺的资源。考虑到世上还有如此之多令人着迷的新问题有待解决时，它们绝对不应该被浪费在重复发明轮子的事情上。</p>
+
+<p>作为一名黑客，你必须相信其他黑客的思考时间是宝贵的——因此共享信息、解决问题并发布结果几乎是一种道德义务，这样别的黑客们就能够去解决 <em>新的</em> 问题，而不是无休止地在应付老问题了。</p>
+
+<p>注意，“同样的问题不应被解决两次”并不是说你必须认为所有已有方案都是最优的，或是说每个给定的问题只有唯一正确的解决方案。通常我们都能从一个问题的最初解决方案中学到很多东西。这很对，并且这对我们思考如何能做得更好来说，通常也是必要的。我们所反对的是人为地在技术上、法律上或制度上设置障碍（例如闭源软件），因为那会使得一个好的方案不能被重复利用，<em>迫使</em> 人们重复发明轮子。</p>
+
+<p>（这并不是在说你有义务必须把你 <em>所有的</em> 创造发明都免费发布出去，即便这样做的黑客会赢得大家极度的尊敬。然而换取足够的财物来获得食物、房租和电脑与黑客价值也是一致的。用你的黑客技能养家糊口甚至发财致富都是可以的，只要你别忘记你对自己的作品和你的黑客群体的责任。）</p>
+
+<p><a name="believe3" id="believe3"></a></p>
+
+<h4 id="section-5">⒊拒绝枯燥和单调。</h4>
+
+<p>黑客（以及富有创造力的人们）都不应当被愚蠢的重复性劳动所困扰，因为一旦出现这样的情况就意味着他们没能在做只有他们才能做的事情——解决新问题。这样的浪费会伤害所有人。毕竟枯燥和单调的工作不仅是令人不快，而且它们本身就是一种罪恶。</p>
+
+<p>作为一个黑客，你必须坚信这一点并尽最大可能地将枯燥的工作自动化，这不仅是为了你自己，也是为了其他人（尤其是其他黑客们）。</p>
+
+<p>（对此有一个明显的例外。黑客们有时候为了休息大脑、练习技能或是某种除此以外无法获取的体验，也会做一些看起来是重复或枯燥的事情。但这是自愿的——有脑子的人就不应该被逼进入那种枯燥的状态。）</p>
+
+<p><a name="believe4" id="believe4"></a></p>
+
+<h4 id="section-6">⒋崇尚自由。</h4>
+
+<p>黑客们天生是反独裁主义者。任何能向你发号施令的人都能够迫使你停止去解决令你着迷的任何问题——同时，按照独裁主义头脑的一般方式，他通常会给出一些极端愚昧的理由来。因此，不论何处，只要面对任何独裁主义的态度你都要抗争到底，不要让它抑制到你和其他的黑客。</p>
+
+<p>（这并非是向所有权威挑战。儿童需要被监护，罪犯需要被管制。如果服从某种权威可以直接得到某些东西而不是要付出更多的时间，黑客可以接受某种形式的权威。但这是一个有限度的，有意识的交易；那种独裁主义者想要的个人服从是不在这个考虑范围的。）</p>
+
+<p>独裁主义者喜欢审查和保密。他们不信任自愿的合作与信息的共享——他们只喜欢由他们控制的所谓“合作”。因此，作为一个黑客，对于审查、保密以及使用暴力或欺骗去强迫有行为能力的人们的做法，你必须培养出一种本能的敌意。同时你还要有为此信念付出行动的意愿。</p>
+
+<p><a name="believe5" id="believe5"></a></p>
+
+<h4 id="section-7">⒌态度不能代替能力。</h4>
+
+<p>作为一名黑客，你必须培养出这些态度。但只拿出这些态度并不能使你成为一名黑客，也不能让你成为一个运动健将或摇滚明星。成为一名黑客需要智慧、实践、奉献以及努力工作。</p>
+
+<p>因此，你必须学会怀疑态度，并学会尊重各种不同的能力。黑客们不会为装模做样的人浪费时间，但他们非常尊崇能力——尤其是从事黑客工作的能力，不过任何能力都是有价值的。如果能具备少有人能掌握的技能特别好，如果你具备同时需要敏锐的头脑、精湛的技艺以及高度的专注才能掌握的技能就最好了。</p>
+
+<p>如果你推崇能力，你就会享受到提高自身能力所带来的乐趣——辛苦的工作和奉献将不再是单调的苦差事，而会是一项激烈的比赛。这是成为黑客至关重要的一点。</p>
+
+<h2 id="section-8">基本黑客技能</h2>
+
+<p><a href="#skills1">⒈学会编程。</a><br />
+<a href="#skills2">⒉获取开源的Unix系统并学会使用。</a><br />
+<a href="#skills3">⒊学会使用万维网与编写HTML。</a><br />
+<a href="#skills4">⒋如果你还没有足够实用的英语，学会它。</a></p>
+
+<p>黑客的态度是决定性的，但技能更加关键。态度不能替代能力，在你能被自己想要成为的黑客称你为黑客之前，你必须先掌握一套基本的技能。</p>
+
+<p>这套基本技能的内容随着时间的推移与新老技术的交替也在缓慢地改变。比如过去的技能包括了使用机器语言编程，而直到最近才把HTML包含进去。总之当前是非常明确地包含以下内容：</p>
+
+<p><a name="skills1" id="skills1"></a></p>
+
+<h4 id="section-9">⒈学会编程。</h4>
+
+<p>理所当然，这是最基本的黑客技能。如果你还不会任何编程语言，我建议你从Python开始学习。它设计整洁，文档详尽，并且对初学者相当友好。尽管它是一门很好的入门语言，但它可不只是一个玩具；它非常强大和灵活，并且适用于大型项目。我写过一篇更详细的<a href="http://www.linuxjournal.com/article.php?sid=3882">对Python的评价</a>。在<a href="https://docs.python.org/2/tutorial/">Python 网站</a>可以找到很好的<a href="http://docs.python.org/tut/tut.html">入门教程</a>。在<a href="http://cscircles.cemc.uwaterloo.ca/">Computer Science Circles</a>有一篇极好的第三方教程。</p>
+
+<p>我曾经推荐过将Java作为不错的入门语言，但<a href="http://www.crosstalkonline.org/storage/issue-archives/2008/200801/200801-Dewar.pdf">这篇评论</a>改变了我的想法（在文中搜索”The Pitfalls of Java as a First Programming Language”）。正如文中尖刻指出的，一个黑客不能“像五金店中的管道工一样处理问题”。你必须要知道这里的组件事实上都<em>做</em>了什么。现在，我认为最好还是先学过C和Lisp，然后再学Java。</p>
+
+<p>这里还可能有一个更为普遍性的问题。就是如果你太过偏重于使用一门语言，它同时会成为一个好的生产工具和一个不好的学习对象。不只是语言有这个问题，Web应用框架比如RubyOnRails，CakePHP，Django也很容易让你流于表面的理解，在你必须面对困难的问题时却不能提供于你任何线索，甚至只是调试一个简单问题的解决方案都不行。</p>
+
+<p>如果你想进入正式的编程领域，你将不得不学习C语言，它是Unix的核心语言。C++与C非常类似；如果你懂了其中一个，学习另一个就不会很难。然而这两种都不适合编程入门学习。并且事实上，你越避免用C编程，你的工作效率就会越高。</p>
+
+<p>C语言执行效率极高，并且占用很少的系统资源。不幸的是，C的高效是通过你动手做很多底层资源（例如内存）管理实现的。所有这些底层代码都非常复杂且极易出bug，需要你花极多的时间进行调试。鉴于如今机器的性能如此强大，这样的做法通常得不偿失——更明智的做法是用一种使用机器时间不那么高效，但是能让你的时间<em>大为</em>高效的语言。那便是Python。</p>
+
+<p>其他对黑客而言比较重要的语言包括<a href="http://www.perl.com/">Perl</a>和<a href="http://www.lisp.org/">LISP</a>。从实用角度说，Perl是值得一学的；它被广泛用于动态网页和系统管理中，因此，即便你从不用Perl写程序，至少也应该要读懂它。许多人使用Perl的理由和我建议你使用Python的理由一样，都是为了避免用C完成那些执行效率需求不是那么高的工作。你会需要能够看懂他们的代码的。</p>
+
+<p>LISP值得学习的理由不同——最终掌握了它时你将得到深刻的启迪。即使你以后从不大量使用LISP本身，但这个经历将使你在今后成为一个更好的程序员。（你可以通过为Emacs编辑器或者GIMP的Script-Fu编写或修改插件来开始体验LISP。）</p>
+
+<p>事实上，这五种语言你最好都学会（Python，Java，C/C++，Perl和LISP）。除了是最重要的黑客语言外，它们还代表了截然不同的编程思路和方法，每种都能让你受益匪浅。</p>
+
+<p>但是单纯的堆砌编程语言并不能让你达到黑客的技能水平，甚至都不能算是达到程序员的程度。你需要学会独立于任何具体的语言用一种更为一般性的方式来思考编程问题。要成为一个真正的黑客，你需要达到几天就能掌握一门编程语言的水平，也就是你可以将文档里的信息和你已经掌握的知识很快结合起来。这就意味着你需要先学会几种编程思路截然不同的语言。</p>
+
+<p>编程是一个复杂的技能，这里我无法给你完整的说明来完全教会你。不过我可以告诉你的是，书本和课程也无法做到这一点——有很多，也可能是<em>几乎</em>所有的顶尖黑客，都是自学而来的。从书本上你能学到编程语言的特征——而那只是知识的皮毛而已，是你头脑中的观念把这些书面知识变成了真实可用的技能，而这一过程也只有通过不断实践和虚心做学徒才能学到。因而你具体能做的就是 (a)<em>读代码</em>，(b)<em>写代码</em>。</p>
+
+<p>Peter Norvig，Google最顶尖的黑客之一，也是世界上最受欢迎的人工智能教材（译注：指“人工智能：一种现代方法”和“人工智能程序设计范例：通用Lisp语言的案例研究”等）的共同作者。他写过一篇极出色的短文<a href="http://norvig.com/21-days.html">Teach Yourself Programming in Ten Years</a>。他在文中提到的“编程成功的诀窍（recipe for programming success）”值得悉心领会。</p>
+
+<p>学习编程就象学习用优美的自然语言写作一样。最好的做法是阅读大师的一些名著，试着写点自己东西，再读些，再写点，再读些，再写点……如此往复，直到你的作品达到范文的力度和效用。</p>
+
+<p>关于这一学习过程，我在<a href="http://catb.org/~esr/faqs/hacking-howto.html">How To Learn Hacking</a>一文说的更多。那是一个简单的说明指南，但并非是容易的那个。</p>
+
+<p>过去很难找到适合阅读的好代码，因为几乎没有大型程序的源代码能够供初出茅庐的黑客阅读和练手。如今这种情况已经有了戏剧性的变化：开源的软件、编程工具以及操作系统（全都由黑客所创建）现在随处可见。这刚好带我们到下一个话题……</p>
+
+<p><a name="skills2" id="skills2"></a></p>
+
+<h4 id="unix">⒉获取开源的Unix系统并学会使用。</h4>
+
+<p>我将假设你已经有一台个人计算机或者有权限获取一台使用（稍微体会一下这意味着多少事情，黑客文化形成之初的计算机是昂贵到个人根本买不起的）。新手们向获取黑客技能所要迈出的仅有的最重要一步，就是找到一份Linux或BSD-Unix的拷贝，安装到个人电脑上，并运行起来。</p>
+
+<p>没错，世上除了Unix还有其他操作系统。但它们都是以二进制形式发布的——你读不到源代码，也不能修改它。在微软的Windows或者任何其系统上学习黑客技能，就跟戴着镣铐学跳舞一样。</p>
+
+<p>在Mac OS X上倒是可以学，不过它只有一部分是开源的——你可能会撞墙，还必须很小心地避免养成依赖Apple专有代码的坏习惯。如果你专注于底层的Unix，你倒是可以学到一些有用的东西。</p>
+
+<p>Unix还是互联网的操作系统。虽说不懂Unix你仍能学会使用互联网，但若不懂Unix你肯定不能算是一个互联网黑客。因此，今天的黑客文化是相当以Unix为中心的。（过去并不都是这个样子，并且一些老派的黑客至今对此仍有不满。但是Unix和互联网之间的联系已是如此之强，就连微软这样的力量也无法撼动其分毫。）</p>
+
+<p>所以, 装起一套Unix——我个人偏爱Linux但你也有其他的选择（并且是的，你<em>可以</em>在同一台电脑上既运行Linux又运行微软的Windows）。学习它，运行它，鼓捣它。用它跟互联网交流。阅读它的代码。修改它的代码。你将得到好得多的编程工具（包括 C， LISP，Python及Perl），这是在Windows上是做梦都支持不了的。你将会发现其乐无穷。当你成长为一位大师级黑客之后再来回顾这个学习过程，你将会发现你所吸收的知识远比你当初所以为的要多。</p>
+
+<p>想了解更多关于学习Unix的信息，读一下<a href="http://catb.org/~esr/faqs/loginataka.html">The Loginataka</a>（译注：ESR 的另一著作，可以称之为黑客大藏经）吧。也许你还想看看<a href="http://catb.org/~esr/writings/taoup/">The Art of Unix Programming</a>（译注：Unix编程艺术，又一经典）。</p>
+
+<p>博客<a href="https://letsgolarval.wordpress.com/">Let’s Go Larval!</a>是一个了解Linux新手学习过程的窗口，我认为这里的写作头脑清醒同时也会很有帮助。<a href="https://letsgolarval.wordpress.com/2015/06/23/how-i-learned-linux/">How I Learned Linux</a>这篇是个很好的开端。</p>
+
+<p>想要着手Linux的话，可以参考<a href="http://www.linux.org/">Linux Online!</a>网站。你可以从那里下载Linux或者（更好的主意）找到一个当地的Linux用户组为你的安装过程提供帮助。</p>
+
+<p>在这份HOWTO文档最初的十年里，我认为从一个新用户的角度来看，所有的Linux发行版都差不多。然而2006-2007之间，一个事实上最好的选择出现了：<a href="http://www.ubuntu.com/">Ubuntu</a> 。我们可以说不同的Linux发行版各有所长，但Ubuntu对于Linux新人来说还是远为容易上手。尽管如此，还是要注意，相比Ubuntu默认那个其丑无比且几乎不可用的“Unity”系统界面，它的Xubuntu和Kubuntu更好用一些。</p>
+
+<p>你可以在<a href="http://www.bsd.org/">www.bsd.org</a>找到BSD Unix相关的帮助和资源。</p>
+
+<p>一个试水Linux的好办法是启动被Linux爱好者称为“Live CD”的东西，那是一个可以完全在光盘上运行，又不用修改你硬盘的发行版。只是运行起来会比较慢，因为光盘读写本来就慢，不过这总归是一个在做出任何不可挽救的改变前尝试各种可能性的可行办法。</p>
+
+<p>我还写过一篇关于<a href="http://en.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html">Unix 和互联网基础</a>的入门文章。</p>
+
+<p>我过去不建议新手独自安装Linux或者BSD 。而今它们的安装程序已经做得足够好，作为新人你也完全搞得定。尽管如此，我仍然建议和你当地的Linux用户组取得联系并寻求帮助。这没坏处，并且可以让整个过程更顺利。</p>
+
+<p><a name="skills3" id="skills3"></a></p>
+
+<h4 id="html">⒊学会使用万维网与编写HTML。</h4>
+
+<p>大多数的黑客文化创造物都在你所看不见的地方发挥着作用，它们帮助工厂、办公室以及大学正常运转，而对普通人怎样生活则没有任何明显的影响。可Web是一个大大的例外，即便连<em>政客</em>也承认这个庞大而耀眼的黑客玩具已经改变了世界。仅仅是凭这一个理由（当然还有其他更好的原因）你就需要学会Web。</p>
+
+<p>这并不仅仅意味着如何使用浏览器（谁都会），而是要学会写HTML，也就是Web的标记语言。如果你不懂编程，写HTML会教你一些有助于学习的思考习惯。因此，先去完成一个主页。</p>
+
+<p>但仅仅拥有一个主页不能够使你成为一名黑客。 Web里充满了各种网页。大多数是毫无意义的、毫无内容的垃圾——界面时髦的垃圾，能夺人眼球的垃圾终究还是同样的垃圾（更多这种信息请访问<a href="http://catb.org/~esr/html-hell.html">The HTML Hell Page</a>）。</p>
+
+<p>要想有所价值，你的网页必须要有<em>内容</em>——对其他黑客来说有趣 和/或 有用的内容。这就是我们下一个话题要说的……</p>
+
+<p><a name="skills4" id="skills4"></a></p>
+
+<h4 id="section-10">⒋如果你还没有足够实用的英语，学会它。</h4>
+
+<p>我自己作为一个美国人以及一个以英语为母语的人，我以前极不情愿提及这点，以免被当做某种文化上的帝国主义。但许多以其他语言为母语的人极力要求我指出这一点，即英语是黑客文化和Internet的工作语言，并且你需要懂得英语才能够在黑客社区顺利做事。</p>
+
+<p>大概1991年的时候，我就了解到许多以英语为第二语言的黑客会在技术讨论中使用英语，甚至有时来自同一种母语的黑客也在用英语讨论。据我所知，当前英语有着比其他语言丰富得多的技术词汇，因此是一个对于工作来说相当好的工具。基于相似的原因，英文技术书籍的翻译通常都不怎么令人满意（即便翻译完成的话）。</p>
+
+<p>Linus Torvalds是芬兰人，但他的代码注解是用英语写的（很明显这不是凑巧）。他流利的英语是他能够管理全球范围的Linux开发人员社区的重要因素。 这是一个值得学习的例子。</p>
+
+<p>另外就算你的母语是英语，也无法保证你的语言技能足够于你成为一名黑客。如果你的写作词句不通、语法混乱、错字连篇，大部分的黑客（包括我自己在内）都会倾向于忽略你的存在。虽然写作马虎并不总会意味着思考也马虎，但我们发现两者的关联性还是挺强的——马虎的头脑对我们来说毫无价值。如果你还不能这样有能力地写作，那就先认真培养出来吧。</p>
+
+<h2 id="section-11">提高自己在黑客圈的地位</h2>
+
+<p><a href="#respect1">⒈编写开源软件</a><br />
+<a href="#respect2">⒉帮助测试并调试开源软件</a><br />
+<a href="#respect3">⒊发布有用的信息</a><br />
+<a href="#respect4">⒋帮助维护基础设施的运转</a><br />
+<a href="#respect5">⒌为黑客文化本身服务</a></p>
+
+<p>跟大部分不涉及金钱交易的文化群体一样，黑客社区靠声誉运转。你设法解决有趣的问题，但它们到底多有趣，以及你的解法是否真的好，通常只能由那些跟你你处于同样技术水准，甚至比你更厉害的黑客来评判。</p>
+
+<p>因此，一旦开始黑客的游戏，你要知道你的分数主要是靠其他黑客对你的技能给出的评价来保持的（这就是为什么只有在其它黑客称你为黑客时，你才算得上是一名黑客）。这个事实往往被一般印象中那种深居简出的黑客行为所掩盖；同时还被黑客抗拒承认自身动机涉及到自我或外界认可的黑客文化禁忌所误导（从1990年代后期这一状况有所好转，但仍很严重）。</p>
+
+<p>具体来说，黑客圈就是人类学家所称的<em>礼物文化</em>。在这里你的地位和名望的获取不是凭借你对他人的统治，也不是依靠生得貌美，或是拥有他人想要的东西，而是在于你所贡献出的东西。具体来说，就是贡献出的你的时间、你的创造、以及你的技术成果。</p>
+
+<p>要获得其他黑客的尊重，你基本上有以下五种类型的事情可以着手：</p>
+
+<p><a name="respect1" id="respect1"></a></p>
+
+<h4 id="section-12">⒈编写开源软件</h4>
+
+<p>首先（最重要也是最传统的方法）是编写一些被其他黑客认为有趣或有用的程序，并把程序源代码提供给整个黑客文化圈使用。</p>
+
+<p>（过去我们称之为“free software（自由软件）”， 但这困扰住了太多不是确切了解”free”在这里所要表达的本意的人。现在我们大多倾向于“开源”软件 (open-source software) 这用语）。</p>
+
+<p>黑客圈里最受推崇的大神，是那些编写出满足广泛需求的大型好用程序的人，这些人（很早就）写好并把这些程序发布出来，以至于现在每个人都会使用到它们。</p>
+
+<p>但是这里还有段有趣的历史。虽然黑客们一直敬重他们之中的开源软件开发者作为是我们社区的硬核，然而 1990 年代中期之前大多数黑客的大部分时间都是用来编写闭源软件。1996年我在写这篇HOWTO文档的第一版时依旧如此。1997年之后开源软件逐渐成为主流才开始改变这一做法。今天，“黑客社区”和“开源软件开发者”本质上是对同一文化和同一人群的两种表述——但值得记住的是，这并非一直是如此。（更多关于这一点的，请看<a href="#history">历史记录：黑客活动，开源及自由软件</a>部分。）</p>
+
+<p><a name="respect2" id="respect2"></a></p>
+
+<h4 id="section-13">⒉帮助测试并调试开源软件</h4>
+
+<p>黑客还认可那些站出来调试开源软件的人。在这个并不完美的世界上，我们不可避免地要把大部分的开发时间放在调试阶段。这就是为什么任何有头脑的开源软件作者都会高度评价那些好的beta测试员（知道如何清楚描述出错症状，很好地定位错误，能忍受快速发布中的bug ，并且愿意使用一些简单的诊断工具配合测试） ，认为他们就像红宝石一样珍贵。即使只有一个好的测试员都能把调试阶段从一场拖延而又疲惫的噩梦解脱为一个有益于开发的小麻烦。</p>
+
+<p>如果你是个新手，去找一个能让你感兴趣的还在开发过程的程序，试着去做一个好的beta测试员。 帮着测试程序，你自动就会帮着调试错误，进一步再到帮着修改它们，这是一个天然的过程。你会从中学到很多，并可以跟以后会帮到你的人结下一个良好的因缘。</p>
+
+<p><a name="respect3" id="respect3"></a></p>
+
+<h4 id="section-14">⒊发布有用的信息</h4>
+
+<p>另一样好事就是收集并整理有用和有趣的信息，做成网页或类似FAQ（常见问题）列表的文档，还要让他们容易被获取。</p>
+
+<p>重要的技术性FAQ的维护者几乎会受到和开源软件作者一样多的尊敬。</p>
+
+<p><a name="respect4" id="respect4"></a></p>
+
+<h4 id="section-15">⒋帮助维护基础设施的运转</h4>
+
+<p>黑客文化（从这一点上说还有互联网的技术性开发工作）是靠志愿者来推动的。要让这一切继续运转下去，就需要做大量的必要却又不是那么令人向往的工作——管理邮件列表，主持新闻组讨论，维护大型软件库，开发修正意见书以及其它技术标准等等。</p>
+
+<p>做好这类事情的人会得到很多尊重，因为每个人都知道这些工作费时颇多却远非玩代码那样有趣。做这些事情需要奉献精神。</p>
+
+<p><a name="respect5" id="respect5"></a></p>
+
+<h4 id="section-16">⒌为黑客文化本身服务</h4>
+
+<p>最后，你还可以服务并传播黑客文化本身（比如，写一篇“如何成为黑客”这样的正确入门文章 :-) ）。这不是你一开始就能做的，它要求你要进入并且已经熟悉这个圈子之后，同时还要做好上述四种事情的某一种而为人所周知才能让人信服。</p>
+
+<p>黑客文化没有领导者，但确切的说，这个社群确实有一些英雄和元老以及史学家与发言人。如果你在这个圈子足够久了，你也许能成为这些人中的一个。 不过谨记：黑客们不会信任这些元老们明目张胆地自我膨胀，因此公开要求这类虚名是危险的。与其奋力争取，倒不如先摆正自己的位置，等它自己落到你的怀里，然后对自己的地位保持谦虚和优雅。</p>
+
+<h2 id="nerd-">黑客与书呆子 (Nerd) 的关系</h2>
+
+<p>跟大众普遍的误区相反，成为一名黑客你不用必须先成为一个书呆子。虽说这确实会有帮助，并且许多黑客事实上就是书呆子。做一个深居简出的人有助你集中精力于真正重要的事情上，比如思考与进行黑客活动。</p>
+
+<p>基于这点原因，很多黑客都会选用“极客 (geek)”这一标签来作为某种骄傲的象征——同时也是一种宣告他们独立于通常社会预期的方式（同样，热衷于其他东西像科幻与策略游戏，也是作为一个黑客通常会伴有的特征）。而这一标签在1990年代的时候用的是“书呆子 (nerd)”，那时的“nerd”还算是一个相对温和的贬称，而“geek”则实实在在是一个严重得多的蔑称。但是2000年以后的某个时候，这两个词的用法却调换了过来，至少在美国的流行文化上是如此。而且现在值得关注的是，在一些非技术人群中甚至也出现了这样自引极客为傲的文化现象。</p>
+
+<p>你在足够专注于做好黑客的同时还能打理好正常的生活的话，那也是很好的。比起1970年代我还是一个新手的时候，如今的情形就容易得多了；而且现在的主流文化对技术怪人也友善得多了。甚至有越来越多的人意识到黑客往往还是高质量的恋人和配偶人选。</p>
+
+<p>如果你被黑客内容吸引过来只是因为你还没过上别的生活，那也没什么——至少你不会有干扰你专注于黑客理念的麻烦了。嗣后你还是有可能过上自己的生活的。</p>
+
+<h2 id="section-17">风格的要点</h2>
+
+<p>重申一下，作为一名黑客，你必须真正进入黑客的观念模式里面。当你不用电脑的时候仍有一些事情看上去会有助于你做到这一点。当然它们不是黑客活动的替代品（也没有任何事情可以是），但许多黑客都会做并且认为它们与黑客的本质在某些基本层面上是相通的。</p>
+
+<ul>
+  <li>
+    <p>学会用很好地母语写作。尽管通常模式化的看法是程序员写作不行，可也有数量多到让人吃惊的黑客们（包括所有我知道的最有成就的那些黑客）都是非常有能力的写手。</p>
+  </li>
+  <li>
+    <p>阅读科幻作品。参加科幻作品集会（这也是一个接触黑客和潜在黑客的好途径）。</p>
+  </li>
+  <li>
+    <p>加入一个黑客空间 (hackerspace) 并去创造一些东西出来（另外一个接触黑客和潜在黑客的好途径）。</p>
+  </li>
+  <li>
+    <p>接受某一类型武术的训练。武术所要求的自律精神与黑客们用以做事情时所起作用的方式是类似的。在黑客中最受欢迎的是像跆拳道这类来自亚洲的徒手格斗艺术，更多类型还有空手道、功夫、合气道、柔术等。西式击剑和亚洲剑术也都有不少追随者。在能够合法使用枪支的地方，手枪射击从1990年代后期也逐渐受欢迎起来。最契合黑客之道的武术是那些强调精神上的自律、意识上的松弛以及控制上的精准，而非未经处置的蛮力、过度竞技的心态抑或是单方面体质上的强壮。</p>
+  </li>
+  <li>
+    <p>学习一项实实在在的冥想修炼。一直以来黑客中最受欢迎的就是禅（这里很重要的一点是，参禅只是要你保持一种正确的姿势，不会要求你接受一种新宗教信仰或者解除你现有的宗教信仰）。其他方式可能也会有效，但是一定要小心选择，选择那些不会要求你去相信疯狂的东西的。</p>
+  </li>
+  <li>
+    <p>培养自己对音乐的鉴赏能力。学会欣赏特独特类型的音乐。学会很好地演奏某种乐器，或者唱歌。</p>
+  </li>
+  <li>
+    <p>培养自己对双关语和俏皮话的鉴赏能力。</p>
+  </li>
+</ul>
+
+<p>以上这些事情，你已经做到得越多，你就越有可能是天生的黑客材料。至于为什么偏偏会是这些事情，原因也并不是完全清楚，但它们都涉及用到左右脑技能的混合使用，这一点似乎是问题的重点所在。黑客们既需要有能力进行很好的逻辑推理，又需要在创造力灵光一现的时刻能够果断跳出问题的逻辑表象。</p>
+
+<p>像娱乐一般工作，像工作一样娱乐。对于真正的黑客来说，“娱乐”、“工作”、“科学”以及“艺术”之间的边界基本上消失了，或者是说它们相互融合成了一种更高层面的创造性乐趣。同理，对技能内容的理解也不要太狭隘。尽管大部分黑客都会把自己描述为程序员，他们非常有可能在几个相关技能上的能力也是相当强的——像是系统管理、网页设计以及PC硬件故障检修这些常见的事情。作为黑客，从另一方面说，一个系统管理员，很有可能对脚本编程和网页设计也是相当在行的。黑客做起事情来不会只做一半，如果他们要投入于一种技能，他们会倾向于非常擅长于它（包括方方面面相关的东西）。</p>
+
+<p>最后，还有一些 <em>不要</em> 去做的事情。</p>
+
+<ul>
+  <li>
+    <p>不要使用愚蠢的，浮夸的用户ID或昵称。</p>
+  </li>
+  <li>
+    <p>不要卷入 Usenet（或任何其他地方）的骂战。</p>
+  </li>
+  <li>
+    <p>不要自称为“赛博朋克 (cyberpunk)”，也不要在任何这样称呼自己的人身上浪费时间。</p>
+  </li>
+  <li>
+    <p>不要让你发的帖子或email充斥着拼写或语法错误。</p>
+  </li>
+</ul>
+
+<p>做出以上任何这种事情都只会为你加上一个蠢货的名声。黑客的记性都很长——在你足够于被社群接受前，你将会有数年的时间都生活在这一名声的阴影下。</p>
+
+<p>关于网名和代号的问题值得展开来说一下。将真实身份隐藏在虚假的代号后面这样幼稚而愚蠢的行为特征，是属于骇客、盗版破解者及其他不入流的家伙们的。黑客们不会做这个，他们以自己的所作所为为荣，并且也乐于见到这些作为是与他们<em>真正</em>的名字联系在一起的。所以, 如果你有用假名的话，那就放弃它吧。在黑客文化里，它只会把你标记为一个失败者。</p>
+
+<p><a name="history" id="history"></a></p>
+
+<h2 id="section-18">历史记录：黑客活动、开源及自由软件</h2>
+
+<p>在1996年末我最初写这篇HOWTO文档的时候，很多状况跟你现在所看到的样子是非常不同的。简单说明一下这些变化可能有助于澄清问题，特别是对于那些对开源运动、自由软件及Linux跟黑客社群的关系感到困惑的人们。如果你对这一点不好奇的话，可以跳过这里直接去读FAQ和参考文献部分。</p>
+
+<p>我在这里所描述的黑客伦理和社群远早于1990年后Linux社群所形成的时期，我首次涉足是在1976年前后，而究其根源则可追溯到1960年代早期。但是在Linux之前，大部分黑客活动不是在专有的操作系统上进行，就是自己开发的类似实验性质的系统上，比如从未在其最初的学术天地之外部署使用的MIT ITS系统。早期（Linux 之前）也有过一些试图改变这种状况的努力，但是它们的影响都非常边缘化，且仅限于那些真正献身于社区的忠实信徒，这即便在当时的黑客社区也算得上是极少数，在更大的通用软件世界就更为孤立了。</p>
+
+<p>现在所谓“开放源代码”的行为，其历史与黑客社群一样久远，但直到1985年这都只是一种还未命名的习惯做法，而非是某种有理论有主张的有意识运动。这一史前状态的结束，是1985年大黑客Richard Stallman （“RMS”）尝试为其命名——“自由软件 (Free Software)”。但他的命名行为同时也是一种意识形态主张，他为“自由软件”标签附加了大部分已存在着的黑客社群所绝不能接受的意识形态包袱。结果，“自由软件”的标签被黑客社群有显著影响的少数派（特别是那些与BSD Unix有关联的人群）大声地拒绝了，然后被剩下的无声地持保留意见的大多数人（包括我本人）严肃地使用起来。</p>
+
+<p>尽管存在这些保留意见，直到1990年代中期RMS在“自由软件”旗帜下定义和领导黑客社群的主张一直都在大张旗鼓地进行着 。惟有Liunx的崛起才让它受到了严肃地挑战。Linux为开源软件开发提供了一个天然的归宿。很多我们现在称之为开放源代码的项目都是从各种专有的Unix向Linux迁移过来的。围绕Linux的社区呈现出爆炸式的增长，成了一个比之前黑客社群的规模远为更加庞大同时也更加异质化。RMS确有试图将Linux这一社群也合并到他的“自由软件”运动中，但他既遭到了Linux社区急剧增长的多元性的冷落，又受到其创始人Linus Torvalds的公开质疑。由于一时没有更好的替代用语，Torvalds继续使用“自由软件”这个名称，但公开拒绝了RMS的意识形态包袱。很多更年轻黑客都追随了他这套做法。</p>
+
+<p>在1996年，当我首次发表这篇黑客入门文档的时候，黑客社群正围绕着Linux和有限几个其他的开源操作系统（尤其是衍生于BSD Unix那些）在迅速地重组。我们中的大多数人数十年来在闭源系统开发闭源软件的情景还没有开始淡出集体记忆，但这似乎已经开始成为不可改变的过去式的一部分了。黑客们越来越频繁地将他们自己定义为那种隶属于Linux或Apache这样的开源项目的黑客。</p>
+
+<p>然而那时，“开放源代码”这个用语却还没有出现，这直到1998年初。当它出现后，大部分的黑客社区在接下来的6个月之内都采用了这个用语，有异议的是少数仍隶属于“自由软件”意识形态的社区。自1998年以来，特别是2003年以后，“黑客活动”和“开源软件（或自由软件）开发”的具体含义已经变得极为接近了。如今再尝试去区分这几个领域也是没什么意义的，而这一点在将来似乎也没什么要发生改变的可能。</p>
+
+<p>无论如何，过去并不总是现在这样，这一点值得我们记住。</p>
+
+<h2 id="section-19">其他资源</h2>
+
+<p>Paul Graham写了一篇<a href="http://www.paulgraham.com/gh.html">Great Hackers</a>，还有一篇<a href="http://www.paulgraham.com/college.html">Undergraduation</a>，里里面他说了很多充满智慧的见解。</p>
+
+<p>还有一份名为<a href="http://samizdat.mines.edu/howto/HowToBeAProgrammer.html">How To Be A Programmer</a>的文档，是对这份文档极好的补充。其中有价值的建议不只是在编写代码及相关技能组合方面，更是在如何让整个团成团对其作用方面。</p>
+
+<p>我还写过一篇<a href="http://catb.org/~esr/writings/hacker-history/hacker-history.html">A Brief History Of Hackerdom</a>。</p>
+
+<p>我写过一篇论文，<a href="http://catb.org/~esr/writings/cathedral-bazaar/index.html">The Cathedral and the Bazaar</a>，对 Linux 以及开源文化如何运作有过详细的解释，这一话题在我在它的续篇的<a href="http://catb.org/~esr/writings/homesteading/">Homesteading the Noosphere</a>中发表过更为直接的阐述。</p>
+
+<p>Rick Moen写过一份极好的文档是关于<a href="http://linuxmafia.com/faq/Linux_PR/newlug.html"> how to run a Linux user group</a>。</p>
+
+<p>Rick Moen和我合作完成的另一份文档是关于<a href="http://catb.org/~esr/faqs/smart-questions.html">How To Ask Smart Questions</a>，可以让你在寻求帮助的时候采用更有可能让你得到帮助的方式。</p>
+
+<p>如果你需要PC、UNIX及Internet工作原理基础的说明，参考<a href="http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html">The Unix and Internet Fundamentals HOWTO</a>。</p>
+
+<p>当你发布软件或者更新补丁的时候，请参阅<a href="http://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/index.html">Software Release Practice HOWTO</a>一文的指导。</p>
+
+<p>如果你很欣赏前面那首禅诗的话，也许你还会喜欢看看<a href="http://catb.org/~esr//writings/unix-koans">Rootless Root: The Unix Koans of Master Foo</a>。</p>
+
+<p><a name="FAQ" id="FAQ"></a></p>
+
+<h2 id="faq">FAQ（常见问题）</h2>
+
+<p><a href="#hacker_already">Q: 如何才能确定我已经是一名黑客了？</a><br />
+<a href="#teach_hack">Q: 你能教我具体怎么做黑客吗？</a><br />
+<a href="#getting_started">Q: 那么，我该如何开始？</a><br />
+<a href="#when_start">Q: 我应该什么时候开始学？现在会不会太迟了？</a><br />
+<a href="#how_long">Q: 需要花多久我才能学会黑客技能？</a><br />
+<a href="#closed_lang">Q: Visual Basic是一门好的入门语言吗？</a><br />
+<a href="#I_want_to_crack_and_Im_an_idiot">Q: 你能帮我破解一个系统吗？或者教会我如何破解它？</a><br />
+<a href="#passwords">Q: 我怎样才能拿到别他人帐号的密码？</a><br />
+<a href="#crackmail">Q: 我如何才能入侵/查看/监视他人的 Email？</a><br />
+<a href="#crackop">Q: 我怎么才能窃取IRC频道的操作特权？</a><br />
+<a href="#anti_crack">Q: 我被人“黑”了。你能帮我避免更进一步的攻击吗？</a><br />
+<a href="#windows_grief">Q: 我的Windows软件出问题了。你能帮我吗？</a><br />
+<a href="#real_hackers">Q: 在哪里我能找到可与之交流的真正黑客？</a><br />
+<a href="#books">Q: 你能推荐一些对黑客技能相关话题有用的书吗？</a><br />
+<a href="#mathematics">Q: 成为一名黑客我需要擅长数学吗？</a><br />
+<a href="#language_first">Q: 我应当首先学习那种语言？</a><br />
+<a href="#hardware">Q: 我需要什么样的硬件配置？</a><br />
+<a href="#started2">Q: 我想贡献社区。你能帮我选一个问题去着手吗？</a><br />
+<a href="#MS_hater">Q: 我必须要憎恨并反对微软吗？</a><br />
+<a href="#no_living">Q: 开源软件难道不会让程序员无以谋生吗？</a><br />
+<a href="#problems">Q: 从哪里能得到免费的Unix？</a></p>
+
+<p><a name="hacker_already" id="hacker_already"></a>
+<strong>Q: 如何才能确定我已经是一名黑客了？</strong></p>
+
+<p>A: 问你自己以下三个问题：</p>
+
+<ul>
+  <li>
+    <p>你能流利地读写代码吗？</p>
+  </li>
+  <li>
+    <p>你能跟黑客社群的目的和价值产生共鸣吗？</p>
+  </li>
+  <li>
+    <p>有没有广为认可的黑客社群成员称你为黑客呢？</p>
+  </li>
+</ul>
+
+<p>如果你对<em>全部三个</em>问题的回答都是肯定的，那就说明你已经是一名黑客了。如果只满足其中两项的条件是不够充分的。</p>
+
+<p>第一项检测是关于技能的。如果你已经符合本文前面提到的最低需求的话，你也算过关。如果你已经有相当数量的代码被某个开源项目所接受，可以直接忽略这个问题。</p>
+
+<p>第二项检测是关于态度的。如果前面<a href="#attitude">黑客观念的五个原则</a>对你来说已是了无新意，更像是对你已有生活方式的描述而非是什么刚听来的新奇观念，那你已经走过黑客之路的半途了。并且是内在的一半，而外在的另一半则要取决于你认同于黑客社区长期任务的程度。</p>
+
+<p>这里是这些任务的一个不完整但具有指示性清单：Linux的改进和传播对你而言是否重要？你是软件自由是否充满激情？你是否对垄断抱有敌意？你是否以计算机是赋予世界一个更加丰富多彩更加人性化的地方的工具这一信念来行事的？</p>
+
+<p>不过这里请额外注意，黑客社群有一些特定的，主要是防御性的政治倾向——其中的两条是捍卫“言论自由”权利和抵挡“知识产权”过度攫取权力而使开放源代码非法化。其中一些长期任务和外在的态是支持像电子前沿基金会（EFF）这样的公民自由组织。除此之外，大多数黑客都视那些将黑客态度系统化为某个露骨的政治纲领的企图为值得怀疑的。我们以惨痛的代价才认识到，这些企图只会为黑客社群制造分裂并且为社区项目制造干扰。如果有人试图以黑客态度的名义来招揽你去游行，那是他们就是搞错了重点。正确的回应方式没准就是“不说话而展示代码给他们 (Shut up and show them the code)”。</p>
+
+<p>第三项测试有点递归的手法在里面。我在<a href="#what_is">“什么是黑客？”</a>一节中评论过，成为一名黑客一定程度上就是一个归属问题，内在和外在地归属于一个特定的具有分享历史的亚文化或社会化网络。很久之前，黑客是一个远没有今天这么团结和自知的群体。但是过去30多年来，社会化网络方面的重要性，随着互联网使黑客与亚文化群体核心的联系更易于发展和维护，而增长起来。这种改变最简单的表现方式就是，在这个世纪，我们都有了自己专门的文化衫了。</p>
+
+<p>研究像黑客文化这些被统称为“看不见的大学 (invisible colleges)”的（社会化）网络的社会学家，注意到这类网络的一个重要特征是它们都有看门人 (gatekeepers) ——具有认可新成员进入社区的社会权威的核心成员。由于黑客文化的“看不见的大学”是一个松散和非正式的，其看门人的角色也是非正式的。但所有黑客就能深刻理解的一点是并非每一个黑客都是一个守门人。在能被授予这个头衔之前守门人必须要具备一定的资历和成就。具体程度很难量化，但当他们看到时每一个黑客都会知道。</p>
+
+<p><a name="teach_hack" id="teach_hack"></a>
+<strong>Q: 你能教我具体怎么做黑客吗？</strong></p>
+
+<p>A: 自从这一文档首次发布以来，我每周都会收到一些请求（经常是一天好几次），说“请教会我关于做黑客的一切”。遗憾的是，我没有时间或精力做这个；我自己的黑客项目，以及作为一个开放源代码倡导者去四处奔走，已经占用了我110%的时间。</p>
+
+<p>即便我想教你，做黑客就是一种态度和技能，基本上也只有你自己才能教会自己。 当真正的黑客打算你时，你就会发现，如果你每件事情都靠乞求他们一勺一勺来“喂”你的话，他们是不会尊重你的。</p>
+
+<p>先去学一些东西。表现出你正在努力，表现出你有能力自己去学。然后带着明确的问题去请教你所遇到的黑客。</p>
+
+<p>如果你确实需要发E-mail给一位黑客寻求帮助，这里有两件事应该预先知道。第一，我们发现在写作里懒惰和粗心的人往往在思考上也会过于懒惰和粗心而不能成为好黑客——因此要注意拼写正确，使用正确的语法和标点符号，否则你很有可能会不被理会。 第二，不要<em>敢于</em>用跟你发信地址不一样的邮箱账号来要求回复。我们发现这样做的人一般都是盗号者，我们没有兴趣奖励或协助偷窃行为。</p>
+
+<p><a name="getting_started" id="getting_started"></a>
+<strong>Q: 那么，我该如何开始？</strong></p>
+
+<p>A: 对你而言最佳的入门方式也许是去参加一个 LUG（Linux用户组）的聚会。 你可以在<a href="http://www.tldp.org/links/index.html">LDP Linux 综合信息页面</a>找到这样的用户组；很有可能你身边就有一个，也许还是跟某个大学挂钩的。如果你提出要求，LUG成员很可能会给你一套Linux，而且通常会帮你安装并带你入门。</p>
+
+<p>下一步（如果你身边找不到LUG的话，这是第一步）应该是去找一个你感兴趣的开源项目。开始阅读代码，并评审bug。学会做贡献，并把你自己带入门道。</p>
+
+<p><em>唯一进入门道方式就是通过努力提高你的技能。</em>如果你还想私下里问我关于如何开始的建议，我还会给你完全一样的答案，因为我也没有任何神奇的捷径。我在心里还会把你可能记作为一个可能的失败者——因为你缺乏耐性来读完这个FAQ，并且也缺少智力来理解到<em>唯一进入门道方式就是通过努力提高你的技能。</em>你没治了。</p>
+
+<p>另一个有趣的可能是去参观一个黑客空间。这是一个迅速发展的人们进行创造运动的物理空间——创客俱乐部——他们可以一起出来在那里的软件和硬件项目上一起工作，或者在一种意气相投的气氛中独自做自己的事情。黑客空间通常收藏有对普通人来说太贵或后勤上不方面拥有的工具或专用设备。通过互联网很容易找到黑客空间，你旁边可能就有一个。</p>
+
+<p><a name="when_start" id="when_start"></a>
+<strong>Q: 我应该什么时候开始学？现在会不会太迟了？</strong></p>
+
+<p>A: 只要你有动力，任何时候时候都是好时候。大多数人是在15到20岁之间开始对此感兴趣的，但我知道各种例外，高于或低于此年龄段的两个方向都有。</p>
+
+<p><a name="how_long" id="how_long"></a>
+<strong>Q: 需要花多久我才能学会黑客技能？</strong></p>
+
+<p>A: 这取决于你的天赋和努力程度。如果足够专注，大多数人能在18个月到2年的时间掌握一套相当体面的技能。但不要以为这样就可以了，在黑客领域（跟许多其他领域一样）达到精湛程度大概都要花10年的时间。如果你是一名真正的黑客，你会用余生所有的时间来学习和完善你的手艺。</p>
+
+<p><a name="closed_lang" id="closed_lang"></a>
+<strong>Q: Visual Basic是一门好的入门语言吗？</strong></p>
+
+<p>A: 如果你问出这个问题，那几乎肯定意味着你是想尝试在微软的Windows下做黑客。这本身就是一个糟糕的主意。在我把在Windows下学习黑客技能比作是戴着镣铐学跳舞时，那不是在开玩笑。别走那条路。Windows 很丑恶，并且它从来不会停止成为这种丑恶。</p>
+
+<p>Virsual Basic的根本问题主要是它不可移植。尽管Virsual Basic也有一个开源实现的原型，但可用的ECMA标准只覆盖了其编程接口的很小一部分。Windows上绝大部分的函数库支持是由单一供应商（微软）所专有的。而对你所使用的组件如果不能<em>极端</em>严谨的话——比任何新手所能做到的都要更严谨，你最终将会被束缚在微软所选择支持的那些平台上。如果你是从一个Unix开始，就能获得比这好得多的编程语言和函数库。例如Python。</p>
+
+<p>另跟其他Basic语言一样，Visual Basic这种设计糟糕的语言只会教给你糟糕的编程习惯。<em>不要</em>要求我来描述它们的细节，那可真是罄竹难书！还是去学一门设计优良的语言吧。</p>
+
+<p>其中一个坏习惯就是让你过度依赖于单一供应商的函数库、控件及开发工具。一般而言，任何语言如果不能全面支持至少是Linux或是BSD的一种，和/或 至少三个不同的供应商的操作系统，对学习黑客来说都是一门糟糕的语言。</p>
+
+<p><a name="I_want_to_crack_and_Im_an_idiot" id="I_want_to_crack_and_Im_an_idiot"></a>
+<strong>Q: 你能帮我破解一个系统吗？或者教会我如何破解它？</strong></p>
+
+<p>A: 不能。如果谁在读完这份FAQ后还问出这种问题，即便我有时间来指导那他也只是个愚蠢到教都教不出来的蠢材。任何发给我此类请求的邮件，我不是直接忽略，就是毫不客气地回敬于你。</p>
+
+<p><a name="passwords" id="passwords"></a>
+<strong>Q: 我怎样才能拿到别他人帐号的密码？</strong></p>
+
+<p>A: 这是骇客行为。滚开，傻瓜。</p>
+
+<p><a name="crackmail" id="crackmail"></a>
+<strong>Q: 我如何才能入侵/查看/监视他人的email？</strong></p>
+
+<p>A: 这是骇客行为。从我面前消失，笨蛋。</p>
+
+<p><a name="crackop" id="crackop"></a>
+<strong>Q: 我怎么才能窃取IRC频道的操作特权？</strong></p>
+
+<p>A: 这是骇客行为。一边去，蠢货。</p>
+
+<p><a name="anti_crack" id="anti_crack"></a>
+<strong>Q: 我被人“黑”了。你能帮我避免更进一步的攻击吗？</strong></p>
+
+<p>A: 不能。到目前为止，每次问我这个问题的都是一些运行Windows的蠢货。而要有效地保护Windows系统免受骇客攻击是不可能的，它的代码和架构上的大量缺陷使得保护Windows的尝试就像是用筛子从船里舀水一般。唯一可靠的保护方法就是开始转到Linux或其他设计得至少有安全的可能的系统。</p>
+
+<p><a name="windows_grief" id="windows_grief"></a>
+<strong>Q: 我的Windows软件出问题了。你能帮我吗？</strong></p>
+
+<p>A: 当然。打开 DOS 命令行然后输入“format c:”。你遇到的任何问题都会在几分钟内消失。</p>
+
+<p><a name="real_hackers" id="real_hackers"></a>
+<strong>Q: 在哪里我能找到可与之交流的真正黑客？</strong></p>
+
+<p>A: 最好的办法是去找一个你本地的Unix或Linux用户组并参加他们的聚会（你可以在ibiblio的<a href="http://www.tldp.org/">LDP</a>页面找到一些用户组列表的链接。）</p>
+
+<p>（过去我曾说你在IRC上找不到任何真正的黑客，但我发觉情况现在有所变化。显然一些真正的黑客社区比如GIMP及Perl，现在也有IRC频道了。）</p>
+
+<p><a name="books" id="books"></a>
+<strong>Q: 你能推荐一些对黑客技能相关话题有用的书吗？</strong></p>
+
+<p>A: 我维护着一份<a href="http://en.tldp.org/HOWTO/Reading-List-HOWTO/index.html">Linux Reading List HOWTO</a>也许会对你有所帮助。另外<a href="http://catb.org/~esr/faqs/loginataka.html">The Loginataka</a>大概也会很有趣。</p>
+
+<p>关于Python的介绍，请访问在Python网站的<a href="http://docs.python.org/tutorial/index.html">入门教程</a>。</p>
+
+<p><a name="mathematics" id="mathematics"></a>
+<strong>Q: 成为一名黑客我需要擅长数学吗？</strong></p>
+
+<p>A: 不用。黑客道很少使用常规的数学或算术。尤其是你不会用三角学、微积分或数学分析（例外是少数几个特定领域，比如3D电脑图像）。了解一些常规的逻辑和布尔代数是有好处的。而有限数学（包括有限集合论，组合数学和图论）的一些背景知识会很有帮助。</p>
+
+<p>更重要的是：你需要的是能像数学家一样有逻辑地思考和进行一系列严密推理的能力。在这一点上数学大部分的内容帮不了你，你需要的是掌握数学所用到的修养和智慧。如果你智力不够，你成为黑客的希望就会很渺茫；如果你的修养不够，你最好能培养出来。</p>
+
+<p>我觉得一个了解你是否具备所需要的修养和智慧的好办法是，去找一本Rymond Smullyan的书What Is The Name Of This Book?。Smullyan那些有趣的逻辑问题很符合黑客精神。有能力解决它们会是一个很好的征兆，<em>享受</em>解决它们的乐趣将会是个更好的征兆。</p>
+
+<p><a name="language_first" id="language_first"></a>
+<strong>Q: 我应当首先学习那种语言？</strong></p>
+
+<p>A: HTML，如果你还不会的话。市面上有很多的装帧华丽、吹嘘得天花乱坠的HTML<em>糟糕</em>书籍，令人苦恼的是很少有好质量的。而我最喜欢的是<a href="http://www.oreilly.com/catalog/html5/">HTML: The Definitive Guide</a>。</p>
+
+<p>但HTML并非是一门完整的编程语言。当你准备好开始编程时，我推荐从<a href="http://www.python.org/"> Python</a>起步。 你会碰到许多人向你推荐Perl，但Perl要难学很多并且（以我之见）设计得也不是很好。</p>
+
+<p>C语言确实很重要，但它也比Python或Perl都难多了。不要一开始就尝试学C语言。</p>
+
+<p>对于Windows用户，不要以为Visual Basic有多好。它将教给你坏习惯，并且也无法移植到Windows平台之外。离它远点儿。</p>
+
+<p><a name="hardware" id="hardware"></a>
+<strong>Q: 我需要什么样的硬件配置？</strong></p>
+
+<p>A: 过去的个人电脑曾以性能相当低下且内存不足著称，以致于给黑客的学习过程造成了人为的限制。自从1990年代中期这一状况就不再如此了，现在任何Intel 486DX50以上配置的机器都有足以胜任开发工作，运行X窗口系统，及进行互联网通信，而你现在能买到的最小容量的硬盘用起来都已绰绰有余。</p>
+
+<p>选择用于学习的机器时，重要的一点是注意其配件是否与Linux兼容（或与BSD兼容，如果你选择那条路线的话）。同样，几乎所有的现代机器都符合这一点，唯一真正棘手的地方是调制解调器和无线网卡，有些带有专为Windows设计的配件的机器会无法运行好Linux。</p>
+
+<p>关于硬件兼容性问题专门有个 FAQ，最新版本在<a href="http://en.tldp.org/HOWTO/Hardware-HOWTO/index.html">这里</a>。</p>
+
+<p><a name="started2" id="started2"></a>
+<strong>Q: 我想贡献社区。你能帮我选一个问题去着手吗？</strong></p>
+
+<p>A: 不行。因为我不了解你的天赋和兴趣。你必须做到能够自我激励，否则你就无法坚持到底。这也是为什么让别人替你选择方向是行不通的。</p>
+
+<p><a name="MS_hater" id="MS_hater"></a>
+<strong>Q: 我必须要憎恨并反对微软吗？</strong></p>
+
+<p>A: 不，你不必如此。这并非是说微软不令人作呕，而是因为黑客文化远在微软之前就已存在，并将会在微软成为历史之后继续存在。 任何你花在憎恨微软上的精力都不如去用以热爱你自己的手艺更有效果。写出好的代码——你就是在非常有力地打击微软，且又不用玷污你自己的因缘。</p>
+
+<p><a name="no_living" id="no_living"></a>
+<strong>Q: 开源软件难道不会让程序员无以谋生吗？</strong></p>
+
+<p>A: 这种论断看起来似乎并不不可信——迄今为止，开源软件行业看起来更像是在创造工作而非是夺去它们。如果写出一个程序比之不写会有净收益的话，那么无论写完后程序是否开源，程序员都会得到报酬。并且，无论写出来的软件有多“免费”，永远存在更多对新的、定制化应用程序的需求。我在<a href="http://www.opensource.org/">Open Source</a>网站写过更多对此的论述。</p>
+
+<p><a name="problems" id="problems"></a>
+<strong>Q: 从哪里能得到免费的Unix？</strong></p>
+
+<p>A: 如果你的机器上还没有安装Unix，我在文中的某个地方已经指出过哪里能弄到最常用的免费Unix。作为一名黑客，你需要有动力和主动性以及自学的能力。现在就开始吧……</p>
+
+</article>
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    <small>
+      Published by <a rel="author" href="https://github.com/BITandLiteracy">AppU</a>. Jekyll theme is from <a rel="theme" href="https://github.com/johnotander/pixyll">Pixyll</a>.
+    </small>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -23,7 +23,8 @@ disqus_shortname:
 markdown:     kramdown
 kramdown:
   input:  GFM
-  use_coderay: false
+  enable_coderay: true
+  syntax_highlighter: coderay
 permalink:     /:title
 paginate:     6
 sass:

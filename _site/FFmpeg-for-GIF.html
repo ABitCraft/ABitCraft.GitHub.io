@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>尝试用 FFmpeg 来生成 GIF 图 &#8211; BITandLiteracy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Crafting tools. Crafting code. ">
+    <meta name="author" content="AppU">
+    <meta name="keywords" content="">
+    <link rel="canonical" href="http://BITandLiteracy.github.io/FFmpeg-for-GIF">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for BITandLiteracy" href="/feed.xml" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css?201604251528" type="text/css">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" media="all" href="/css/han.min.css?201604251528" type="text/css">
+
+    
+
+    <!-- Icons -->
+    <link rel="icon" type="image/png" href="/favicon.png" sizes="96x96">
+
+    
+</head>
+
+<body class="site">
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://BITandLiteracy.github.io" class="site-title">BITandLiteracy</a>
+      <a href="/about/">关于</a>
+      <nav class="site-nav">
+        <a href="/essays/">Essays</a>
+<a href="/archive/">Archive</a>
+<a href="/about/">About</a>
+
+      </nav>
+
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+<div class="post-header mb2">
+  <h1>尝试用 FFmpeg 来生成 GIF 图</h1>
+  <span class="post-meta">Mar 3, 2016</span><br>
+    
+  <span class="post-meta small">
+  
+    2 minute read
+  
+  </span>
+</div>
+
+<article class="post-content">
+  <p>由于工作上每天都要制作不少 GIF 图，所以用过很久 Photoshop, LICEcap, GIF Brewery 等 GUI 工具。直到最近读到这篇（<a href="http://blog.pkh.me/p/21-high-quality-gif-with-ffmpeg.html">High quality GIF with FFmpeg</a>，即 <a href="http://www.oschina.net/translate/high-quality-gif-with-ffmpeg">使用 FFmpeg 处理高质量 GIF 图片</a>）通过 FFmpeg 来输出 GIF 图的文章，我决定去尝试一下用命令行的方式来生成 GIF 图时的效果。</p>
+
+<p><em>习惯于用参数的话，还是能省心不少的。</em></p>
+
+<ul id="markdown-toc">
+  <li><a href="#ffmpeg" id="markdown-toc-ffmpeg">安装 FFmpeg</a></li>
+  <li><a href="#ffmpeg-1" id="markdown-toc-ffmpeg-1">使用 FFmpeg</a></li>
+  <li><a href="#windows-" id="markdown-toc-windows-">另外，关于 Windows 系统</a></li>
+</ul>
+
+<hr />
+
+<h2 id="ffmpeg">安装 FFmpeg</h2>
+
+<p>既然要使用 <a href="http://ffmpeg.org">FFmpeg</a>, 第一步自然是先安装好 FFmpeg。</p>
+
+<p><a href="http://www.renevolution.com/how-to-install-ffmpeg-on-mac-os-x/">How to install FFmpeg on Mac OS X</a> 一文介绍的是，Mac 可以在 <a href="http://mxcl.github.com/homebrew/">Homebrew</a> 下直接安装 FFmepg: <code>brew install ffmpeg [all your options]</code>，具体的命令是：</p>
+
+<blockquote>
+  <ol>
+    <li>
+      <p>查看所有可用选项： <code>brew options ffmpeg</code></p>
+    </li>
+    <li>
+      <p>用所有可用参数完整安装是这个命令：</p>
+    </li>
+  </ol>
+</blockquote>
+<pre><code>brew install ffmpeg --with-fdk-aac --with-ffplay --with-freetype --with-frei0r --with-libass --with-libvo-aacenc --with-libvorbis --with-libvpx --with-opencore-amr --with-openjpeg --with-opus --with-rtmpdump --with-schroedinger --with-speex --with-theora --with-tools</code></pre>
+
+<p><em>在搞定 10.11 的 Homebrew 之前，我是去下载已编译好的 <a href="http://evermeet.cx/ffmpeg/">FFmpeg 二进制文件</a>，然后直接放入 <code>/usr/Local/bin</code> 目录下来使用的。</em></p>
+
+<h2 id="ffmpeg-1">使用 FFmpeg</h2>
+
+<p>FFmpeg 文档中生成 GIF 图的命令非常简单：</p>
+
+<p><code>ffmpeg -i input.mkv -i palette.png -lavfi paletteuse output.gif </code></p>
+
+<p>对 GIF 图效果有要求的话，<code>使用 FFmpeg 处理高质量 GIF 图片</code> 一文所提供的命令是这样的：</p>
+
+<p><code>./gifenc.sh video.mkv anim.gif</code></p>
+
+<p>所用的 shell 脚本如下：</p>
+
+<pre><code>#!/bin/sh
+
+start_time=12:23
+duration=35
+
+palette="/tmp/palette.png"
+
+filters="fps=15,scale=320:-1:flags=lanczos"
+
+ffmpeg -v warning -ss $start_time -t $duration -i $1 -vf "$filters,palettegen" -y $palette
+ffmpeg -v warning -ss $start_time -t $duration -i $1 -i $palette -lavfi "$filters [x]; [x][1:v] paletteuse" -y $2
+</code></pre>
+
+<p>使用这个 FFmpeg 脚本所生成的 GIF 图效果确实不错，但我希望能通过命令参数来指定 GIF 图的开始时间和时长，以及分辨率、帧率、色彩位数等因素，从而能更加灵活地使用命令行来制作 GIF 图。</p>
+
+<p>于是修改出来的脚本就是这样：</p>
+
+<pre><code>#!/bin/sh
+
+GIF="$2.gif"
+
+start_time=$3
+duration=$4
+
+palette="palette.png"
+
+filters="fps=$5,scale=$6:-1:flags=lanczos"
+
+ffmpeg -v warning -ss $start_time -t $duration -i $1 -vf "$filters,palettegen=max_colors=$7:stats_mode=diff" -y $palette
+ffmpeg -v warning -ss $start_time -t $duration -i $1 -i $palette -lavfi "$filters [x]; [x][1:v] paletteuse=dither=floyd_steinberg" -y $GIF
+</code></pre>
+
+<p>这时输入到终端里面的命令就变成：</p>
+
+<p><code>./gifenc.sh input.mkv output 75 6 10 640 128 </code></p>
+
+<p>其中的 $1 <code>input.mkv</code> 是完整的视频文件名 ，$2 <code>output</code> 则是 GIF 图名字，$3 <code>75</code>秒 是指开始时间，$4 <code>6</code>秒 表示 GIF 图时长为 ，$5  <code>10</code>fps 即 GIF 图帧率，$6 <code>480</code>像素即 GIF 图宽度，$7 <code>128</code> 表示 GIF 图色彩位数<code>[4-256]</code>。</p>
+
+<p>尽管这看上去比较复杂，但制作 GIF 图时的效率着实提升显著，性能较差的电脑也足以胜任。</p>
+
+<h2 id="windows-">另外，关于 Windows 系统</h2>
+
+<p>参考 <a href="http://zh.wikihow.com/在Windows上安装FFmpeg程序">如何在Windows上安装FFmpeg程序</a> 。</p>
+
+<p>下载 <a href="http://ffmpeg.zeranoe.com/builds/">Windows 版程序</a>，设置好 PATH 环境变量即可。</p>
+
+<p>Windows 批处理的参数是以 <code>%</code> 而非 <code>$</code> 开头，变量则需在末尾也加上 <code>%</code>，因而只需把 shell 脚本作相应的修改即可使用：</p>
+
+<pre><code>set GIF="%2.gif"
+set start_time=%3
+set duration=%4
+
+set palette="palette.png"
+
+set filters="fps=%5,scale=%6:-1:flags=lanczos"
+
+ffmpeg -v warning -ss %start_time% -t %duration% -i %1 -vf "%filters%,palettegen=max_colors=%7:stats_mode=diff" -y %palette%
+ffmpeg -v warning -ss %start_time% -t %duration% -i %1 -i %palette% -lavfi "%filters% [x]; [x][1:v] paletteuse=dither=floyd_steinberg" -y %GIF%
+</code></pre>
+
+<p>相应的命令行指令也改为：</p>
+
+<p><code>gifenc.bat input.mkv output 75 6 10 640 128 </code></p>
+
+<hr />
+
+<p>后来把 FFmpeg 的这个用法告诉我们自己的小编，他一口气做了 10 多张 GIF 图，尽管手里的文章仅用上 8 张：</p>
+
+<p><code>“电脑不卡的时候做 GIF 图还是很爽的。”</code></p>
+
+<p>既然还算管用……我们就把寻找这个工具的过程分享出来，希望能帮上某个还没用上它的人。</p>
+
+</article>
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    <small>
+      Published by <a rel="author" href="https://github.com/BITandLiteracy">AppU</a>. Jekyll theme is from <a rel="theme" href="https://github.com/johnotander/pixyll">Pixyll</a>.
+    </small>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>游戏黑客之道 &#8211; BITandLiteracy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Crafting tools. Crafting code. ">
+    <meta name="author" content="AppU">
+    <meta name="keywords" content="">
+    <link rel="canonical" href="http://BITandLiteracy.github.io/game-hacker">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for BITandLiteracy" href="/feed.xml" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css?201604251528" type="text/css">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" media="all" href="/css/han.min.css?201604251528" type="text/css">
+
+    
+
+    <!-- Icons -->
+    <link rel="icon" type="image/png" href="/favicon.png" sizes="96x96">
+
+    
+</head>
+
+<body class="site">
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://BITandLiteracy.github.io" class="site-title">BITandLiteracy</a>
+      <a href="/about/">关于</a>
+      <nav class="site-nav">
+        <a href="/essays/">Essays</a>
+<a href="/archive/">Archive</a>
+<a href="/about/">About</a>
+
+      </nav>
+
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+<div class="post-header mb2">
+  <h1>游戏黑客之道</h1>
+  <span class="post-meta">Dec 16, 2014</span><br>
+    
+  <span class="post-meta small">
+  
+    4 minute read
+  
+  </span>
+</div>
+
+<article class="post-content">
+  <ul id="markdown-toc">
+  <li><a href="#section" id="markdown-toc-section">首先是态度。</a>    <ul>
+      <li><a href="#the-world-is-full-of-fascinating-problems-waiting-to-be-solved" id="markdown-toc-the-world-is-full-of-fascinating-problems-waiting-to-be-solved">⒈The world is full of fascinating problems waiting to be solved.</a></li>
+      <li><a href="#no-problem-should-ever-have-to-be-solved-twice" id="markdown-toc-no-problem-should-ever-have-to-be-solved-twice">⒉No problem should ever have to be solved twice.</a></li>
+      <li><a href="#boredom-and-drudgery-are-evil" id="markdown-toc-boredom-and-drudgery-are-evil">⒊Boredom and drudgery are evil.</a></li>
+      <li><a href="#freedom-is-good" id="markdown-toc-freedom-is-good">⒋Freedom is good.</a></li>
+      <li><a href="#attitude-is-no-substitute-for-competence" id="markdown-toc-attitude-is-no-substitute-for-competence">⒌Attitude is no substitute for competence.</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-1" id="markdown-toc-section-1">更重要的是技能。</a>    <ul>
+      <li><a href="#learn-how-to-program" id="markdown-toc-learn-how-to-program">⒈Learn how to program.</a></li>
+      <li><a href="#get-one-of-the-open-source-unixes-and-learn-to-use-and-run-it" id="markdown-toc-get-one-of-the-open-source-unixes-and-learn-to-use-and-run-it">⒉Get one of the open-source Unixes and learn to use and run it.</a></li>
+      <li><a href="#learn-how-to-use-the-world-wide-web-and-write-html" id="markdown-toc-learn-how-to-use-the-world-wide-web-and-write-html">⒊Learn how to use the World Wide Web and write HTML.</a></li>
+      <li><a href="#if-you-dont-have-functional-english-learn-it" id="markdown-toc-if-you-dont-have-functional-english-learn-it">⒋If you don’t have functional English, learn it.</a></li>
+    </ul>
+  </li>
+  <li><a href="#section-2" id="markdown-toc-section-2">还有社会成就与个人风格等要素。</a></li>
+  <li><a href="#section-3" id="markdown-toc-section-3">作为火箭黑客</a></li>
+  <li><a href="#section-4" id="markdown-toc-section-4">虚拟现实的圣杯</a></li>
+  <li><a href="#section-5" id="markdown-toc-section-5">更大的挑战：培养出一位游戏黑客</a>    <ul>
+      <li><a href="#section-6" id="markdown-toc-section-6">从玩游戏的乐趣中获取动力</a></li>
+      <li><a href="#section-7" id="markdown-toc-section-7">模仿大师级游戏的设计</a></li>
+      <li><a href="#section-8" id="markdown-toc-section-8">学会编程</a></li>
+      <li><a href="#section-9" id="markdown-toc-section-9">建立学习的信心</a></li>
+      <li><a href="#section-10" id="markdown-toc-section-10">利用好一切资源并享受能力提升所带来的乐趣</a></li>
+    </ul>
+  </li>
+  <li><a href="#carmack" id="markdown-toc-carmack">反脆弱：Carmack论想法的更迭</a></li>
+</ul>
+
+<p>John Carmack说过，“在信息时代，客观障碍已不复存在，所谓障碍都是主观上的。如果你想动手开发什么全新的技术，你不需要几百万美元的资金，你只需要在冰箱里放满比萨和可乐，再有一台便宜的计算机，和为之献身的决心。”他做游戏时是这样，他玩火箭时是这样，他开发虚拟现实技术时想必更是如此。“我们在地板上睡过，我们从河水中趟过。”</p>
+
+<p>Carmack不是Steven Levy那部书中的黑客，他是读着Levy在1984年出版的这本《黑客：计算机革命的英雄们》而成长为一名英雄的。他是游戏黑客，是火箭黑客……更为重要的是，他早已是所有技术人的象征。</p>
+
+<p>用Levy在书中所总结的黑客伦理来理解Carmack的故事是非常自然的。并且在1996年，黑客大师Eric S. Raymond为黑客圈写下了一份更为系统的入门文档。这里不妨就用这份一直在保持更新的黑客文档——<a href="http://catb.org/~esr/faqs/hacker-howto.html">《如何成为一名黑客》</a> 作为参考，进一步来理解Carmack的故事以及黑客文化。</p>
+
+<h2 id="section">首先是态度。</h2>
+
+<h4 id="the-world-is-full-of-fascinating-problems-waiting-to-be-solved">⒈The world is full of fascinating problems waiting to be solved.</h4>
+
+<p>作为一名黑客，你可以从解决问题、磨练技能以及锻炼智力的愉悦中获得动力。（你还必须对自己的学习能力树立信心——这种信念使你相信，尽管你所掌握的知识可能不足以解决你当前的问题，可一旦你从问题的一小部分入手并从中学习，你将会学到足够的知识用来解决下一部分——如此往复，直到整个问题都会被你解决。）</p>
+
+<p>Carmack解决问题的办法正是如此，“先尝试最直接的办法，如果不行，再拓宽思路。”在开发透视三维图像的技术时，他最终独辟蹊径地使用了所谓的“射线追踪”算法（raycasting）。这种解决问题的信念在他开发 Quake 游戏引擎，面对计算机图形学界的泰斗迈克尔·亚伯拉什（Michael Abrash）时无疑更为显著，亚伯拉什被打动的这一节是这样描述的：</p>
+
+<p>和其他图形领域的程序员一样，他（指亚伯拉什）也经常在理论上描述虚拟世界，当他读到《雪崩》里的“变体”时，他想，我已经可以实现这里面的80％，至少在理论上。而现在，一个年仅二十四岁，但却充满信心的年轻人就坐在他面前，谈论着使它变为现实，亚伯拉什毫不怀疑他有这个能力。随后，亚伯拉什聊起说他在做完一个项目后总会怀疑自己是否还能百尺竿头更进一步，听到这话，Carmack皱了皱眉：“我从没怀疑过，嗯。”</p>
+
+<h4 id="no-problem-should-ever-have-to-be-solved-twice">⒉No problem should ever have to be solved twice.</h4>
+
+<p>作为修改游戏的两个老手，Carmack和Romero对于玩家们乐于修改和替换《德军总部 3D》的游戏数据再高兴不过了。事实上，开放的、自由的、充满乐趣的游戏修改有助于开发者和玩家社区相互促进，形成良性的互动。从《毁灭战士》开始，Carmack一直积极为玩家们做“正确的事情”，让游戏便于玩家修改。</p>
+
+<p>为此，Carmack专门公布了《毁灭战士》的关卡编辑器和其他辅助工具的源代码。然后，新西兰坎特伯雷大学的Brendon Wyber则如同疱丁解牛般从源代码中分离出各种功能，全球各地玩家的帮助下制作出了《毁灭战士》编辑工具——DEU: Doom Editor Utility，向玩家展示了如何从无到有地建造出一个关卡。10天后，比利时学生Raphael Quinet协助Brendon制作的DEU增强版发布——“你几乎可以在关卡里做任何事，你可以移动、添加、删除各种怪物和宝物，改变墙的位置，或是改变它的墙纸，或是安置新的升降机、门、酸液池，你还可以调整天花板的高度……甚至，建造一个全新的关卡。”而密歇根大学的学生Greg Lewis则更进一步，他编写的DeHackEd软件所能修改的不只是包含图像、声音、关卡的外部WAD文件，而是游戏的核心——可执行文件，这里面包含了游戏的运行逻辑，譬如怪物们如何行动、武器如何开火、文字如何显示。</p>
+
+<p>而这种编辑器后来演变成了其他公司游戏的标配，比如暴雪的《魔兽争霸》与《星际争霸》，并且大名鼎鼎的《反恐精英》就是《半条命》的一个修改包，而风靡世界的《DotA》则只是《魔兽争霸3》的一张自定义地图。“不必重复发明轮子”的效果可见一斑。</p>
+
+<h4 id="boredom-and-drudgery-are-evil">⒊Boredom and drudgery are evil.</h4>
+
+<p>“枯燥和单调的工作不仅是令人不快，而且它们本身就是一种罪恶。”从Carmack的经历说，学校教育更是如此。让创造性的头脑被愚蠢的重复性劳动所困扰是一种罪恶，让创造性的头脑被流水线式的教育工厂禁锢起来是一种更大的罪恶。</p>
+
+<p>从开始接触计算机和《黑客》起，Carmack就进入了一个不一样的世界。在那里，他和小伙伴们自发学习BASIC编程，一起玩游戏，一起研究并动手修改游戏，完全不需要依赖于他人。通过那时的 BBS（电子公告牌系统，Bulletin Board System）和 WELL（全球电子连线，Whole Earth ‘Lectronic Link），Carmack进一步学习游戏和黑客文化，当然也有一些好玩但又不那么合乎法律的东西，比如盗用电话线路以及炸药配方。</p>
+
+<p>一天晚上，Carmack们用刚学到的铝热剂融化一所学校机房的玻璃时，有人不小心触动了附近警察局的报警器，他们很快就被包围了……14岁的Carmack被送去做精神评估，以便测定他的口供。他和精神医师的面谈很不顺利，结果被处以一年教养。在城里的“少年之家”，所有事情都是按时间表进行：吃饭、洗澡、放风、睡觉，做完一件家务活给一朵小红花，每天早上，所有孩子都被装上一辆货车运到学校里上课，放学时再被拉回“少年之家”。</p>
+
+<p>我们的社会系统在面对创造性的头脑时，尚未能演化出一种合乎情理的应对机制，至今都更为倾向于首先去防范这些创造性的头脑做坏事，更多地只是简单地去禁锢他们。这本身就是一种对于人性的恶，更有利于成为那种错误观点占上风的社会。所以Carmack憎恶学校——憎恶那些制度和教条。</p>
+
+<p>1988年秋天，在堪萨斯城，密苏里大学堪萨斯城分校，Carmack选修的都是跟计算机相关的课程。在某次测验的试卷背后，他给教授写道：“为什么你不能给个项目让我们来做？你要什么我就能做出什么！”忍受了两个学期后，他退学了。</p>
+
+<p>后来《毁灭战士》大获成功，Carmack买了3200美元的计算机设备，送给他在Shawnee教会公立学校念书时的计算机老师，“这样他们就可以在实践中学习知识，而不是死读书，读死书。”他解释道。</p>
+
+<h4 id="freedom-is-good">⒋Freedom is good.</h4>
+
+<p>Carmack面对的是母亲独裁式的行为：“如果一个人要进入计算机业，那么他首先应该去念大学——最好是MIT那样的，然后取得学位，然后进入公司——最好是IBM那样的。因此，她不肯让儿子把这些钱用在她觉得很荒谬的事情上——尤其是制作游戏。”她爱她的儿子，但她只希望他做她认为是正确的事情。她不肯让儿子把钱用在她觉得很荒谬的事情上——尤其是制作游戏，尽管那笔钱是Carmack的父亲留给Carmack的信托基金。她固执地认为，这笔钱只能用于上大学，而且，只有在成绩让她觉得满意后，她才会把钱还给他，在此之前的学费还是要卡马克自己承担。</p>
+
+<p>所以高中毕业后很长一段时期，Carmack跟他母亲的关系都非常糟糕。退学后，Carmack开始全身心地投入于制作游戏，同时还在一家比萨店做计时工来养活自己。Carmack的抗争换来的是夜鹰公司对他的游戏的认可，虽然一开始还只是销量平平，但他已经可以把赚来的钱投入于另一项爱好——改装汽车。可以自由地支配时间，不用听别人使唤或是回答别人的问题，Carmack很乐意一生就这么写写程序，改改汽车，玩玩《龙与地下城》——就这么简简单单。</p>
+
+<p>为此，他只需要认真做出更多游戏。</p>
+
+<p>为什么自由对于Carmack这样的头脑来说是如此地关键呢？因为“任何能向你发号施令的人都能够迫使你停止去解决令你着迷的任何问题——同时，按照独裁主义头脑的一般方式，他通常会给出一些极端愚昧的理由来。”这就又回到了前面的问题，把创造性的头脑浪费在愚蠢的事情是一种罪恶。</p>
+
+<h4 id="attitude-is-no-substitute-for-competence">⒌Attitude is no substitute for competence.</h4>
+
+<p>黑客伦理在Carmack看来不是什么遥远的概念信仰或者纲领宣言，而是实实在在的生活方式。想象一下这样的场景：看完《黑客：计算机革命的英雄们》（Hackers: Heroes of the Computer Revolution），一个十四岁的少年夜晚躺在床上，头脑中唯一的念头只是——”I’m supposed to be in there!”</p>
+
+<p>三年级的时候，Carmack沉浸在《龙与地下城》的世界，不像其他拘泥于规则手册里刻板条款的城主，他抛开那些结构，来创作属于他自己的世界——每天放学后，他就把自己关在小屋里，埋头于成堆的图纸和表格中。</p>
+
+<p>这个过程正如ESR在文中所论述的：“从书本上你能学到编程语言的特征——而那只是知识的皮毛而已，是你头脑中的观念把这些书面知识变成了真实可用的技能，而这一过程也只有通过不断实践和虚心做学徒才能学到。因而你具体能做的就是 (a) 读代码 ，(b) 写代码 。”</p>
+
+<p>不是止于简单的玩乐，开始研究并动手修改游戏，这是Carmack 、作为游戏黑客的起点。“一次，Carmack找到了《创世纪》里处理角色的代码，稍作修改，他就给自己增加了一些额外的能力，这是他第一次体会到凭空创造东西的乐趣。”而且，“作为一名程序员，他不需要依赖于其他人，只要他的代码逻辑正确表述了他定义的规则，它就会工作得很好，一切都那么合理。”</p>
+
+<p>Carmack发现他最喜欢的是图像编程：创作一些二进制代码并看着它们给屏幕带来生气；这种直接反馈所带来的满足感是其他编程工作所不具备的……他还意识到，如果他想进一步探索编程世界，那么，他必须要从游戏入手。他不是那种坐着等待灵感的人，于是他直接沿用了现有游戏中的构思。《造影》（Shadowforge）是他的第一个游戏，它和《创世纪》很相像，但它也有几处独特创新，譬如玩家可以朝任意方向攻击。</p>
+
+<p>主营照相机电池的夜鹰公司（Nite Owl Productions）花一千美元买下了《造影》，这是Carmack生平第一笔收入，他用这些钱把苹果机升级到了苹果II GS。</p>
+
+<h2 id="section-1">更重要的是技能。</h2>
+
+<h4 id="learn-how-to-program">⒈Learn how to program.</h4>
+
+<p>Carmack在他1998年2月的.plan file中写道：</p>
+
+<blockquote>
+  <p>我的人生就是以知识的积累和学习的不断深入来分为不同阶段。</p>
+
+  <p>我启蒙阶段用的是学校里的苹果II型机，但当时的条件局限了我的学习速度和深度。今天的状况已经好多了，<strong>只要有一台便宜的二手PC机、一张Linux光盘和一个因特网的账号，你就拥有了足够的工具和资源，你就可以达到任何你期望的编程境界。</strong></p>
+
+  <p>在《软盘》的头六个月对我而言如同活在梦里，平生第一次，我身边有了比我更博识的程序员（Romero 和 Lane Roath），我手边有了大量的书籍和资料，而且我可以全身心投入到编程中，那真是一段好时光。</p>
+
+  <p>接下来的两年，直到Doom和几个家用机版本移植完成，我在稳步提高着我的知识面和技术水平，其中包括：更深入的图像编程、网络、Unix、编译原理、跨平台、RISC架构，等等。</p>
+
+  <p>Quake开发的第一年简直如同腾云驾雾，有Micheal Abrash作为顾问，我尝试了大量新鲜课题。如果科班出身的图像程序员们知道我在写Doom时有多么业余，他们肯定会大吃一惊，那时的我甚至不能正确地剪切墙体多边形（这就是为什么我用了那莫名其妙的极坐标系统），Quake逼着我踏上正轨，同时探索出新思路。</p>
+
+  <p>Quake开发的最后半年是在痛苦中度过的，那时我满脑子只想着把这该死的东西做完，当然，一切付出到后来都有了回报，但我绝不怀念这段时光。</p>
+
+  <p>在Quake2开发的过程中，我的学习经历又得到了进一步扩充：GLQuake、quakeworld、radiosity、OpenGL 工具开发、Win32编程，等等，与此同时，我也有了不少关于下一步如何做的想法。</p>
+
+  <p>我认为接下来的Trinity engine将和Quake一样硕果累累。我在一些课题上已经有了非常深入的理解，我还正在尝试一些图像编程以外的全新领域，它们将会和我所有其他方面的工作产生积极互动。</p>
+</blockquote>
+
+<h4 id="get-one-of-the-open-source-unixes-and-learn-to-use-and-run-it">⒉Get one of the open-source Unixes and learn to use and run it.</h4>
+
+<p>跟今天的情形不一样，Carmack在五年级接触的是Radio Shack计算机培训班的TRS-80计算机，TRS-80系列的Model I型于1977年8月发布，操作系统只是一种基于ROM的BASIC语言环境，更多细节详见<a href="http://oldcomputers.net/trs80i.html">其Old Computer Museum页面</a>。（大多数的二十世纪八十年代的家用计算机都有一个驻留在ROM中的BASIC解释器，以此能让计算机直接引导到BASIC环境。因为在这一个时期的BASIC的知名度的上升，一些杂志刊登了用BASIC语言写的游戏、工具和一些其他程序的完整的代码。——来自<a href="http://zh.wikipedia.org/zh-cn/BASIC">维基百科词条</a>）</p>
+
+<p>这便是Carmack开始自学BASIC编程，研究并动手修改游戏时期的学习环境。而Ward Christensen和Randy Seuss编写的第一个公共BBS系统（Bulletin Board System：电子公告牌系统）自1978年上线便迅速传播开来，无数的BBS系统被架设起来，其中一些像Stewart Brand的 The WELL（全球电子链接，Whole Earth ‘Lectronic Link）便成为Carmack这样的黑客或玩家们的温床。他们在这里不光是研究游戏，还讨论黑客文化，甚至还有盗用电话线路以及炸药……其中最为重要的一点，我想，是这些早期的虚拟社区让Carmack开始意识到，他想学的东西以及他要做的事情，其实早已不在学校系统之内。</p>
+
+<p>后来，14岁的Carmack由于用铝热剂做炸药偷苹果机而被判处一年教养，而对钻研技术的渴望使得他父母终于答应买苹果机——一台<a href="http://oldcomputers.net/appleii.html">Apple II</a>，系统是基于ROM的沃兹版BASIC。他用这台电脑做出的第一个游戏——《造影》（Shadowforge）为他带来了1000美元收入，然后他直接用这笔钱把电脑换成运行Apple GUI和ProDOS的<a href="http://oldcomputers.net/appleiigs.html">Apple II GS</a>。</p>
+
+<p>无论是电脑还是里面的操作系统，对于Carmack来说都不过是可以用来钻研的东西。百科全书里描述计算机的段落被他翻来覆去看了十几遍，而他不过是想自学其中所有他想知道的知识。作为一名黑客，他就是从解决问题、磨练技能以及锻炼智力中享受乐趣和收获动力的。</p>
+
+<p>多年以后，在制作《德军总部3D》的末期，他又花11000美元买了乔布斯离开苹果后最新发布的NeXT电脑用于游戏开发。其中的NeXTSTEP系统是以Mach微内核和BSD Unix为基础的，在NeXT并入苹果后，该系统又发展成为今天Mac OS X的Darvin核心。这与今天OS X最为不同的地方还在于后者专有的Aqua GUI。另外巧合的是，世界上第一台万维网服务器就是Tim Berners-Lee在一台NeXTCube上架设出来的，同时第一个网络浏览器WorldWideWeb也是以在该系统上开发的，这正好提到了我们接下来的话题。</p>
+
+<h4 id="learn-how-to-use-the-world-wide-web-and-write-html">⒊Learn how to use the World Wide Web and write HTML.</h4>
+
+<p>学会使用万维网不仅仅意味着会使用浏览器，而是要学会写HTML，这同时会教你一些有助于学习编程的思考习惯。并且要想有所价值，你所写出来的网页必须要有内容——对其他黑客来说有趣 和/或 有用的内容，只是ESR在另外一篇《提问的智慧》中才非常详尽地解释如何在网络中提问和回答并从中学习。而更为通用型的网络使用，则要结合Howard Rheingold的《网络素养》，充分利用Internet来组织自己的学习网络。</p>
+
+<p>谈到利用好网络，Carmack他们通过BBS系统以共享软件的方式发行游戏的商业故事同样让人赞叹。随着《指挥官基恩》的成功，1992年2月，雪乐山在线与id Software达成了250万美元的收购意向，可惜威廉姆斯夫妇未能领会Carmack他们在做的事情，特别是没能意识到《德军总部 3D》的潜力，最终他们没能给出id所希望的现金交易……这是两代游戏黑客之间的一次直接交锋，结果是id的《德军总部 3D》大获成功，很快成为一种地下文化现象。</p>
+
+<p>1993年12月10号，星期五，连续测试三十小时后，id已经准备好把Doom上传到因特网上。威斯康星大学的系统管理员David Datta好心为id提供了一台校园网内的文件服务器。临近午夜，服务器上挤满了急不可耐的玩家，他们非常聪明地新建文件用文件名来交流那一刻的心情，但是当晚的主角id却因服务器用户满额而无法登陆上传游戏文件。最后id不得不冲入聊天室劝说玩家——“你们选吧，要么你们离开，我把《毁灭战士》传上去，要么就不传了。”半小时后，最后一个字节抵达服务器的瞬间，上万名玩家涌向了它，威斯康星大学的网络瘫痪了……当时的互联网还未曾见识过这样的场面。</p>
+
+<p>从《指挥官基恩》到《德军总部 3D》再到《毁灭战士》以及《雷神之锤》，Carmack他们深谙共享软件的网络之道：先上传，让玩家们来下载它，然后他们会再把它不断地传播出去，这比其他花费昂贵的分发方式好太多了，玩家们相当于帮了id一个大忙。</p>
+
+<h4 id="if-you-dont-have-functional-english-learn-it">⒋If you don’t have functional English, learn it.</h4>
+
+<p>Carmack 分享的那些对其他黑客来说有趣 和/或 有用的内容，除了游戏和代码，还有他自身的经验和想法。其中最有名的是<a href="http://www.catb.org/jargon/html/P/plan-file.html">.plan 文件</a>，那是UNIX用户根目录中用来保存用户信息和近期计划任务的文件，<a href="http://www.catb.org/jargon/html/F/finger.html">finger 程序</a>可以用来显示指定用户的.plan文件。id 最初正是通过发布.plan文件来跟玩家交流的。从1996年到2010年，仅Carmack一个人就发布了至少394个.plan文件，这是能够向Carmack学习的第一手资料来源，详细存档可见http://floodyberry.com/carmack/plan.html。</p>
+
+<p>另外，从1999年到2008年，Carmack一直活跃于科技网站<a href="http://slashdot.org/~John+Carmack">Slashdot</a>，那一时期他发布的101篇信息存档详见http://floodyberry.com/carmack/slashdot.html 。</p>
+
+<p>如果你还对Carmack发表过的主题演讲有兴趣的话，<a href="http://floodyberry.com/carmack/audio.html">这里</a>有一部分存档。<a href="https://www.youtube.com/watch?v=gn8m5d74fk8">这里</a>还有他2014年作为CTO在首届Oculus Connect开发者大会的Keynote视频。</p>
+
+<p>对于他接受过的采访，<a href="http://floodyberry.com/carmack/interviews.html">这里</a>也有一部分存档。</p>
+
+<p><a href="https://github.com/floodyberry/carmack">这里</a>是一个专门整理Carmack相关资料并进行存档的Github项目，<a href="http://armadilloaerospace.com/n.x/johnc/Recent%20Updates">这里</a>是他原来的官方Blog 。同Linus Torvalds管理全球范围的Linux开发者社区的例子一样，John Carmack对技术的思考和表达细节同样值得我们学习。</p>
+
+<h2 id="section-2">还有社会成就与个人风格等要素。</h2>
+
+<ul>
+  <li><strong>Write open-source software.</strong></li>
+</ul>
+
+<p>Carmack贡献过的开源项目有Mac OS X Server的X窗口系统，以及Linux的OpenGL驱动——Utah GLX项目。另外自然就是id Software所开源的游戏及引擎。</p>
+
+<p>id Software的开源项目详见https://github.com/id-Software，其中Carmack开发的技术包括：</p>
+
+<blockquote>
+  <p>Adaptive Tile Refresh（用于Commander Keen）</p>
+
+  <p>Raycasting（用于Hovertank 3-D, Catacomb 3-D和Wolfenstein 3-D）</p>
+
+  <p>Binary Space Partitioning（用于Doom及Quake系列）</p>
+
+  <p>Surface caching（用于Quake系列）</p>
+
+  <p>Carmack’s reverse（用于Doom 3阴影体的一个算法）</p>
+
+  <p>MegaTexture（用于Rage）</p>
+</blockquote>
+
+<p>这是最重要也是最传统的黑客之道。</p>
+
+<ul>
+  <li><strong>Read science fiction.</strong></li>
+</ul>
+
+<p>除了科幻电影、漫画以及游戏，Carmack从小读的还有《魔戒》这样的奇幻作品，不过当时，他更喜欢的还是做《龙与地下城》城主，创作属于他自己的世界。</p>
+
+<ul>
+  <li><strong>Train in a martial-arts form.</strong></li>
+</ul>
+
+<p>儿时，Carmack还练习过举重、柔道、摔跤。这一点不是直接的相关关系，但这对于任何人的自律以及控制力都是很好的锻炼。</p>
+
+<ul>
+  <li><strong>改装汽车</strong></li>
+</ul>
+
+<p>这是他的另一项重要爱好。Carmack把他第二个游戏《鬼魂》（Wraith）赚的2000美元用于改装他当时那辆棕色的美洲豹（MGB）。</p>
+
+<p>后来《德军总部 3D》的大卖让22岁的Carmack拥有了他的第一辆法拉利，一辆价值70000美元的樱桃红色328型跑车——只不过是又一台可以用来钻研的机器：在机车老手鲍勃·诺伍德（Bob Norwood）的帮助下，他们为引擎加上增压涡轮，最终15000美元换来140英里每小时的速度，让Carmack感到无比开心。</p>
+
+<p>《毁灭战士》的大卖为Carmack带来第二辆法拉利，标价90000美元的特斯坦罗萨（Testarossa），这次加装的是一对涡轮增压系统，让功率达到了原来的三倍——600马力。这段经历对于他在Quake3开发阶段重拾火箭爱好应该有不小的关系。</p>
+
+<h2 id="section-3">作为火箭黑客</h2>
+
+<p>在了解到黒客们、工程师们、爱好者们正在建造大型的高能运载火箭准备进入外太空时，Carmack花数千美元买来相关的书籍和文章开始自学，这便是“犰狳航天”（Armadillo Aerospace）的起点。</p>
+
+<p>爱好者们的目标是一千万美元的“X大奖”——把三名乘客送到外太空。可惜犰狳航天的首次“X大奖”比赛即败给由保罗·艾伦所赞助的太空船一号；但在后来NASA的登月挑战赛（Lunar Lander Challenge）中，Carmack他们于2008年10月获得35万美元的Level 1第一名，并于2009年9月获得50万美元的Level 2第二名。</p>
+
+<p>2010年到2011年，犰狳航天开发了Super Mod垂直起降火箭作为NASA Flight Opportunities Program的可复用亚轨道运载工具的一员进行试验。2010年后期，犰狳航天开始开发Super Mod的大型版本STIG。不比SpaceX那幸运的蚱蜢火箭，STIG火箭在2012年1月的第二次发射以及2013年1月的第三次发射均未达到预期目的。同时整个项目已耗尽了Carmack个人投资的数百万美元。</p>
+
+<p>2013年8月，伴随STIG-B的失败， Carmack宣布犰狳航天进入休眠模式，并积极寻求外部投资者。（同月，他以CTO身份进入Oculus VR，开始专注于虚拟现实领域，并于11月底最终从id离职。）</p>
+
+<p>到2014年5月，犰狳航天的几名前员工成立了一个新公司——Exos Aerospace，为的是把犰狳航天的研究成果实现成可复用的商业性航天器，他们仍然使用原来犰狳航天位于德州的研究设施。</p>
+
+<p>不过，暂离火箭领域并不代表Carmack不再去思考关于火箭的真理，特别是在SpaceX的Falcon 9火箭回收试验如火如荼的今天。在推文聊天中，Musk邀请过Carmack加入SpaceX一起来做可回收火箭，不过Carmack已经有了更为要紧的事情——虚拟现实。</p>
+
+<h2 id="section-4">虚拟现实的圣杯</h2>
+
+<p>远在Oculus VR公司成立之前，Carmack就在MTBS3D论坛为最初的Rift原型机写下过一篇使用体验：<a href="http://www.mtbs3d.com/phpBB/viewtopic.php?f=120&amp;t=14967">“A day with an Oculus Rift”</a>，所用的是Palmer Luckey手中两台仅有的成品中的一台。针对发现的问题，Carmack在文中给出了许多他自己的解决办法，特别是改写Doom 3的引擎来加强Rift的图形渲染，很好地弥补了开发初期Palmer在软件方面的不足。并且在随后的E3游戏展上，Carmack还把这台Rift原型机跟当时Sony的<a href="https://en.wikipedia.org/wiki/HMZ-T1">HMZ-T1</a>头显作为对比一同演示给媒体，重新点燃了整个技术圈对于虚拟现实的热情。</p>
+
+<p>作为Oculus Rift真正意义上的首位开发者，他在Rift还不存在任何SDK的时候，就已经把Doom 3移植到这台原型机中了。2013年8月，当他以CTO的身份<a href="https://www.oculus.com/en-us/blog/john-carmack-joins-oculus-as-cto/">加入</a>Oculus VR时，最主要的一项工作便是帮助开发Rift的SDK，特别是针对Android移动平台提供<a href="http://www.engadget.com/2013/08/19/oculus-rift-android-sdk-carmack/">技术支持</a>。</p>
+
+<p>在虚拟现实的图形技术方面，Carmack的另一个重要贡献是用异步时间扭曲（Asynchronous Timewarp）来解决动态模糊的问题，其中的技术诀窍是以最低75 fps的画面刷新速度匹配上OLED屏幕75 Hz的刷新率（如今的这一数值达到了90）。然而以当前显卡的计算能力，要维持住高分辨率屏幕下75 fps的帧率根本就是不现实的。异步时间扭曲正是在无法以图像渲染能力来维持帧率的情况下，技术性地通过生成中间帧的方式来实现GPU渲染能力与屏幕显示需求之间的平衡。</p>
+
+<blockquote>
+  <p>“理论上，异步时间扭曲允许你把一个30 fps的游戏升级到60 fps，以更好地匹配屏幕60 Hz的刷新率。”</p>
+</blockquote>
+
+<p>如今，就连AMD、Nvidia还有HTC Vive都在用Carmack研究出来的这一方法来弥补显卡计算能力上的不足。关于异步时间扭曲更为详尽的技术文档<a href="https://web.archive.org/web/20140719085135/http://www.altdev.co/2013/02/22/latency-mitigation-strategies/">Latency Mitigation Strategies</a>，Carmack把它发布在了过去的 #AltDevBlog 上面。</p>
+
+<p>高帧率、低延迟、低余辉、”human-in-the-loop”的头部追踪……这类的基础技术对于Carmack来说当然是不够的。他更想要的是在这些技术的基础之上做出更好的游戏，特别是更好的移动游戏，他更感兴趣的也是移动平台上的Oculus——由他所负责的Gear VR，他<a href="http://www.engadget.com/2014/09/04/samsung-gear-vr-john-carmack/">解释说</a>：“（正是）它促使我下定决心：我要把100%的注意力专注到Oculus上面。”</p>
+
+<blockquote>
+  <p>（但）跟三星合作的前几个月非常令人沮丧。当时我们需要拿到前置缓冲区（front buffer）的访问权限，从而能直接在屏幕上绘制图像，而不是还要通过默认的三重缓冲区（三星那边不肯授权）。为打破这一僵局，我想出来一个办法——把三星给我的第一部手机上的这个权限黑了，这就直接解决了这一非常猥琐的编程问题。而后我把它拿给三星负责驱动的人看，他们当时的感受是“噢，天哪！这么做太糟糕了。”不过这招很管用，现在，前置缓冲渲染能用了。这让我们得以去掉两帧的延迟，这一点非常重要！</p>
+
+  <p>为搞定这事儿我可花了不少功夫。我给三星写过太多长篇大论的邮件来告诉他们这么做的重要性。不过一旦我们搞定了这一点，并让他们看到这样做真的很有效果，三星就能接受这一点，他们并为此写出来一个合适的接口。拿到这个扩展的接口后，我就有了正式的访问权限，而不必再用先前我那种比较离谱的方式。这样一来，关系一旦破冰，他们就知道我提出的会是好主意，而这些建议将能带来真正的改进。于是，他们又开始提供一些我原以为在合作中没可能获取到的东西。</p>
+</blockquote>
+
+<p>Oculus跟三星的这场合作的成果，不仅仅是三星用Oculus的技术来生产Gear VR，Oculus也得以让三星为其Rift产品专门生产OLED显示屏。</p>
+
+<p>另外，为方便Gear VR的开发者迅速开发VR原型，Carmack还基于Scheme语言创建了一个全新的脚本环境，简称为VrScript，其早期的代码发布在<a href="https://groups.google.com/forum/#!msg/racket-users/RFlh0o6l3Ls/8InN7uz-Mv4J">Google论坛的Racket用户组</a>。他还在2015年的Connect 2大会上做了一一次<a href="https://www.youtube.com/watch?v=rMItsZq_n20">现场的编程演示</a>。VRML（虚拟现实建模语言）的创造者Tony Parisi认为这是一个<a href="http://www.roadtovr.com/4-thoughts-on-carmacks-vrscript-from-tony-parisi-creator-of-vrml/">好主意</a>：</p>
+
+<blockquote>
+  <p>“因为Oculus正在推动VR的日常使用。更棒的还在于该脚本语言来自于John Carmack，他有着常年编写复杂游戏引擎的经验。但作为Oculus的CTO，他所应实现的是能够让所有的开发者都可以开展针对VR的开发，而非仅仅针对于专业的游戏程序员。”</p>
+
+  <p>……</p>
+
+  <p>“为什么我们不是仅点击一个链接，或是输入一个网址，然后就能够立即进入虚拟现实？为什么还需要下载并安装应用？这就太麻烦了。只要这样的模式还在主导一天，我们就无法形成大规模的VR市场。”</p>
+</blockquote>
+
+<p>除了创造工具，Carmack还认为《吃豆人》《刺猬索尼克》这样的街机游戏也值得被带进虚拟现实，这便诞生了Oculus Arcade。同时，为了让人们在虚拟现实中有电影可看，Carmack亲自帮助Netflix把<a href="http://techblog.netflix.com/2015/09/john-carmack-on-developing-netflix-app.html">Netflix Living Room</a>带入虚拟现实。</p>
+
+<p>当Markus Persson（@Notch）因反感Facebook而拒绝为Oculus做虚拟现实版本的Minecraft时，Carmack并未气馁。尽管Notch最终的立场有所软化，他后来却以25亿美元的价格把Minecraft卖给微软，并退出了Mojang。于是，Carmack只好直接去接触Mojang及微软：</p>
+
+<blockquote>
+  <p>“我们不会从你们那里要任何东西。只要让我们去尝试就成，让我来尝试把它做成VR的。如果做出来的东西你们认为很酷，我们肯定能从那里找到一条出路。我非常有信心把它做成一个很酷的东西，所以你们的任何要求我都能同意。”</p>
+</blockquote>
+
+<p>微软没有理由拒绝这样的提议，Carmack拿到了授权。但Oculus律师的异议却极大：</p>
+
+<blockquote>
+  <p>“这份协议的后果太可怕了！你的一切工作成果将为微软所有。我们无法确保这事能被批准。因为这样一来，你基本上就是在Oculus公司为微软工作。”</p>
+</blockquote>
+
+<p>可Minecraft的意义之于Carmack或虚拟现实，无论怎样说都不能为过。“如果这都不成的话，我只有躲进墙角去哭了……”Carmack后来解释：</p>
+
+<blockquote>
+  <p>“这是我们能为这个VR平台所能做的最好的事情。我认为这是我们为虚拟现实所能做出来的唯一最为重要的应用，它将确保我们获得一批狂热、忠诚的支持者群体来告诉人们虚拟现实为什么能这么棒。这正是我们的内容组合当前所欠缺的无限可玩性的一部分。”</p>
+</blockquote>
+
+<p>对于Minecraft，虚拟现实行业的先驱人物杰伦·拉尼尔（Jaron Lanier）亦有同感：</p>
+
+<blockquote>
+  <p>“每当一个全新的平台诞生时，开创新经济模式的方法亦随之改变……现在启动一个虚拟现实行业平台的要点在于，我们可以根据一些已经证实过的方法进行呼吁，这一次让我们用一种从未大规模实现过的全新方式来塑造虚拟现实行业：（创建一个）极其简单、便捷的小额支付世界，在那里每一个人都是真正平等的，每一个人都会是买家和卖家，每一个人都是一等公民……再让我们看看这将会发生什么奇迹。那可能会很伟大！一直以来，我对虚拟现实的感觉就是，它可以很伟大——这里的关键是你确实需要付出相当的努力和匠心才能做出好东西，做出一个像Minecraft那样好的世界，或是任何一个你在为之拼搏的美好世界。设计出这样一个世界所要用到的方法，如果我们也能将其用到真实的谋生活动里面，这必将对我们的真实世界产生重要的社会学意义。”</p>
+</blockquote>
+
+<p>最近，在回应一个关于VrScript的进展问题时，Carmack在Twitter上解释说他最近都在忙着研究Gear VR的位置追踪技术了：</p>
+
+<blockquote>
+  <p>“我依然认定它（VrScript）非常重要，但如今大部分的时间都用在Gear VR的位置追踪上面，我已经有好几个月没有碰过VrScript了。”</p>
+</blockquote>
+
+<p>关于Gear VR内置的位置追踪技术，Carmack在去年Connect 2开发者大会上这样解释：</p>
+
+<blockquote>
+  <p>“这问题我研究过一段时间，我有信心用立体摄像头来解决好它。而接下来的问题在于，如果你把摄像头放在Gear VR上面，那你要么重新设计整个的Gear VR以构建一个完全不同的系统，要么就是通过USB3接口把摄像头数据传输到手机上，而后者无疑要耗去太多电量……这里的问题比较麻烦。在我们Oculus大约有30个并购自不同公司的计算机视觉专家，但却没有一个人想去解决这一问题。他们都有各自深奥的研究性问题，而这一个问题却是我现在想要解决的。但愿已经有人在上面花过时间了。”</p>
+</blockquote>
+
+<p>等Carmack解决掉这一难题的时候，我们就能够直接通过头显感知外部环境的变动，再也不必局限在房间内的外置位置追踪设备上，可以自由地探索虚拟世界的全部，想去哪就去哪。</p>
+
+<hr />
+
+<h2 id="section-5">更大的挑战：培养出一位游戏黑客</h2>
+
+<p>Carmack 正在培养他的儿子 Ryan 也来做游戏，如今10岁的 Ryan 先后在他的个人网站上发布了 Angry Face! 和 FLY 两款游戏了。Angry Face! 的游戏设计是基于他对经典游戏 Pong 的理解，FLY 的玩法则类似于 Wii U 上的 Spikey Walls 或是前两年风靡全球的 Flappy Bird。为了让他奶奶也能玩上他亲手制作出来的游戏，Ryan 还非常贴心地为每款游戏都设计出了“祖母模式（grandma mode）”。</p>
+
+<p>如此年龄便能取得这样的成绩，顿时让一大批人产生出“子承父业”、“拼爹优势”……诸如此类的感慨。事实上，当年 Carmack 处于 Ryan 这个年纪的时候，都还没有开始接触电脑呢，充其量不过是玩玩《龙与地下城》、打打街机……但 Carmack 依然能成长为当世无双的游戏大神，为什么 Ryan 就不能发展出一条完全属于他自己的成长路径呢？要知道，如今的 Ryan 比当时 Carmack 自己的成长条件着实要好不少呢！</p>
+
+<p>这样的成长条件，很容易让人联想起19世纪英国的思想大家约翰·密尔。密尔三岁开始读希腊文，八岁学拉丁文、代数、几何，九岁起遍读希腊史学，13岁学完经济学，少年阶段的知识就已超过了剑桥大学的一般学生。他从小便由父亲詹姆斯·密尔亲手培养，后师从杰里米·边沁和大卫·李嘉图……并在恋爱与婚姻期间写出大量名作，终成一代大家。</p>
+
+<p>重新回到 Ryan 的话题，非常遗憾，媒体还是在 Carmack 的光环下看待这事，并且还用上了 Carmack 2.0 这样的字眼。诚然，有一个 Carmack 这样的老爹确实能让 Ryan 的知识和技能发展顺利不少，但 Carmack 培养 Ryan 去做游戏的目的绝不仅仅在于游戏本身，而在于做游戏背后的思维和方法，而在于黑客的生活方式。而要成长为一名黑客，一定是 Ryan 自己做对了些什么才能实现的，就算是 Carmack 也只能是为他指明这条道路。</p>
+
+<p>接下来我们就用 Ryan 自己的话语来说说他在通往游戏黑客的道路上已经做对了些什么：</p>
+
+<h4 id="section-6">从玩游戏的乐趣中获取动力</h4>
+
+<blockquote>
+  <p>“我最喜欢的活动是玩《龙与地下城》，我最喜爱的游戏是《我的世界》。”</p>
+</blockquote>
+
+<p>Ryan 说他喜欢《龙与地下城》是因为，那完全有可能把现实扭曲掉，并让你来书写出属于自己的故事。Ryan 自己的角色是一个牧师，他的团队里还有战士、霍比特人、巫师、精灵各一个。但由于作为地下城主的 Carmack 实在是太忙了，以致于 Ryan 只能跟他的朋友们去玩一些非正式的任务。尽管这样，Ryan 依旧能玩得津津有味。只要团队的一部分人有机会进行游戏，Ryan 就能去完成一些支线任务。</p>
+
+<blockquote>
+  <p>“也许有一天，我就能够取代父亲作为地下城主来主持游戏了。”</p>
+</blockquote>
+
+<p>而 Ryan 的母亲则会记录下他们的冒险，她还说将来会把 Ryan 的冒险装订成一本羊皮书。</p>
+
+<p>这样的《龙与地下城》体验确实棒极了！它能给你动力去了解游戏的一切，包括制作游戏。</p>
+
+<h4 id="section-7">模仿大师级游戏的设计</h4>
+
+<p>学习写作最好的方法是阅读大师的一些名著，试着写点自己东西，再读些，再写点，再读些，再写点……如此往复，直到你的作品达到范文的力度和效果。学做游戏的过程也一样，Carmack 自己的首个游戏——《造影》（Shadowforge）就是直接沿用了经典游戏《创世纪》的构思，尽管二者很相像，但《造影》也有几处独特的创新，比如玩家可以朝任意方向攻击。</p>
+
+<p>Ryan 做的第一个游戏 Angry Face!  源自雅达利最早的街机游戏 Pong，所不同的是，Pong 里面的小球被改成一个有趣的脸形表情，随着撞击次数的增加，表情逐渐从愉悦转变成愤怒，最终愤怒的力量会把某一方的挡板击碎。游戏的目标是比你的对手多活两轮并在得分上多出4分。</p>
+
+<p>FLY 则是一个类似 Spikey Walls 或是 Flappy Bird 的游戏，其中的飞行生物正在经历一场严酷的障碍训练，挑战者需要飞过45个不同致命程度的关卡，这便是飞行的代价。不过，得分最高的挑战者将能获得永生！</p>
+
+<p>当然，仅仅靠模仿是无法把大师级的游戏设计转化成真实可用的技能的，像这样的不断实践并虚心学习是不可避免的，具体说来就是：<strong>(a) 读代码，(b) 写代码。</strong></p>
+
+<p>换言之，要学会编程。</p>
+
+<h4 id="section-8">学会编程</h4>
+
+<p>对于第一个游戏 Angry Face! 的制作过程，Ryan 在他自己的网站上做了详细的描述：</p>
+
+<blockquote>
+  <p>我是用 Unity 和 C# 来做这个游戏的。我爸爸教会我用 C# 来编程。但我们都是 Unity 的新手，所以就一起来学的 Unity。脸形表情是我妈妈帮我画的，她还帮助我进行设计。我用 GIMP 把她画给我的图像剪切出来。游戏里面的声效和语音是由我、我弟弟、还有我朋友 Daniel 一起做出来的，我用 Audacity 来处理这些音频。我们做音效的时候是相当欢乐的！我最喜欢的声音是小我五岁的弟弟给愤怒表情的配音。那太搞笑了！在第一次录制它的时候，我就笑得停不下来！</p>
+</blockquote>
+
+<p>而 FLY 的制作过程则是这样的：</p>
+
+<blockquote>
+  <p>我用 Racket 语言来制作 FLY。我还自学了 Blender 并用它来创作 3D 模型及游戏动画。我还是用 Audacity 来制作游戏音效。我刚刚上手 Racket 且还在继续学习中，但使用 Racket 真的非常惊艳！我很喜欢 Blender 而且也用着它有一阵子了，但我还没有去做过骨骼动画与纹理贴图。我还没用 Blender 做过大型项目，但我真的很喜欢它。</p>
+</blockquote>
+
+<p>所以说，制作游戏是一套非常综合的技能，学成黑客后的 Ryan 也有可能继续去学做火箭，毕竟“游戏是入门科技行业的最佳培训，它能教会玩家运用交互性的技能和思维来构建网络……未来网上的一切就像是多人游戏一般，如果我只有15岁的话，这就是我当下就要去做的事情。”</p>
+
+<h4 id="section-9">建立学习的信心</h4>
+
+<p>除了《龙与地下城》、电子游戏与数学之外，Ryan 最喜欢的事情就是阅读了。他非常喜欢《冰风谷》三部曲。这套书写的是是一个善良的黑暗精灵（即主人公崔斯特·杜垩登，黑暗精灵游侠）和他朋友们的冒险故事。跟 Carmack 小时候一样，Ryan 同样非常喜欢《魔戒》三部曲里面的故事。他说他还会在 Youtube 上看大量的游戏电影，特别是 Stampy 的频道。</p>
+
+<p>因为从小就能够欣赏电子游戏的乐趣，因而把玩游戏过程中所累积的这些乐趣或者想法更进一步地实现出来也就水到渠成了。但发布第一款游戏的时候，Ryan 还是极为紧张，因为他觉得自己写出来的游戏有点禁不住推敲，况且还只是由他弟弟帮他做的测试。</p>
+
+<p>但第一次尝试的效果是，Ryan 还是想要去做出更多的游戏，于是便有了第二个游戏 FLY。除了编程技能方面的进步，Ryan 还用他玩《龙与地下城》所积攒的经验，以及阅读魔幻冒险所了解到的知识，来为游戏设定背景和剧情。他觉得自己在制作游戏的道路上正越做越好。</p>
+
+<p>正是这样，“尽管你所掌握的知识可能不足以解决你当前的问题，可一旦你从问题的一小部分入手并从中学习，你将会学到足够的知识用来解决下一部分——如此往复，直到整个问题都会被你解决。”</p>
+
+<h4 id="section-10">利用好一切资源并享受能力提升所带来的乐趣</h4>
+
+<p>Carmack 说过的是：</p>
+
+<blockquote>
+  <p>“我启蒙阶段用的是学校里的苹果II型机，但当时的条件局限了我学习的速度和深度。今天的状况已经好多了，只要有一台便宜的二手PC机、一张 Linux 光盘和一个因特网的账号，你就拥有了足够的工具和资源，你就可以达到任何你期望的编程境界。”</p>
+</blockquote>
+
+<p>好多人都会去抱怨自身的条件不足或是资源匮乏，而那些没有去抱怨的人唯一不同的表现是，他们仅仅是直接动手去做了，正如 Ryan 这样。“如果你想完成一件事，那就行动。如果不想，就迈步走开。”只要运用好身边可以被利用起来的一切资源就足够了。</p>
+
+<p>可能有人会这样想，原本我也是想做游戏的，可小时候完全没有 Ryan 这样的家庭条件呀……这里面的事实在于，就连 Carmack 自己小时候都没有过 Ryan 这样的条件，可是他有正确的态度，同时又能自学到那些必要技能……这样的决心让他坚持过了两点之间的曲折的路径，而一般人仅仅是在他功成名就的时刻看到了那一条成功的直线。</p>
+
+<p>但扪心自问，我们是否真正领悟出了游戏的乐趣？是否真正能从磨练技能中获取动力？是否真正能够保持住正确的态度？仅仅是有想法，却无法在面对负面因素的同时去累积有利的因素，这样的想法归根结底是脆弱的，禁不起时间的考验。</p>
+
+<p>我们已经看到了 Ryan 的态度和技能，但要真正成长为一名游戏黑客，他这个想法就应当是反脆弱的，能够禁得起时间的考验。我们由衷地希望 Ryan 一直能够享受到黑客之路上的乐趣。</p>
+
+<blockquote>
+  <p><strong>“These are the good old days.”</strong></p>
+</blockquote>
+
+<p>当然，作为一个吃货，Ryan 找到好吃的餐馆时就是一种额外的乐趣了。</p>
+
+<p><strong>值得一提的是，Ryan 并非是特例。</strong></p>
+
+<p>Reddit 用户 Zephir62 说他也是在一个有着类似的电子游戏传统的家庭环境里面长大的。他五、六岁的时候就在 Qbasic 编程了，还制作过房间大小的地下城，11岁的时候开始学 3DS Max 来制作《半条命》的修改包。今年26岁的 Zephir62 已经参与过 PVKII, Starbound, Voxelnauts 等游戏，同时还是  Oculus 和 Firefall 的合同工。</p>
+
+<p>Zephir62 正尝试去找到第一份属于 AAA 级工作室的工作，但他认为游戏行业目前更想要有特殊专长的人而非多面手。目前他正在累积 PBR 着色系统、粒子渲染与虚幻4的视觉脚本方面的经验，以创造出具备完整特效的游戏。但用户 WhiteZero 给他的建议是，考虑来做一个属于自己的小型工作室，如果他确实是游戏制作的多面手的话。</p>
+
+<blockquote>
+  <p><strong>“能够正确的抚养孩子，绝不是一件容易的事。”</strong></p>
+</blockquote>
+
+<p>这里我们唯一能说的就是，希望他们都能成功。</p>
+
+<h2 id="carmack">反脆弱：Carmack论想法的更迭</h2>
+
+<p>我们每个人都会想着一个能长期跟其他人长期讨论的“宝贝想法”，惟有Carmack这样的人却能持续不断地把这样的“宝贝想法”变为现实。为什么呢？他是怎么做到这一点的？</p>
+
+<p>他去年在Facebook的一场内部演讲中讨论到了这一点，其中关键的一点是“反脆弱”：</p>
+
+<blockquote>
+  <p>一旦你有了一个想法，你就要试着打败它。这一过程中你将产生出更多的想法来取代先前失败的主意，因为你为更多的想法的诞生空出了思维上的空间。而且，你已有的想法将会变得更为强大，因为它们通过了重重考验。</p>
+</blockquote>
+
+<p>Facebook JavaScript团队的Amjad Masad实践这一思维后，<a href="http://amasad.me/2016/03/09/john-carmack-on-idea-generation/">这样</a>来总结具体的使用方法：</p>
+
+<blockquote>
+  <ol>
+    <li>在你解决一个问题的过程中，你能从中获得一个高起点的初始想法。</li>
+    <li>你应该马上尝试打败这个想法——想想它所有无法成功的可能，测试出结果，将这一想法置于压力之下。</li>
+    <li>如果该想法能在如此严酷的考验下存活下来，那么它就具备了进行进一步的调查或实践的基础。</li>
+    <li>如果该想法得以实践并取得成功，这当然很棒。</li>
+    <li>即便该想法在审查或实践中失败了也不要紧，你可以迅速转换到下一个想法而无须感到低落，因为你并没有花很长时间纠结或谈论它，亦即，它原本就不是你的宝贝想法。</li>
+  </ol>
+</blockquote>
+
+<hr />
+
+<p><em>最后，想要从John Carmack这样一位大神身上学到点什么，我们还是要从ESR在《如何成为一名黑客》开篇所引用的那首禅诗来领悟一下：</em></p>
+
+<blockquote>
+  <p>To follow the path:</p>
+
+  <p>look to the master,</p>
+
+  <p>follow the master,</p>
+
+  <p>walk with the master,</p>
+
+  <p>see through the master,</p>
+
+  <p>become the master.</p>
+</blockquote>
+
+</article>
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    <small>
+      Published by <a rel="author" href="https://github.com/BITandLiteracy">AppU</a>. Jekyll theme is from <a rel="theme" href="https://github.com/johnotander/pixyll">Pixyll</a>.
+    </small>
+  </div>
+</footer>
+
+</body>
+</html>

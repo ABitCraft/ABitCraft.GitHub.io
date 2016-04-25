@@ -1,5 +1,5 @@
 // Typography
-/*$base-font-size: 14px !default;
+$base-font-size: 14px !default;
 $bold-font-weight: bold !default;
 $font-family: 'Han Heiti', Menlo, Consolas, monospace !default;
 $serif-font-family: Georgia, 'Times New Roman', serif !default;
@@ -23,7 +23,7 @@ $h1-responsive: 3.6vw !default;
 $h00-responsive-max: 7.68rem !default;
 $h0-responsive-max: 5.76rem !default;
 $h1-responsive-max: 3.84rem !default;
-$abbr-border-bottom: 1px black dotted;*/
+$abbr-border-bottom: 1px black dotted;
 
 // Page width
 $measure-width: 42rem !default;
@@ -58,8 +58,8 @@ $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
 // Links
-/*$link-color: $blue;
-$link-hover-color: darken($blue, 40%);*/
+$link-color: $blue;
+$link-hover-color: darken($blue, 40%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
@@ -97,7 +97,7 @@ $form-field-padding-y: .5rem;
 $form-field-padding-x: .5rem;
 
 // Code
-/*$pre-border-radius: 0;
+$pre-border-radius: 0;
 $pre-background-color: #fafafa;
 $hljs-comment: $mid-gray;
 $hljs-keyword: $dark-gray;
@@ -114,7 +114,7 @@ $hljs-preprocessor: $mid-gray;
 $hljs-deletion: $light-pink;
 $hljs-addition: $light-green;
 $hljs-change: $dark-blue;
-$hljs-chunk: $light-gray;*/
+$hljs-chunk: $light-gray;
 
 // Footer
 $footer-border-top: thin solid #fff;
