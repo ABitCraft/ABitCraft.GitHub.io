@@ -3,7 +3,12 @@ layout: post
 title: 虚拟和增强现实溯源：Sutherland 的《终极显示》
 ---
 
+*  The Ultimate Display
+{:toc}
+
 > Ivan Sutherland 发表于1965年的 ["The Ultimate Display"](http://worrydream.com/refs/Sutherland%20-%20The%20Ultimate%20Display.pdf) 是当下整个虚拟和增强现实技术的原爆点。这篇文章在国内传播得很少，为此，我们特地翻译了这篇 WIRED 在2009年重新发布的新格式内容。下面括号中内容为 WIRED 注释，图片为译者所加，仅供大家参考。
+
+***
 
 (((1965年的这篇著名文章，是当今图形显示技术的原爆点。对于增强现实而言，这篇文章的地位就相当于万尼瓦尔·布什那篇 ["As We May Think"](http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)（1945）之于计算机网络的作用。)))
 
