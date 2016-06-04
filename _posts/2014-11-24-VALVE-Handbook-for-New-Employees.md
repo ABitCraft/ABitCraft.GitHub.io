@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VALVE新员工手册
-categories: 翻译
+categories: Translation
 ---
 在无人为你指路时
 

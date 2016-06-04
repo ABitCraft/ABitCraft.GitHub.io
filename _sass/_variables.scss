@@ -34,9 +34,10 @@ $viewport-medium: 48rem;
 $viewport-large: 64rem;
 
 // Colors
-$hn-orange: #ff6600 !default;
-$piedpiper: #608c28 !default;
-$ars: #64897e !default;
+$d2u: #908064 !default;
+$ychn: #ff5300 !default;
+$pp: #4A9327 !default;
+$ars: #999999 !default;
 $blue: #0076df !default;
 $red: #f95020 !default;
 $green: #00cf26 !default;
@@ -58,8 +59,8 @@ $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
 // Links
-$link-color: $blue;
-$link-hover-color: darken($blue, 40%);
+/*$link-color: $blue;
+$link-hover-color: darken($blue, 40%);*/
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
@@ -119,7 +120,7 @@ $hljs-chunk: $light-gray;
 // Footer
 $footer-border-top: thin solid #fff;
 $footer-padding: $space-3;
-$footer-color: #7a7a7a;
-$footer-bg-color: #e7e7e7;
+$footer-color: #fff;
+$footer-bg-color: $d2u;
 $footer-font-weight: 300;
-$footer-font-size: .75rem;
+$footer-font-size: .875rem;

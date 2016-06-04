@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title | strip_html }} &#8211; {% endif %}{{ site.title | strip_html }}</title>
+    <title>{% if page.title %}{{ page.title | strip_html }} &#124; {% endif %}{{ site.title | strip_html }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{% if page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
     <meta name="author" content="{{ site.author }}">
@@ -14,10 +14,6 @@
 
     <!-- Fonts -->
     <link rel="stylesheet" media="all" href="{{ "/css/han.min.css" | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
-
-    {% if site.show_social_icons or site.show_sharing_icons %}
-      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-    {% endif %}
 
     <!-- Icons -->
     <link rel="icon" type="image/png" href="/favicon.png" sizes="96x96">

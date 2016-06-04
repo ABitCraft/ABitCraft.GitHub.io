@@ -6,15 +6,21 @@ permalink: /about/
 
 *Welcome to my domain!*
 
-> BITandLiteracy是向Mark Hurst的Bit Literacy致敬。
+`这里的 BITandLiteracy 是向 Mark Hurst 的 Bit Literacy 一书致敬。`
 
 ***
 
-首先，Essays部分维护的是我翻译和存档的一系列文章，与其细说它们对我的启迪及影响，不如你直接去读其中的一篇尝试一下，这肯定不会让你感到是在浪费时间。我非常推荐它们，因为黑客文化和数字素养方面关于人的形象的这些经典文档，与其说是解释那类处于社会边缘的人，倒不如说是在解读那类在为人类拓展这唯一的世界的外沿的先行者们。
+了解到 GitHub Pages 和 Jykell 之后，特别是读过 Tom Preston-Werner 那篇 ["Blogging Like a Hacker"](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)（中文版：[“像黑客一样写博客”](http://kyle.xlau.org/posts/blogging-like-a-hacker.html)），我也搭建起自己的页面来存档自己的写作，并维护一些有用或有趣的文档。
 
-其次是我自己在尝试中的一些写作，我在科技文化方面阅读较多，主要偏好于全球概览与黑客文化这类反主流文化方面的内容，我特别向往那种不受网络封锁和系统限制的系统管理员形象。
+> 这里的作品主要是关于虚拟现实与黑客文化的，另外就是我自己的一些翻译——特别是其中那些让我深受启迪的文档。与其细说它们对我的启迪及影响，不如你直接去读其中的一篇尝试一下，这肯定不会让你感到是在浪费时间。
+>
+> 我非常推荐它们，不仅仅是在于科技和文化方面那些非常`COOL`的内容，更重要的是去领悟我们这个时代的英雄和先行者是如何在改变我们所处的这个世界的，理解和品味他们的技能和素养、他们的思考和方法，总能让我们学到一点什么。
 
-维护这些内容，一则是为科技文化本身服务，二则是为提升自己，并与大家共勉。诚然，这些文档本身不会产生价值，但却会让运用它们的人提升价值。
+我最初用的是 Jekyll 的 [Brume](https://github.com/aigarsdz/brume) 主题，后改用为 [Pixyll](http://www.pixyll.com/) 的设计。用惯 Markdown 与 Jekyll 后，我又重读了 `Head First HTML and CSS` 一书，而后以 [Pixyll](http://www.pixyll.com/) 的结构设计结合 [汉字排版框架](http://css.hanzi.co/) 的字体排版重做了这里的页面。
+
+不过现在的设计，想必还有很多值得改进的地方。好在“我能随时修改CSS和页面模版。所有东西备份在GitHub上……系统简单到我能控制整个的转换过程。”“我想它会让我成为一个更好的博客作者。”
+
+> 诚然，这里的文档本身不会产生价值，但却会让运用它们的人提升价值。维护这些内容，一则是为科技文化本身服务，二则是为提升自己，并与大家共勉。
 
 <pre><code>GitHub https://github.com/BITandLiteracy
 豆瓣 http://www.douban.com/people/BitandLiteracy/

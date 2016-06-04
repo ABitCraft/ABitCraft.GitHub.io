@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 桑斯坦论卢卡斯：要准确描述我们的创造力
+categories: 
 ---
 
 * Lucas Star Wars

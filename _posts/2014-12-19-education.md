@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 跨学科技能：教育的意义所在
-categories: 存档
+categories: Heroes
 ---
 *芒格的演讲稿，[《查理·芒格传》](http://book.douban.com/subject/4119096/)附录*
 

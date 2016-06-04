@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何成为一名黑客
-categories: 翻译
+categories: [Hackerdom, Translation]
 ---
 
 Eric Steven Raymond

@@ -1,17 +1,21 @@
 .site-header {
   padding-top: $space-1;
   padding-bottom: $space-2;
-  background-color: #e7e7e7; /* dark blue slate thing */
+  background-color: #406C80; /* dark blue slate thing */
 }
 
 .site-header a {
-  color: $hn-orange;
+  color: #fff;
   font-size: $h3;
   font-weight: 300;
 }
 
+.site-header a:hover {
+  opacity: 0.6;
+}
+
 .site-header .site-title {
-  font-size: $h2;
+  font-size: $h1;
 }
 
 .site-nav {
@@ -25,20 +29,20 @@
 .site-header nav a:hover,
 .site-header nav a:focus,
 .site-header nav a:active {
-  color: $ars;
+  color: $d2u;
   opacity: 1;
-  border-bottom: 2px solid $ars;
+/*  border-bottom: 2px solid $ars;*/
 }
 
 .site-nav a + a {
   margin-left: 1em;
 }
 
-.site-header a:hover,
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
-  opacity: 0.88;
+  color: $d2u;
+  opacity: 0.75;
 }
 
 .site-header {

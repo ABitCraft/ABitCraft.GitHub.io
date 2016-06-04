@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Oculus Connect 2 首席科学家 Michael Abrash 发言实录 &#124; BITandLiteracy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Crafting tools. Crafting code. ">
+    <meta name="author" content="AppU">
+    <meta name="keywords" content="VR">
+    <link rel="canonical" href="http://BITandLiteracy.github.io/Abrash-OC2">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for BITandLiteracy" href="/feed.xml" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css?201606041527" type="text/css">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" media="all" href="/css/han.min.css?201606041527" type="text/css">
+
+    <!-- Icons -->
+    <link rel="icon" type="image/png" href="/favicon.png" sizes="96x96">
+
+    
+</head>
+
+<body class="site">
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://BITandLiteracy.github.io" class="site-title"><em>BIT</em> &#38 Literacy</a>
+      <img src="/gclef-logo.svg" width="64" height="48"></img>
+      <a href="/about/">关于</a>
+      <nav class="site-nav">
+        <a href="/VR/">VR</a>
+<a href="/heroes/">Heroes</a>
+<a href="/hackerdom/">Hackerdom</a>
+<a href="/archive/">Archive</a>
+
+      </nav>
+
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+<div class="post-header mb2">
+  <h1>Oculus Connect 2 首席科学家 Michael Abrash 发言实录</h1>
+  <span class="post-meta">May 6, 2016</span><br>
+    
+  <span class="post-meta small">
+  
+    3 minute read
+  
+  </span>
+</div>
+
+<article class="post-content">
+  <blockquote>
+  <p><strong><a href="http://gulu-dev.com/post/2015-10-18-oculus-connect-2-michael-abrash-keynote">本文</a></strong> 来自于一位专业的游戏开发者，所记录的是传奇图形程序员 Michael Abrash 在去年 Oculus 开发者大会上描绘出来的虚拟现实的全景，对于完整理解虚拟现实很有帮助。作者是西山居的 <strong><a href="http://gulu-dev.com/about.md">顾露</a></strong>，相信极简化，视编程为园艺艺术与建筑工程学的结合体。你可以从<strong><a href="http://gulu-dev.com/post/2016-04-09-a-working-day">《我的日常一天》</a></strong>中了解更多有关他的工具和方法。</p>
+
+  <p><em>这里先补上 Abrash 的完整演讲视频，我们推荐先阅读完全文再来细细品味这场演讲：</em></p>
+</blockquote>
+
+<embed src="http://static.video.qq.com/TPout.swf?vid=e0198javxwp&amp;auto=0" allowfullscreen="true" quality="high" width="640" height="420" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" />
+<p>&lt;/embed&gt;</p>
+
+<p>去年三月份，传奇图形程序员 Michael Abrash <a href="https://www.oculus.com/en-us/blog/introducing-michael-abrash-oculus-chief-scientist/">加入 Oculus</a>，以首席科学家 (Chief Scientist) 的身份再次跟 John Carmack 站在了一起，而此时距卡神 <a href="https://www.oculus.com/en-us/blog/john-carmack-joins-oculus-as-cto/">成为 Oculus 的 CTO</a> 已经快一年了。</p>
+
+<p>半个月前的 Oculus Connect 2 大会上，Michael Abrash 和 John Carmack 分别做了精彩的发言 (视频在 <a href="https://www.youtube.com/watch?v=tYwKZDpsjgg">这里</a> 和 <a href="https://www.youtube.com/watch?v=Ti_3SqavXjk">这里</a>)。其中卡神的发言技术和工程细节较多，更适合已经在 VR 一线的开发人员。而 Abrash 则在半小时的 keynote 中，集中展示了 Oculus 的研究机构 Oculus Research 在 VR 的研究和探索中遇到的各方面的难题，关键的挑战和已经取得的一些进展。相较卡神一开口就根本停不下来的意识流，Abrash 的发言更加概括和完整，很适合从全景上了解 VR/AR 技术，对一般的开发人员也有一些启发性，所以俺择要记录了一下，以备日后参考。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash.png" alt="Michael Abrash" /></p>
+
+<p>Abrash 上来时先煽情了一下，告诉大家他对 VR 近年的进展感到十分吃惊和兴奋，“就在几年前，虚拟现实的这一切还是完全不可想象的，我们对这几年的技术进展感到兴奋也是完全应该的……真正有趣的一点在于，我们不过是刚刚见识到 VR 的基本功能，接下来数十年的虚拟现实新方法和新体验还有待于我们进一步去发掘……” 和那些一窝蜂跑到这个行业里来淘金的人不同，对 VR 这一可能深刻地影响和改变人们生活方式的技术，Abrash 言语间洋溢着技术人员所特有的巨大热情。</p>
+
+<hr />
+
+<p>紧接着，Abrash 很有感情地讲了一个 <strong>“Good-old-days”（流金岁月）</strong> 的小故事。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash01.png" alt="Good Old Days" /></p>
+
+<p>当他 92 年左右还在西雅图为微软做第一代 Windows NT <em>(这货后来居上，淘汰了 Win95/98/ME 的实现，成为后来所有 Windows 的内核基础)</em> 的开发时，有一次开会，他跟行业传奇 <a href="https://en.wikipedia.org/wiki/Dave_Cutler">Dave Cutler</a> 正好走在一起，两个人没说话默默地走了一段之后，Dave 突然转过来对 Abrash 说：<strong>“You know, these are the good old days”</strong> 把他吓了一跳，“I don’t think I would have been more startled if Dave announced he was a martian.” <em>(就算 Dave 说他是火星人我都没法更震惊了)</em> 当时 Abrash 很不以为然，哥你别开玩笑了好不，天天加班干到吐血，品控严得让人发指，压力这么大你居然好意思说这是“Good old days”，该吃药了吧。</p>
+
+<p>后来呢，Abrash 动情地说到，Dave 居然是对的，很多年后他回过头去，对 Windows NT 的那段工作经历，他印象最深的就是亲密无间的<strong>协作氛围 (teamwork)</strong>，战友之间的<strong>满满基情 (camaraderie)</strong>，和作为一个整体取得的<strong>巨大成就 (accomplishment)</strong>。每当想到他曾参与设计和实现了一个 OS 的核心部分，而这个 OS 在过去的15年里成为数以亿计的人几乎每天都需要使用的工具，他就觉得这段经历非常的可贵，没有什么比这更符合 “Good old days” 了，而身处局中的人往往没有意识到自己正在参与什么和改变什么。Abrash 说到，他希望来参加 Connect 的各路英雄能意识到，“我们是如此地、令人难以置信地幸运，能够有机会成为虚拟现实行业的开拓者。”</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash02.png" alt="We are VR pioneers" /></p>
+
+<p>“我们在创造一种让人们与机器进行互动的全新方式，一种有可能重新定义我们几乎所有的工作、娱乐以及互动方式的全新技术。这样的人生际遇在人的一生中最多也就碰上一到两次……”满满的使命感，和终于能在有生之年有机会去推动这场深刻变革的幸运感，让 Michael Abrash 看起来完全不像是一个写了一辈子代码，快到退休年纪的程序员，在他和卡马克的眼神中，你能随时看到一种压倒性的纯粹的热情，这是他们最大的共同之处。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash03.png" alt="Book Store" /></p>
+
+<p>VR 技术允许每一个人在虚拟空间里去真切地感受和创造，这种造物主般的感觉不再被程序和美术独享，每个人都有机会去创造和利用属于自己的独一无二的虚拟世界 <em>(正如 Star Trek 里著名的全息甲板 (Holodeck) 和 Matrix 里的母体)</em>。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash04.png" alt="What's your personal reality?" /></p>
+
+<hr />
+
+<p>在畅想了一番 VR 对日常生活的巨大变革之后，Abrash 切入正题，“虚拟现实的未来将基于以下三大基础建立起来”，分别是<strong>对（人类）生理感知系统的驱动</strong>，和<strong>对（真实或虚拟世界的）重建</strong>和<strong>（主体与客体之间的）交互</strong>。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash05.png" alt="Driving The Perceptual System" /></p>
+
+<p>先从<strong>感知系统</strong>说起，Abrash 展示了一个例子，向我们说明了人类的感知系统在百万年的进化后，是如何通过获取极为有限的外界信息，再加上了无数先验的经验假设，来在脑海中重建世界的状态的。在这个过程中，经验假设往往比我们意识到的要重要。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash06.png" alt="" /></p>
+
+<p>注意看，这看上去是一个有两条平行屋脊的顶棚。</p>
+
+<p>但是，当后面镜子上的布被拿掉时，你可以看到镜中的映像：</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash07.png" alt="" /></p>
+
+<p>居然是一个拱顶。（转动的视频请见 6’40”）下面是不同角度时的状况：</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash08.png" alt="" /></p>
+
+<p>这里的要点是，理解了视觉系统是如何令你的感知系统下意识地做出符合经验的判断之后，就能玩些花样，让你“看”到实际上并不存在的东西。这个例子生动地展示了<strong>“我们体验到的“真实”情境，实际上是我们的感知和大脑让我们“感觉”真实的东西 (并不一定与客观世界相符)”</strong> (the reality we experience is whatever the perceptual system and brain say it is) <em>（所谓“眼见”不一定“为实”）</em></p>
+
+<hr />
+
+<p>这给了 VR 一个独特的机会 (以恰当的方式) 去驱动着我们的感知系统来诱使我们<strong>“感觉上真实” (feel real)</strong>。对感知系统控制得越好，VR 的体验就会越好。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash09.png" alt="The Perceptual System" /></p>
+
+<p>正如上图，感知系统主要是经常说到的五感：视觉，听觉，触觉，嗅觉和味觉，再加上 <em>(用于感知速度，加速度，空间位置和控制平衡)</em> 的前庭系统 (vestibular)。紧接着 Abrash 分别谈了一下在这五个方面的研究分别处于什么阶段。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash10.png" alt="Taste" /></p>
+
+<p>先说说<strong>味觉 (Taste)</strong>，Abrash 打趣地说，即使有能产生适当味觉的系统，也很难想象14个人用起来是啥感受 <em>(一个手柄可以大家轮流玩，一个冰激凌轮流吃就有点……)</em>。而且咀嚼和吞咽也是味觉 (taste) 的一部分，这方面的研究目前短期内还看不到什么起色。考虑到味觉对整体的虚拟体验影响并不大，就留给以后的研究人员吧。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash11.png" alt="Smell" /></p>
+
+<p>接下来是<strong>嗅觉 (Smell)</strong>。嗅觉往往与记忆和情绪有着强烈的关联 (has powerful memory and emotional associations) 但非常复杂 (surprisingly complicated)。可能你会觉得在鼻子附近按某种预设的顺序和剂量释放一些气体分子就能很好地模拟了，但实际上气味的传播方式差异很大 (并非均匀散射传播)，而我们的鼻子是很敏感的；而且跟三原色不同，并没有那种嗅觉元素 (primary smells) 可以混合成各种我们能感受到的气味 (所以恰当的模拟可能需要几千种不同的分子)；由于液体分子的持续性和粘性，用于结束当前气味的中央清除器 (central erasers) 本身可能会产生各种气味。所以总得来说嗅觉的模拟潜力很大，但需要进一步突破性的进展。</p>
+
+<hr />
+
+<p><img src="http://geekview.cn/cover/MAbrash12.png" alt="Vestibular" /></p>
+
+<p>然后是<strong>前庭系统 (Vestibular System)</strong>。前庭系统相当于我们人体内置的加速传感器 (accelerometer) 和陀螺仪 (gyroscope) 通过感知人体速度和朝向的变化，来协助大脑持续地判断空间位置和维持平衡感。对于 VR 来说前庭具有特殊的重要性，因为前庭感知视觉感知的冲突是 VR 造成不适的关键性因素 <em>(比如你看到了自己正从空中猛冲向地面，但前庭缺乏对应的感知，就会产生不适)</em>。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash13.png" alt="FPS" /></p>
+
+<p>很多人玩第一人称视角射击 (FPS) 会晕也是同样的原因：视觉上的旋转和加减速缺乏来自前庭的协同反馈。说到这儿，Abrash 无奈地把 Carmack 的照片放出来，“……但令人懊恼的是，某些人就完全不受影响” <em>(全场哄堂大笑)</em>。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash14.png" alt="Carmack" /></p>
+
+<p>可以使用表面电极来刺激前庭，但由于颅骨的隔离，实际感受糙了点。要想做到精细的控制，只有把电极透过颅骨植入内部，Abrash 说，要真得这样就算是最硬核的玩家也不见得双手支持吧。哎，又是脑后插管的节奏啊。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash15.png" alt="" /></p>
+
+<hr />
+
+<p><img src="http://geekview.cn/cover/MAbrash17.png" alt="Hearing" /></p>
+
+<p>然后是<strong>听觉 (Hearing)</strong>。Abrash 和 Carmack 都觉得，听觉对好的 VR 体验非常重要 (Carmack 在随后的 keynote 里也强调了这一点)，而且现有技术已经比较成熟。但这并不意味着实现好的视听效果很简单。听觉的模拟有三个基本的元素：Synthesis（合成）, Propagation（传播）, Spatialization（空间化）。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash18.png" alt="Synthesis" /></p>
+
+<p><strong>Synthesis (合成)</strong> 是源音效的产生过程 (the creation of source sounds)。目前的做法是用预先录制的波形来混合重放，但最终应该是由对物理过程的正确模拟来产生声音的 (比如表面振动)。可以想见的是，这个运算量将会是怪兽级的 (unbelievably computationally intensive)。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash19.png" alt="Propagation" /></p>
+
+<p><strong>Propagation (传播)</strong> 是音效在空间中的传播过程 (how sound moves around the space)。Abrash 原先认为传播的处理相对容易一些，运算量会小一些，但后来发现并非如此。两个原因，其一，跟光线不一样的是，不同频率的声波相互之间的折射，反射和干涉的程度非常不同；其二，(同样是) 跟光波不同，声音的传播慢到人们能显著体验到这种延迟 (闪电和雷声)。“……这就意味着声音必须被模拟成许多频段上的 3D 时间序列，这就比当前为每一帧图像生成一个及时的全局性声音方案要昂贵多了。” 总得来说这是一个运算量的问题，而在考虑空间上的复杂度的情况下得出一个通用的方案，目前仍然是一个未解决的问题。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash20.png" alt="Spatialization" /></p>
+
+<p><strong>Spatialization (空间化)</strong> 是 (相对于接收者而言的) 声音在空间中的方向 (the direction of incoming sound)。理想情况下这应该是 Sound Propagation 的一部分，但现在可以用 HRTF (<a href="https://en.wikipedia.org/wiki/Head-related_transfer_function">head-related transfer function (HRTF)</a>) 来比较好地模拟声音如何到达空间内一个特定的接收者，并转化为声波穿过耳道到达鼓膜。但 HRTF 所需的硬件还很庞大，目前还无法装备到消费级的设备上。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash21.png" alt="HRFT" /></p>
+
+<p>总得来说，我们对声音的原理和公式已经非常熟悉了，但谈到真实且实时的模拟，即使是一个小房间内的几个移动的发声体在目前都还很遥远 (运算量上几个数量级的差距)。成熟的真实声音模拟，还需要若干年的技术积累。</p>
+
+<p><em>(听到这里，我明白过来，目前音效的技术能力如果与图形类比的话，差不多相当于 2D 图像处理，而真实感的声音模拟对应的就是 3D 图形学)</em></p>
+
+<hr />
+
+<p><img src="http://geekview.cn/cover/MAbrash22.png" alt="Vision" /></p>
+
+<p>接下来是对 VR 最为重要的<strong>视觉 (Vision)</strong>，这是我们最熟悉也是研究最充分的一种物理现象。在 VR 的体验中，主要关心的是下面这五种属性的结合：</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash24.png" alt="" /></p>
+
+<p>足够宽的视野，足够好的图像质量，任意变焦，HDR，更好的人体工程学。这些因素都需要改进，但不少情况下它们是彼此冲突的，现在实践上是各种 tradeoff（折衷） 来平衡之。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash25.png" alt="" /></p>
+
+<p>这张图里列出了一些期望作为对比。细节可以看图就不多说了。</p>
+
+<hr />
+
+<p><img src="http://geekview.cn/cover/MAbrash26.png" alt="Haptics" /></p>
+
+<p>最后是<strong>触觉 (Haptics)</strong>，目前还没有任何科技，能有效地模拟真实世界的触摸感受。</p>
+
+<p>在感知系统这一节的结尾，Abrash 做了一个两个小球相交的小实验 (需要看视频 20’20”)，来说明我们在认知心理学上的巨大挑战。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash29.png" alt="" /></p>
+
+<hr />
+
+<p>说完了感知系统，接下来是第二部分 <strong>Sense &amp; Reconstructing Reality（感知并重建现实环境）</strong></p>
+
+<p><img src="http://geekview.cn/cover/MAbrash31.png" alt="Sense &amp; Reconstructing Reality" /></p>
+
+<p>Abrash 放了一段视频，这是他们 Surreal Vision Team 的新同事 Richard NewComb 的成果。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash32.png" alt="" /></p>
+
+<p>这对 VR 来说还不够好，“让所有这一切能够工作，需要从重建流程上重新思考整个的感知过程，从硬件和软件的底层重新做起。”</p>
+
+<p>这是另一段同样来自 Surreal Vision Team 的视频，整个真实世界重建的过程是自动化和无缝实时的，注意其中材质，光照和阴影的模拟。(推荐观看)</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash33.png" alt="" /></p>
+
+<hr />
+
+<p>最后是第三部分 <strong>Interaction（交互）</strong></p>
+
+<p><img src="http://geekview.cn/cover/MAbrash34.png" alt="Interaction" /></p>
+
+<p>这里的研究要点在于“让手能够充当一个灵巧的虚拟操纵者”。不知为啥，看到这儿我想起了 Quake III 里的电锯。这里的难点在于“完全重现真实的运动学”。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash36.png" alt="" /></p>
+
+<p>比如上面这张桌子，目前没有有效的办法来让你 (在虚拟世界中) 的手被一张 (虚拟的) 桌子挡住。这需要新的触感科技，以及配套的交互语言 (就好像刚刚发明鼠标时那样)。</p>
+
+<hr />
+
+<p>把上面三个领域的这些挑战列一下，就得到了这张表 <em>(可以看做是现在 Oculus Research 的研究课题列表)</em>。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash42.png" alt="Oculus Research" /></p>
+
+<p>Abrash 放了一段视频，头戴设备内的面部表情感知 (与南加州大学的合作)，这是其中一个交叉学科研究的例子。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash38.png" alt="" /></p>
+
+<p><img src="http://geekview.cn/cover/MAbrash39.png" alt="" /></p>
+
+<hr />
+
+<p>面对这些世界级的课题，尤其是一些交叉合作的课题，需要非常大的直面困难的勇气。说到这里，Abrash 提起了曾在 id software 与卡神共事的经历，又开始讲小故事了。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash44.png" alt="Overdrawn Polygons" /></p>
+
+<p>那时卡神才刚刚能让 Quake 实时地跑起来，在那个时间点上，在地图内来回跑动已经比较流畅，但偶尔会非常卡，问题出在过度绘制 (Overdrawn) 上。那时的 Quake 画下了视锥内所有的多边形，当往一个复杂度很高的角度看过去时，很多被挡住的物体被一层层地刷在 framebuffer 上，而那时候还没有有效的可见性检测算法。卡神那时一直在想各种办法，来剔除那些不可见的物体。</p>
+
+<p>他试了各种不同的算法 (见下图左半边部分)，看起来都很挺有潜力，但都各有缺点。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash45.png" alt="" /></p>
+
+<p>后来他尝试了直接从场景 BSP 中提取可见信息 (右半部分)，忙活了一个周末，在周一的凌晨 3:30 John 理出了 PVS 的头绪，彻底地解决了这个问题。</p>
+
+<p>这里 Abrash 复述了他在著名的<strong>黑皮书 (Michael Abrash’s Graphics Programming Black Book)</strong> 里<a href="https://github.com/jagregory/abrash-black-book/blob/master/src/chapter-64.md">提到过的一段话</a>，值得记录一下：</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash46.jpg" alt="Black Book" /></p>
+
+<blockquote>
+  <p>John （指 Carmack）说预先计算 PVS 是他一直在考虑的那些方法的合理演化，这个过程中他并没有见识到传说中的 “Eureka!” 时刻。尽管如此，这显然还是一项突破，是全新的、非凡的设计。这一方案同一直在不断发展的存储器光栅程序一起，完全消除了重复绘制，非常接近我们最开始所列出的“完美世界”的细节。</p>
+
+  <p>……</p>
+
+  <p>所有真正杰出的设计，一旦被设计好，看起来都是简洁甚至显而易见的。但获取到杰出设计的过程，则需要那种难以置信的耐心与意愿去尝试大量不同的方法，直至最终收获到正确的那个方法，就像本文中所发生的那样。</p>
+
+  <p>……</p>
+
+  <p>我的朋友 Terje Mathisen 常常喜欢这样说，“几乎所有的编程都可以看作是使用 cache 的练习。”而 John 正是这样做出来的。不管他的 VSD 计算有多快，也不可能跟预先计算与查找可见性一样快，而他最具灵性的一步就是及时跳出了寻求“更快的代码”的误区，并意识到预先计算（具体而言是使用 cache）和查找 PVS 确实是可行的。</p>
+
+  <p>……</p>
+
+  <p>世界上最难的事情就是，面对一个难题时，撇开熟悉的、相对靠谱的解决方案来寻求一种不同的、更为优秀的办法。要做到这一点，最好的方式就是不断尝试新奇的东西，同时总是要力求实现最简化。John 正是有着一个这样的目标，要让每一个 3D 游戏的代码行数都比前一代更少，他的理由是，当他掌握得更多时，他就应当能用更少的代码来把问题处理得更好。</p>
+</blockquote>
+
+<p><img src="http://geekview.cn/cover/MAbrash47.png" alt="" /></p>
+
+<p>最后，Abrash 提到这本具有传奇意义的，影响和激励了无数人 (包括他和 Carmack) 的书。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash49.png" alt="Hackers" /></p>
+
+<p>是的，<strong>“These are the good old days”</strong>。</p>
+
+<p><img src="http://geekview.cn/cover/MAbrash50.png" alt="Good Old Days" /></p>
+
+<hr />
+
+<p>下面的评论里有两条很有意思 (后一条是前一条的回复)，摘录一下：</p>
+
+<p>HowAbout NoSon</p>
+
+<blockquote>
+  <p>说真的，这都说的一堆什么玩意儿！说到底不过是一句“请支持我们的平台，尽管目前我们还没有什么软件”，以及“我们还不知道如何来解决那些尚不明显的问题之中的任何一个。”</p>
+
+  <p>这对于提升 Oculus 的价值毫无意义。</p>
+</blockquote>
+
+<p><img src="http://geekview.cn/cover/MAbrash40.png" alt="" /></p>
+
+<p>Tim Robb</p>
+
+<blockquote>
+  <p>“请支持我们的平台，它还在继续开拓虚拟现实这个极难取得突破的领域，可不管当下的这些挑战有多难，我们还是得出了一个依旧能让人们欣喜的结果。请支持我们的平台，这仅仅才是一个开始。它依旧需要极其重度的研究和开发才能提供出的伟大的虚拟现实体验。”</p>
+
+  <p>这是一种尚未被大众所熟知的体验。当然，他们还没能完成所有软件的构建工作，LOL（大笑）。试问新一代游戏主机发布前数月，有多少游戏能完全支持它？一个也没有。</p>
+
+  <p>它们全都是在游戏主机上市后才去做调整的。</p>
+
+  <p>Oculus Connect 是一场大型的活动。世界各地的开发者都在试着从中获取经验。我们在 Oculus Rift 上市那天还能看到这么多吗？可能会有几个。但你绝对可以打赌，在这群开发者的故乡还有更多的人在从事于此。</p>
+
+  <p>你不肯打赌也没关系。毕竟这只是一个提供给早期用户的演示版本。有超过50%的消费者根本不会购买一个还不够完善的产品，很有可能明年晚些时候，这一阶段才会过去。你也可以到那时再来打赌！对你来说也更稳妥一些，而不像现在会冒很大的风险。</p>
+
+  <p>我们这群早期的使用者和身处前沿的开发者，将会是确保你能拥有愉悦的使用体验的那批人。通过我们的反馈和创造，最终的平台也将包含有我们的一部分在里面。这就是我们所做的事情、为什么我们会来做这事，以及我们为什么会像这样来看待事情。</p>
+</blockquote>
+
+<p><img src="http://geekview.cn/cover/MAbrash00.png" alt="" /></p>
+
+<p>是的，很多很多困难。其中不少困难，不要说工程实践，甚至从理论上都还没有答案。越是深刻的影响和改变，越是需要时间去成熟，消化和沉淀。正是因为我能感受到 VR 将多么深刻地改变我们的生活，才明白这绝不是短期就会成熟落地的科技（正如互联网从兴起到真正地改变生活）。而这正是我对先行者的钦佩之处，也是我记录此文的初衷。</p>
+
+<p>[2015-10-18]</p>
+
+<p>via: <a href="http://gulu-dev.com/">Gu Lu’s Blog</a></p>
+
+</article>
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    <small>
+      Published by <a rel="author" href="https://github.com/BITandLiteracy">AppU</a>.
+      The Jekyll theme is a combination of <a rel="theme" href="http://www.pixyll.com">Pixyll</a> and <a rel="scss" href="https://hanzi.pro/">「汉字标准格式」</a>.
+    </small>
+  </div>
+</footer>
+
+</body>
+</html>

@@ -1,6 +1,12 @@
-# ABOUT
+---
+layout: page
+title: My Career
+permalink: /resume/
+---
 
-## 胡永波 / 男 / 1985
+## ABOUT
+
+### 胡永波 / 男 / 1985
 
 哈尔滨工业大学 / 生物技术 / 辍学
 
@@ -10,17 +16,17 @@
 + 豆瓣：[AppU](http://www.douban.com/people/BitandLiteracy/)
 + GitHub：http://bitandliteracy.github.io/
 
-## Objective
+### Objective
 
 我希望能加入你们一起挖掘科技的深层意义，因为我自己也在探究一些理解科技与工具深层概念的思路，特别是对于其中人的形象的解读。为此，我积累出一些数字文化方面的知识和技能。但更为重要的是，我想要去做一些会让自己引以为傲的事情。
 
 ***
 
-# SKILLS
+## SKILLS
 
 参考 [Web Developer 技能树](http://skill.phodal.com) 和 [谷歌推荐的技术能力提升指南](http://www.imooc.com/wenda/detail/263443) 以及 [知道创宇研发技能表](http://docs.huihoo.com/knownsec/Knownsec_RD_Checklist/v2.2.html)，我也在思索比较系统地梳理知识与技能。
 
-## 技术清单
+### 技术清单
 
 以下是我经常用到的一些技术解决方案，其中包括我自己的掌握程度：
 
@@ -32,7 +38,7 @@
 
 学习技术的个人兴趣是能够打造一个自己的 [R2D2](http://astromech.net) 。
 
-## 数字素养
+### 数字素养
 
 在信息时代，万维网汇聚着贯通全球的事实、⽂件和媒体，只要⼀台便宜的计算机和为之献⾝的决心，良好的数字素养便可以让我们迅速掌握⾃己所需要的东西。
 
@@ -42,9 +48,9 @@
 
 这就是为什么我认为有必要 "Hacking Your Education"，我们获取知识和信息的方式已经发生了根本的改变。我只是想跟上这种改变。
 
-## 读写素养
+### 读写素养
 
-### 阅读
+#### 阅读
 
 《如何阅读⼀本书》结合查理·芒格传记中的《跨学科技能: 教育的意义所在》《关于务实思维能⼒的务实思考》可以让我们把学习贯穿于所有的阅读之中。以黑客文化为例，阅读思路可以是这样的：
 
@@ -56,19 +62,19 @@
 
 从根本上说，学校系统并不关心个人在智慧方面所能达到的程度，这里才是我对个性化学习的真正之需求。
 
-### 写作
+#### 写作
 
 我在阅读的功用方面花心思很多，随着阅读和理解得深入，我开始为自己写出一些东西（见我在 GitHub 的存档）。分享这些有价值的内容，既是为提升自己，同时也是想与大家共勉。
 
 诚然，我在写作与编辑方面的技能还有待于进一步打磨，不过我已经在寻求一些改进的办法了。因为我还想去多写一些东西，而且是写好。
 
-### 英语
+#### 英语
 
 我每天都会读一些国外网站的科技动态以及相关讨论，还会读一些英文原版的书。及时获取到原汁原味的资料和文档，我觉得我还是蛮享受这一点的。
 
 另外，我也尝过一些翻译，但我更为希望的还是通过挖掘材料能探究到作者的本意。英语确实是我们理解科技文化所不可或缺的工具。
 
-## Media Diet
+### Media Diet
 
 对于科技动态，现在我主要专注于 Hacker News 社区。
 
@@ -80,11 +86,11 @@
 
 ***
 
-# PROJECTS
+## PROJECTS
 
 `个人项目`
 
-## [海伦老师的客厅](https://mp.weixin.qq.com/s?__biz=MjM5NzE4Mjc5NQ==&mid=2661486255&idx=1&sn=adc85d400c232a4696fb75c5e0d517cc&scene=1&srcid=0419YxOTOeMjThov2p7S45Fg&key=b28b03434249256bf45ce3c6c26474fd98bc06856d5430cfdd0f1853b8d542dffd2dfa4541ae0395acfcd7fb76f535ed&ascene=0)
+### [海伦老师的客厅](https://mp.weixin.qq.com/s?__biz=MjM5NzE4Mjc5NQ==&mid=2661486255&idx=1&sn=adc85d400c232a4696fb75c5e0d517cc&scene=1&srcid=0419YxOTOeMjThov2p7S45Fg&key=b28b03434249256bf45ce3c6c26474fd98bc06856d5430cfdd0f1853b8d542dffd2dfa4541ae0395acfcd7fb76f535ed&ascene=0)
 
 `Where Helen hosts her guests`
 
@@ -92,23 +98,25 @@
 
 主持人是我的好朋友 Helen，她同时还是“希格斯全球智造中心”的 COO。我会在策划和宣传上帮她出谋划策，并承担一部分的文字工作。
 
-## [虚拟现实全息仪](https://bitandliteracy.gitbooks.io/virtual-reality-holocron/content/)
+### [虚拟现实全息仪](https://bitandliteracy.gitbooks.io/virtual-reality-holocron/content/)
 
 《虚拟现实全息仪》是我深入了解虚拟现实的整个过程中，所累积并编织出来的一份中文资料，目的是梳理关于虚拟现实的基本知识及其背后的思想和文化。我非常希望能把阅读到的这些基本素材很好地组织起来，并不断地调整和更新。
 
 本作品是一部基于 GitBook 的开放书籍，共享协议为 `CC-BY-NC-SA 4.0 International`。其中的“全息仪”一词，即为“全息记录仪” `Holocron`，源自于《星球大战》。
 
-## [BitandLiteracy.GitHub.io](http://bitandliteracy.github.io)
+### [BitandLiteracy.GitHub.io](http://bitandliteracy.github.io)
 
-了解过 GitHub Pages 和 Jykell 之后，特别是 Tom Preston-Werner 那篇“像黑客一样写博客”，我也搭建起自己的页面来存档自己的写作，并维护一些有用或有趣的文档——一则是为技术文化本身服务，二则是为提升自己，同大家共勉。
+了解到 GitHub Pages 和 Jykell 之后，特别是读过 Tom Preston-Werner 那篇 ["Blogging Like a Hacker"](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)，我也搭建起自己的页面来存档自己的写作，并维护一些有用或有趣的文档。
 
 `这里的作品主要是关于虚拟现实与黑客文化的，另外就是我自己的一些翻译——那些让我深受启迪的文档。`
 
-习惯于 Markdown 和 Jekyll 后，我重新去阅读 `Head First HTML and CSS` 一书，然后用 [Pixyll](http://www.pixyll.com/) 的页面结构与 [汉字排版框架](http://css.hanzi.co/) 的字体布局来重做自己的页面。
+我最初用的是 Jekyll 的 [Brume](https://github.com/aigarsdz/brume) 主题，后改用为 [Pixyll](http://www.pixyll.com/) 的设计。用惯 Markdown 与 Jekyll 后，我又重读了 `Head First HTML and CSS` 一书，而后以 [Pixyll](http://www.pixyll.com/) 的结构设计结合 [汉字排版框架](http://css.hanzi.co/) 的字体排版重做了这里的页面。
 
-除了用来更新和维护作品，我还能随时修改 CSS 和页面模版。另外，“所有东西备份在GitHub上……系统简单到我能控制整个的转换过程。”
+不过现在的设计，想必还有很多值得改进的地方。好在“我能随时修改CSS和页面模版。所有东西备份在GitHub上……系统简单到我能控制整个的转换过程。”“我想它会让我成为一个更好的博客作者。”
 
-## 写稿、书评及博客
+> 诚然，这里的文档本身不会产生价值，但却会让运用它们的人提升价值。维护这些内容，一则是为科技文化本身服务，二则是为提升自己，并与大家共勉。
+
+### 写稿、书评及博客
 
 我为“离线”的 MOOK 写过两篇书评：
 > + “[读罢《离线》，回顾《1024》](http://book.douban.com/review/7112369/)” 是对《离线·开始游戏》的评论；
@@ -120,13 +128,13 @@
 
 ***
 
-# EXPERIENCE
+## EXPERIENCE
 
-## 深圳市极客视界科技有限公司
+### 深圳市极客视界科技有限公司
 
 `极客视界·科技编辑（2015年10月~至今）`
 
-### 结合极客文化创作前瞻性的科技内容
+#### 结合极客文化创作前瞻性的科技内容
 
 **原创方面：使用有感染力的故事结合科技内容能够输出比较有说服力的观点**
 
@@ -150,15 +158,13 @@
 > + [《接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子》](http://bitandliteracy.github.io/abrash-dev-days)
 > + [《Gmail 大神告诉你如何用黑客思维来创业》](http://geekview.cn/g19/15879.html)
 
-其中对《虚拟现实基础知识》的翻译促成了“极客视界”与“希格斯全球智造中心”共同来策划一本虚拟现实主题的书的合作（稍后详述）。
-
-### 重新组织并维护团队的 RSS 信息源
+#### 重新组织并维护团队的 RSS 信息源
 
 我把团队的 RSS 阅读器从 `The Old Reader` 换成常用的 `Feedly`（我用的还是 Reeder），并大幅度地精简了冗余的 RSS 信息源，同时以《比特素养》所强调的原则来把这些信息重新加以分类。
 
 这一改变很快就提升了团队的选题效果，也把选题范围纠正到国外科技媒体的最新资讯上来。此外，我自己还能随时推荐给团队一些反响不错的题材。
 
-### 改进内容团队的工具
+#### 改进内容团队的工具
 
 除了 Feedly，我还把 Pocket 推荐给团队成员用于选题素材的管理。
 
@@ -166,7 +172,7 @@
 
 针对令人头疼的 GIF 图制作过程，由于团队所用的只是用于文字处理的低配置电脑，使用 `PhotoShop` 着实吃力，我又钻研并编写出 `FFmpeg` 的批处理脚本，极大地缓解了因 GIF 图制作而造成的团队冲突。
 
-### 梳理并完善内容团队的技能组合
+#### 梳理并完善内容团队的技能组合
 
 基于对“读写素养”及“数字素养”的理解，特别是 Reid Hoffman 的`《联盟》`以及 Valve 的`新员工手册`，我也为自己的团队制作出来一份手册，其中对素材搜集、各类文件处理及文章排版等细节给出了详尽的讲解。
 
@@ -174,7 +180,13 @@
 
 其中的一些长期打算，特别是以科技题材的纪录片、影视作品及人物传记来加强大家对于科技背景的了解，效果还不是很明朗。
 
-### 以虚拟现实为题的跨公司写书合作
+#### 虚拟现实专题
+
+[《虚拟现实基础知识》](http://bitandliteracy.github.io/VR-Basics)
+
+其中对《虚拟现实基础知识》的翻译促成了“极客视界”与“希格斯全球智造中心”共同来策划一本虚拟现实主题的书的合作（稍后详述）。
+
+当虚拟现实技术真正降临时，传播给普通人的不仅仅是最新的虚拟现实产品，还有它的基础知识、相应的思想以及文化——个人电脑、智能手机，虚拟现实的基本知识和文化将会对这个时代的公众产生怎样的影响呢？
 
 收集并阅读原始资料；
 梳理并讨论素材；
@@ -193,15 +205,19 @@
 应优先完成必要的学习过程，尊重工作内容的可行性，须重作计议。
 处理第一部分发展历史方面的论文所累积的经验和技能可复用到处理其他前沿技术领域。
 
-### 帮助极客视界同外部内容团队建立联系
+#### 网站改版
+
+
+
+#### 帮助极客视界同外部内容团队建立联系
 
 通过转发一些比较硬核的科技内容，我们跟 HardenedLinux、离线（The Offline）、元代码（VRerse）、Freebuf 等外部团队都建立了联系，以期将来在内容上会有所合作。
 
-## 北京鼎衡丰汇文化传播有限公司
+### 北京鼎衡丰汇文化传播有限公司
 
 `电科技·内容编辑（2015年4月~6月）`
 
-### 主要作品
+#### 主要作品
 
 通过挖掘国外媒体文章以及Reddit, Hacker News和Ars Technica等社区评论，以下是我独立完成的主要作品：
 
@@ -223,7 +239,7 @@
 
 另外我还会帮助同事查找国外数据和技术文档。
 
-## Conference Hacking
+### Conference Hacking
 
 + 我参加过极客公园、创客空间、3W咖啡、FreeBuf 与 IDF 黑客沙龙，还有离线空间的线下活动及读书会。
 
@@ -231,7 +247,7 @@
 
 参与这些事情的最初目的主要还是在于观察和学习：观察国内科技行业的人都在做些什么、说些什么，学习一下他们从书中读到的内容跟自己有什么不一样。
 
-## Hacking Education
+### Hacking Education
 
 我对“真正的大学”有一种不一样的偏执，我也愿意专门花时间潜下心来反思我自己的教育经历，我知道我有足够的智力。对于自己在这方面的长期阅读和思索过程，我整理出来 [未来的学习者](http://bitandliteracy.github.io/Dear-Future-Learners/) 和 [匠艺之心](http://bitandliteracy.github.io/ToolCraft/) 这两篇文档。
 
@@ -242,23 +258,23 @@
 > + 研究人的行为的学科：[Yale-EEB112](http://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122)（`从⽣物学看⼈类行为`）[Yale-PSYC110](http://oyc.yale.edu/psychology/psyc-110)（`心理学导论`）[Harvard-PSY1504](http://isites.harvard.edu/icb/icb.do?keyword=k14790&pageid=icb.page69129)（`积极⼼理学`）
 > + 计算机课程：[Harvard-CS50](http://cs50.tv/2012/fall/)（`计算机导论`）与 [Standford-CS83B](http://startupclass.samaltman.com)（`YC 创业课`）。
 > + …***
-# EXPERTISE
+## EXPERTISE
 
-## Zen Mind
+### Zen Mind
 
 促进个人力量的发展是一个永恒的目标。这需要工具和技能，这也要求匠心与智慧。在技术与个人之间，我只是纯粹地想找出一条自己的道路。那将会是一种理解框架、一种思考方式、一种话语风格……为的只是实现自身个性的真正独立与完整。而“姿势正确才能保有自己”，《禅者的初心》《禅与摩托车维修艺术》……我确实在尝试经过心理学验证的一些现代禅宗基本内容来弥合自己所认同的上述不同观念。
 
-## 星战迷
+### 星战迷
 
 我关心《星球大战》的一切，包括主剧情、衍生宇宙、幕后访谈以及爱好者社区，还有乔治·卢卡斯的Lucasfilm, IML, Skywalker Ranch 与 LucasArts 。作为粉丝，全面了解星战的创造和制作，我想这是一种天然的习性。Cass Sunstein 甚至把《星球大战》和《美国宪法》放到一起来解释如何准确地描述我们的创造力。
 
 当然，达斯·维德的兴亡与阿纳金·天行者的救赎更是一个讨论不完的话题，新绝地与旧绝地的原力哲学问题更像是在某种极端条件下探究科技背后的人性问题。"Use the Force." `Acess to Tools`
 
-## 游戏史
+### 游戏史
 
 `暴雪忠实粉丝`
 
-+ 9年《魔兽世界》经历。游戏、比赛、访谈、嘉年华，一个也没有少。
++ 10年《魔兽世界》经历。游戏、比赛、访谈、嘉年华，一个也没有少。
 + `剧情控`：读过全部魔兽小说；熟知星际与暗黑系列剧情。
 + 我喜欢读 Patrick Wyatt 回顾星际、魔兽与暗黑开发过程的文章；还有 Bill Roper 关于员工必须是游戏玩家的­见解（`要热爱工作的内容 ^.^`）。
 
@@ -266,12 +282,12 @@
 
 ***
 
-# TOOLS
+## TOOLS
 
 `MacBook Air` `Markdown` `Jekyll` `GitHub` `Google` `Scrivener` `MyThoughts` `Feedly` `Pocket` `GIF Brewery` `youtube-dl`
 
 ***
 
-# Thank you for reading.
+## Thank you for reading.
 
 感谢您花时间来了解我，期待能有机会合作出那些我们都会引以为傲的事情。

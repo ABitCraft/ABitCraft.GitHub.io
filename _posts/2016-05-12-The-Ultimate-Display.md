@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 虚拟和增强现实溯源：Sutherland 的《终极显示》
+categories: [VR, Translation]
 ---
 
 *  The Ultimate Display

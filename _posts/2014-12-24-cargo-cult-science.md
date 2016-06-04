@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 草包族科学
-categories: 存档
+categories: Heroes
 ---
 *[《别闹了，费曼先生》](http://book.douban.com/subject/1084257/) 321页-328页*  
 

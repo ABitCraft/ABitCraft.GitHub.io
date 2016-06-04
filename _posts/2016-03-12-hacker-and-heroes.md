@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 黑客与英雄们
+categories: [Hackerdom, Translation]
 ---
 
 * 黑客与英雄们
@@ -9,9 +10,9 @@ title: 黑客与英雄们
 这篇讨论美、德两国黑客文化的文章是 [Elliot Williams](http://hackaday.com/author/hexagon5un/) 发表在 [Hackaday](http://hackaday.com) 网站的 "Hackers and Heroes" 专题：
 
 > 第一部分 [HACKERS AND HEROES: A TALE OF TWO COUNTRIES](http://hackaday.com/2016/01/11/hackers-and-heroes-a-tale-of-two-countries/) 由 n3o4po11o 翻译：[黑客与英雄们：双国战记](http://hardenedlinux.org/translation/2016/02/12/Hackers-and-heroes-a-tale-of-two-countries.html)。
-> 
+>
 >  第二部分 [Hackers and Heroes: Rise of the CCC and Hackerspaces](http://hackaday.com/2016/01/12/hackers-and-heroes-rise-of-ccc-and-hackerspaces/) 由 Tom Li 翻译：[黑客与英雄们：CCC和黑客空间的崛起](http://hardenedlinux.org/translation/2016/02/14/Hackers-and-heroes-rise-of-the-ccc-and-hackerspaces.html)。
-> 
+>
 > 原作者 Elliot Williams 是华盛顿特区黑客空间 HacDC 的创始成员，同时也是慕尼黑混沌计算机俱乐部的会员。
 
 **感谢 [HardenedLinux ](http://hardenedlinux.org/) 鼓励我们分享**，以下为完整内容：

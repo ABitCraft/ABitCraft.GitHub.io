@@ -12,7 +12,7 @@
   background: #e7e7e7;
   border-radius: 0.1875em;
   border: 1px solid #f7f7f7;
-  color: #fff;
+  color: $d2u;
   padding: 1em 1.5em;
 }
 
@@ -21,8 +21,8 @@
 }
 
 .pagination a:hover, .pagination a:focus {
-  background: white;
-  color: #608c28;
+  background: #fff;
+  color: $pp;
 }
 
 .pagination a:active {
@@ -37,12 +37,12 @@
 
 .button-disabled {
   opacity: 0.55;
-  background-color: #999;
+  background-color: $ars;
 }
 
 .button-disabled:hover,
 .button-disabled:active,
 .button-disabled:focus {
   cursor: not-allowed;
-  background-color: #999;
+  background-color: $ars;
 }

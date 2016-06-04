@@ -5,6 +5,8 @@
 * @link https://github.com/johnotander/pixyll
 * @license MIT
 */
+/*$link-color: $blue;
+$link-hover-color: darken($blue, 40%);*/
 /*!
 
   BASSCSS
@@ -706,16 +708,19 @@ textarea {
 .site-header {
   padding-top: 0.5rem;
   padding-bottom: 1rem;
-  background-color: #e7e7e7;
+  background-color: #406C80;
   /* dark blue slate thing */ }
 
 .site-header a {
-  color: #ff6600;
+  color: #fff;
   font-size: 1.1rem;
   font-weight: 300; }
 
+.site-header a:hover {
+  opacity: 0.6; }
+
 .site-header .site-title {
-  font-size: 1.3rem; }
+  font-size: 1.7rem; }
 
 .site-nav {
   margin-top: 1rem; }
@@ -726,18 +731,18 @@ textarea {
 .site-header nav a:hover,
 .site-header nav a:focus,
 .site-header nav a:active {
-  color: #64897e;
+  color: #908064;
   opacity: 1;
-  border-bottom: 2px solid #64897e; }
+  /*  border-bottom: 2px solid $ars;*/ }
 
 .site-nav a + a {
   margin-left: 1em; }
 
-.site-header a:hover,
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
-  opacity: 0.88; }
+  color: #908064;
+  opacity: 0.75; }
 
 .site-header {
   text-align: center; }
@@ -866,10 +871,10 @@ table {
   flex: 1; }
 
 footer {
-  background-color: #e7e7e7;
+  background-color: #908064;
   border-top: thin solid #fff;
-  color: #7a7a7a;
-  font-size: 0.75rem;
+  color: #fff;
+  font-size: 0.875rem;
   font-weight: 300;
   padding: 2rem;
   text-align: center; }
@@ -939,15 +944,15 @@ footer {
   background: #e7e7e7;
   border-radius: 0.1875em;
   border: 1px solid #f7f7f7;
-  color: #fff;
+  color: #908064;
   padding: 1em 1.5em; }
 
 .pagination .disabled {
   opacity: 0.5; }
 
 .pagination a:hover, .pagination a:focus {
-  background: white;
-  color: #608c28; }
+  background: #fff;
+  color: #4A9327; }
 
 .pagination a:active {
   background: #f7f7f7; }
@@ -959,10 +964,10 @@ footer {
 
 .button-disabled {
   opacity: 0.55;
-  background-color: #999; }
+  background-color: #999999; }
 
 .button-disabled:hover,
 .button-disabled:active,
 .button-disabled:focus {
   cursor: not-allowed;
-  background-color: #999; }
+  background-color: #999999; }

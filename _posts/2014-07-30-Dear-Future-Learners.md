@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 未来的学习者
+categories: 
 ---
 * 未来的学习者
 {:toc}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FireEye大牛解释联邦人事局事件的启示
+categories: 
 ---
 
 对于 OPM（Office of Personnel Management，美国联邦人事局）数据窃取问题的媒体讨论以及相应的调查过程与听证会已经持续挺长时间了，我们先结合官方的报告稍微回顾一下这里都发生了那些事情：
