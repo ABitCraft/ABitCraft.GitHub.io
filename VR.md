@@ -36,9 +36,12 @@ permalink: /VR/
 #### 故事
 
 + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
++ [Oculus VR 的虚拟现实之路](http://bitandliteracy.github.io/Oculus)
++ [揭秘 Magic Leap——世界上最神秘的创业公司](http://bitandliteracy.github.io/magic-leap)
 
 #### 访谈
 
++ [虚拟现实过去的声音](http://bitandliteracy.github.io/oral-history)
 + [接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子](http://bitandliteracy.github.io/abrash-dev-days)
 + [Oculus Connect 2 首席科学家 Michael Abrash 发言实录](http://bitandliteracy.github.io/Abrash-OC2)
 

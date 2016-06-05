@@ -3,8 +3,10 @@ layout: post
 title: 虚拟现实过去的声音
 categories: VR
 ---
+
 <img src="https://cdn2.vox-cdn.com/uploads/chorus_asset/file/663682/lead-vr-oral.0.jpg" alt="Oral History" />
-本文是 The Verge 跟18位早期的虚拟现实先驱所进行的长篇访谈的完整翻译：《虚拟现实过去的声音——这一技术的口头历史以及它的时代为何能再一次降临》（[VOICES FROM A VIRTUAL PAST - An oral history of a technology whose time has come again](http://www.theverge.com/a/virtual-reality/oral_history)）。原文由 Adi Robertson 和 Michael Zelenko 编撰而成。译文由海伦老师粗翻，经由我校对而成，仅供大家交流之用。
+
+> 本文是 The Verge 跟18位早期的虚拟现实先驱所进行的长篇访谈的完整翻译：《虚拟现实过去的声音——这一技术的口头历史以及它的时代为何能再一次降临》（[VOICES FROM A VIRTUAL PAST - An oral history of a technology whose time has come again](http://www.theverge.com/a/virtual-reality/oral_history)）。原文由 Adi Robertson 和 Michael Zelenko 编撰而成。译文由海伦老师粗翻，又经我详加校对而成，仅供大家交流。
 
 ## 1
 
@@ -377,3 +379,5 @@ Atari 崩溃后，NASA 的 Ames 研究中心提供给我一个职位，同时作
 
 
 *全文由 Adi Robertson 和 Michael Zelenko 编撰而成，采访及补充报告由 Katie Drummond, Casey Newton, and Melissa Smith 完成。*
+
+via: The Verge
