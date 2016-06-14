@@ -33,9 +33,12 @@ permalink: /VR/
 
 这里我所能做的就是，力求能把读到的基本素材很好地组织起来，然后不断地调整和更新，希望最终能累积出一系列还算不错的虚拟现实资料。
 
-#### 故事
+#### 基础
 
 + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
+
+#### 故事
+
 + [Oculus VR 的虚拟现实之路](http://bitandliteracy.github.io/Oculus)
 + [PlayStation VR 诞生记](http://bitandliteracy.github.io/PSVR)
 + [HTC Vive 诞生记](http://bitandliteracy.github.io/HTC-Vive)
@@ -47,7 +50,7 @@ permalink: /VR/
 + [接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子](http://bitandliteracy.github.io/abrash-dev-days)
 + [Oculus Connect 2 首席科学家 Michael Abrash 发言实录](http://bitandliteracy.github.io/Abrash-OC2)
 
-#### VR mind
+#### VR Mind
 
 + [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
 + [“看得见风景的房间”（1993）](http://bitandliteracy.github.io/CAVE)
