@@ -37,6 +37,8 @@ permalink: /VR/
 
 + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
 + [Oculus VR 的虚拟现实之路](http://bitandliteracy.github.io/Oculus)
++ [PlayStation VR 诞生记](http://bitandliteracy.github.io/PSVR)
++ [HTC Vive 诞生记](http://bitandliteracy.github.io/HTC-Vive)
 + [揭秘 Magic Leap——世界上最神秘的创业公司](http://bitandliteracy.github.io/magic-leap)
 
 #### 访谈
@@ -45,6 +47,7 @@ permalink: /VR/
 + [接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子](http://bitandliteracy.github.io/abrash-dev-days)
 + [Oculus Connect 2 首席科学家 Michael Abrash 发言实录](http://bitandliteracy.github.io/Abrash-OC2)
 
-#### 思想
+#### VR mind
 
 + [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
++ [“看得见风景的房间”（1993）](http://bitandliteracy.github.io/CAVE)
