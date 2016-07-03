@@ -1,32 +1,45 @@
 ---
 layout: page
-title: My Career
+title: "My Precious"
 permalink: /resume/
 ---
+
+> “恭喜你发现了这里的宝藏！”
+
+这里罗列的是我自身的技能组合与相关经验，对于其中所用到的方法和技巧，接下来我会详细描述。`如果你能认同我这里的方向及方法，欢迎用下面的邮箱同我联系。`
+
+> 我一直都在期待一些会让自己引以为傲的事情。
 
 ## ABOUT
 
 ### 胡永波 / 男 / 1985
 
-哈尔滨工业大学 / 生物技术 / 辍学
+**`哈尔滨工业大学 / 生物技术 / 辍学`**
 
-+ 手机：17710137704
-+ email: appu@foxmail.com
++ email: `appu@foxmail.com`
 + 微博：[@_AppU](http://weibo.com/BitandLiteracy/)
 + 豆瓣：[AppU](http://www.douban.com/people/BitandLiteracy/)
-+ GitHub：http://bitandliteracy.github.io/
-
-### Objective
-
-我希望能加入你们一起挖掘科技的深层意义，因为我自己也在探究一些理解科技与工具深层概念的思路，特别是对于其中人的形象的解读。为此，我积累出一些数字文化方面的知识和技能。但更为重要的是，我想要去做一些会让自己引以为傲的事情。
++ GitHub：`http://bitandliteracy.github.io/`
 
 ***
 
-## SKILLS
+## SKILL SET
 
 参考 [Web Developer 技能树](http://skill.phodal.com) 和 [谷歌推荐的技术能力提升指南](http://www.imooc.com/wenda/detail/263443) 以及 [知道创宇研发技能表](http://docs.huihoo.com/knownsec/Knownsec_RD_Checklist/v2.2.html)，我也在思索比较系统地梳理知识与技能。
 
-### 技术清单
+### 效率系统
+
+my productivity system
+
+week chart
+
+daily focus area
+
+pomodoro timer
+
+### 工具清单
+
+`MacBook Air` `Markdown` `Jekyll` `GitHub` `Google` `Scrivener` `MyThoughts` `Feedly` `Pocket` `GIF Brewery` `youtube-dl`
 
 以下是我经常用到的一些技术解决方案，其中包括我自己的掌握程度：
 
@@ -37,6 +50,22 @@ permalink: /resume/
 > + 熟悉操作系统和硬件配置，保持足够的动手能力。
 
 学习技术的个人兴趣是能够打造一个自己的 [R2D2](http://astromech.net) 。
+
+### Media Diet
+
+对于科技动态，现在我主要专注于 Hacker News 社区。
+
+> + 首先它的推荐算法和信息源筛选可以持续提供出一天之内多数有价值的科技内容。
+> + 其次它社区评论部分，很多时候比之信息源要更有价值——显然这些技术背景很深的人确实知道他们在讨论什么。
+> + 更重要的是，它的算法和 API 都是开放的，同时很多关于 Hacker News 的应用（vim-hackernews, Hacker-Bar 及 premii/hn 等）也在 GitHub 上开源，可以深入去学习很多东西。
+
+另外，Motherboard、WIRED（`你知道的~`）与 AnandTech（`技术细节`）以及 Ars Technica（`评论功能的设计应该是所有科技网站中最好的`）的信息和评论我也会去浏览。
+
+### 翻译
+
+我每天都会读一些国外网站的科技动态以及相关讨论，还会读一些英文原版的书。及时获取到原汁原味的资料和文档，我觉得我还是蛮享受这一点的。
+
+另外，我也尝过一些翻译，但我更为希望的还是通过挖掘材料能探究到作者的本意。英语确实是我们理解科技文化所不可或缺的工具。
 
 ### 数字素养
 
@@ -67,22 +96,6 @@ permalink: /resume/
 我在阅读的功用方面花心思很多，随着阅读和理解得深入，我开始为自己写出一些东西（见我在 GitHub 的存档）。分享这些有价值的内容，既是为提升自己，同时也是想与大家共勉。
 
 诚然，我在写作与编辑方面的技能还有待于进一步打磨，不过我已经在寻求一些改进的办法了。因为我还想去多写一些东西，而且是写好。
-
-#### 英语
-
-我每天都会读一些国外网站的科技动态以及相关讨论，还会读一些英文原版的书。及时获取到原汁原味的资料和文档，我觉得我还是蛮享受这一点的。
-
-另外，我也尝过一些翻译，但我更为希望的还是通过挖掘材料能探究到作者的本意。英语确实是我们理解科技文化所不可或缺的工具。
-
-### Media Diet
-
-对于科技动态，现在我主要专注于 Hacker News 社区。
-
-> + 首先它的推荐算法和信息源筛选可以持续提供出一天之内多数有价值的科技内容。
-> + 其次它社区评论部分，很多时候比之信息源要更有价值——显然这些技术背景很深的人确实知道他们在讨论什么。
-> + 更重要的是，它的算法和 API 都是开放的，同时很多关于 Hacker News 的应用（vim-hackernews, Hacker-Bar 及 premii/hn 等）也在 GitHub 上开源，可以深入去学习很多东西。
-
-另外，Motherboard、WIRED（`你知道的~`）与 AnandTech（`技术细节`）以及 Ars Technica（`评论功能的设计应该是所有科技网站中最好的`）的信息和评论我也会去浏览。
 
 ***
 
@@ -178,6 +191,8 @@ permalink: /resume/
 
 效果最为明显的是文章的中英文排版、图片格式及样式布局在调整之后阅读体验上的提升。另外就是把 SEO 的一些细节整合到文章的排版过程之中，关键词、页面描述、图片视频及链接的描述，等等。
 
+长文写作、选题
+
 其中的一些长期打算，特别是以科技题材的纪录片、影视作品及人物传记来加强大家对于科技背景的了解，效果还不是很明朗。
 
 #### 虚拟现实专题
@@ -239,6 +254,9 @@ permalink: /resume/
 
 另外我还会帮助同事查找国外数据和技术文档。
 
+***
+## EXPERTISE
+
 ### Conference Hacking
 
 + 我参加过极客公园、创客空间、3W咖啡、FreeBuf 与 IDF 黑客沙龙，还有离线空间的线下活动及读书会。
@@ -257,13 +275,7 @@ permalink: /resume/
 
 > + 研究人的行为的学科：[Yale-EEB112](http://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122)（`从⽣物学看⼈类行为`）[Yale-PSYC110](http://oyc.yale.edu/psychology/psyc-110)（`心理学导论`）[Harvard-PSY1504](http://isites.harvard.edu/icb/icb.do?keyword=k14790&pageid=icb.page69129)（`积极⼼理学`）
 > + 计算机课程：[Harvard-CS50](http://cs50.tv/2012/fall/)（`计算机导论`）与 [Standford-CS83B](http://startupclass.samaltman.com)（`YC 创业课`）。
-> + …***
-## EXPERTISE
-
-### Zen Mind
-
-促进个人力量的发展是一个永恒的目标。这需要工具和技能，这也要求匠心与智慧。在技术与个人之间，我只是纯粹地想找出一条自己的道路。那将会是一种理解框架、一种思考方式、一种话语风格……为的只是实现自身个性的真正独立与完整。而“姿势正确才能保有自己”，《禅者的初心》《禅与摩托车维修艺术》……我确实在尝试经过心理学验证的一些现代禅宗基本内容来弥合自己所认同的上述不同观念。
-
+> + …
 ### 星战迷
 
 我关心《星球大战》的一切，包括主剧情、衍生宇宙、幕后访谈以及爱好者社区，还有乔治·卢卡斯的Lucasfilm, IML, Skywalker Ranch 与 LucasArts 。作为粉丝，全面了解星战的创造和制作，我想这是一种天然的习性。Cass Sunstein 甚至把《星球大战》和《美国宪法》放到一起来解释如何准确地描述我们的创造力。
@@ -279,12 +291,6 @@ permalink: /resume/
 + 我喜欢读 Patrick Wyatt 回顾星际、魔兽与暗黑开发过程的文章；还有 Bill Roper 关于员工必须是游戏玩家的­见解（`要热爱工作的内容 ^.^`）。
 
 另外，我还整理过那篇 `Valve 新员工手册`。
-
-***
-
-## TOOLS
-
-`MacBook Air` `Markdown` `Jekyll` `GitHub` `Google` `Scrivener` `MyThoughts` `Feedly` `Pocket` `GIF Brewery` `youtube-dl`
 
 ***
 
