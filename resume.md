@@ -4,30 +4,38 @@ title: "My Precious"
 permalink: /resume/
 ---
 
-> “恭喜你发现了这里的宝藏！”
+> “恭喜你发现了这里的宝藏！” **`我一直都在期待一些会让自己引以为傲的事情。`**
 
-这里罗列的是我自身的技能组合与相关经验，对于其中所用到的方法和技巧，接下来我会详细描述。`如果你能认同我这里的方向及方法，欢迎用下面的邮箱同我联系。`
+这里罗列的是我自身的技能组合与相关经验，对于其中所用到的方法与技巧，我接下来会详细描述。这里肯定只能说出一家之言，如果你有更好的经验或是见解，欢迎随时来找我交流。通过开放自身的这些“设置”，我希望能获取到更为成熟的一些发展。
 
-> 我一直都在期待一些会让自己引以为傲的事情。
+`（同时，对于任何更好的合作或者机会，我都持一种开放的心态，前提还是你认可这里的思考。）`
 
 ## ABOUT
 
-### 胡永波 / 男 / 1985
+### 胡永波 | 1985
 
-**`哈尔滨工业大学 / 生物技术 / 辍学`**
+**`哈尔滨工业大学 | 生物技术 | 辍学`**
 
-+ email: `appu@foxmail.com`
-+ 微博：[@_AppU](http://weibo.com/BitandLiteracy/)
 + 豆瓣：[AppU](http://www.douban.com/people/BitandLiteracy/)
 + GitHub：`http://bitandliteracy.github.io/`
++ email: `appu@foxmail.com`
 
 ***
 
 ## SKILL SET
 
-参考 [Web Developer 技能树](http://skill.phodal.com) 和 [谷歌推荐的技术能力提升指南](http://www.imooc.com/wenda/detail/263443) 以及 [知道创宇研发技能表](http://docs.huihoo.com/knownsec/Knownsec_RD_Checklist/v2.2.html)，我也在思索比较系统地梳理知识与技能。
+技能系统不仅仅是一系列的技能与工具，更是把这些技能和工具有效组织起来发挥作用的生产能力（即效率系统）。对于技能组合，我会参考 [利器访谈](http://liqi.io/creators/)、[Google 的技术能力提升指南](https://www.google.com/about/careers/students/guide-to-technical-development.html) 及 [知道创宇研发技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/) 来不断完善自身；对于效率系统，我是参考 Dave Lee 的 [My Productivity System](http://heydave.org/post/26770221775/my-productivity-system) 与 [Productivity Tips](http://heydave.org/post/26770615111/productivity-tips) 来完善自己。
+
+**`努力让每一天都能实现专注、回馈、成长的完整循环。`**
 
 ### 效率系统
+
+
+
+
+
+
+专注、回馈、成长
 
 my productivity system
 
