@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: “25年的学习和欢笑”
 ---
 

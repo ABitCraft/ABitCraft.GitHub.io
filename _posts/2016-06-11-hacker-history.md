@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 黑客圈简史
 categories: Hackerdom
 ---
@@ -150,7 +150,7 @@ The combination proved to be adaptable to a very wide range of computing tasks, 
 C与Unix的应用范围之广，出乎原设计者之意料，很多领域的研究要用到电脑时，他们是最佳拍档。 尽管缺乏一个正式支援的机构，它们仍在AT&T内部中疯狂的散播。到了1980年，已蔓延到大学与研究机构，还有数以千计的hacker想把Unix装在家里的机器上。
 
 The workhorse machines of the early Unix culture were the PDP-11 and its descendant, the VAX. But because of Unix's portability, it ran essentially unaltered on a wider range of machines than one could find on the entire ARPAnet. And nobody used assembler; C programs were readily portable among all these machines.
-当时跑Unix的主力机器是PDP-11、VAX系列的机器。不过由於UNIX的高移植性，它几乎可安装在所有的电脑机型上。一旦新型机器上的UNIX安装好，把软件的C原始码抓来重新编译就一切OK了，谁还要用汇编语言来开发软件？ 
+当时跑Unix的主力机器是PDP-11、VAX系列的机器。不过由於UNIX的高移植性，它几乎可安装在所有的电脑机型上。一旦新型机器上的UNIX安装好，把软件的C原始码抓来重新编译就一切OK了，谁还要用汇编语言来开发软件？
 
 Unix even had its own networking, of sorts—UUCP: low-speed and unreliable, but cheap. Any two Unix machines could exchange point-to-point electronic mail over ordinary phone lines; this capability was built into the system, not an optional extra. In 1980 the first Usenet sites began exchanging broadcast news, forming a gigantic distributed bulletin board that would quickly grow bigger than ARPAnet. Unix sites began to form a network nation of their own around Usenet.
 有一套专为UNIX设计的网络 --- UUCP：一种低速、不稳但很成本低廉的网络。 两台UNIX机器用条电话线连起来，就可以使用互传电子邮件。UUCP是内建在UNIX系统中的，不用另外安装。於是UNIX站台连成了专属的一套网络，形成其Hacker文化。在1980第一个USENET站台成立之後，组成了一个特大号的分散式布告栏系统，吸引而来的人数很快地超过了ARPANET。
@@ -179,7 +179,7 @@ Stallman (who is usually known by his initials and login name, RMS) went on to f
 Stallman接著创办了Free Software Foundation，全力投入写出高品质的自由软件。Levy以哀悼的笔调描述他是the last true hacker'，还好事实证明Levy完全错了。
 
 Stallman's grandest scheme neatly epitomized the transition hackerdom underwent in the early eighties—in 1982 he began the construction of an entire clone of Unix, written in C and available for free. His project was known as the GNU (Gnu's Not Unix) operating system, in a kind of recursive acronym. GNU quickly became a major focus for hacker activity. Thus, the spirit and tradition of ITS was preserved as an important part of the newer, Unix and VAX-centered hacker culture. Stallman's design finished what Berkeley had started, fusing the remains of the PDP-10 hacker culture with the Unix crowd.
-Stallman的宏大计划可说是80年代早期Hacker文化的缩影 -- 在1982年他 开始建构一个与UNIX 相容但全新的操作系统，以C来写并完全免费。整个ITS的精神与传统，经由RMS的努力，被整合在一个新的，UNIX与VAX机器上的Hacker文化。 微电脑与区域网络的科技，开始对Hacker文化产生影响。Motorola 68000 CPU 加Ethernet是个有力的组合，也有几家公司相继成立生产第一代的工作站。 
+Stallman的宏大计划可说是80年代早期Hacker文化的缩影 -- 在1982年他 开始建构一个与UNIX 相容但全新的操作系统，以C来写并完全免费。整个ITS的精神与传统，经由RMS的努力，被整合在一个新的，UNIX与VAX机器上的Hacker文化。 微电脑与区域网络的科技，开始对Hacker文化产生影响。Motorola 68000 CPU 加Ethernet是个有力的组合，也有几家公司相继成立生产第一代的工作站。
 Indeed, for more than a decade after its founding RMS's Free Software Foundation would largely define the public ideology of the hacker culture, and Stallman himself would be the only credible claimant to leadership of the tribe.
 
 It was also around 1982–83 that microchip and local-area network technology began to have a serious impact on hackerdom. Ethernet and the Motorola 68000 microchip made a potentially potent combination, and several different startups had been formed to build the first generation of what we now call workstations.
@@ -213,7 +213,7 @@ The MS-DOS world remained blissfully ignorant of all this. Though those early mi
 沈浸在MS-DOS世界的井底蛙对这些巨变仍一无所知，从早期只有少数人对微电脑有兴趣，到此时玩DOS与Mac的人数已超过所谓的"网络民族"的文化，但他们始终没成什么气候或搞出什么飞机，虽然聊有佳作光芒乍现，却没有稳定发展出统一的文化传统，术语字典，传奇故事与神话般的历史。它们没有真正的网络，只能聚在小型的BBS 站或一些失败的网络如FIDONET。
 
 Widespread access to commercial online services like CompuServe and GEnie was beginning to take hold, but the fact that non-Unix operating systems don't come bundled with development tools meant that very little source was passed over them. Thus, no tradition of collaborative hacking developed.
-提供上网服务的公司如CompuServe或Genie生意日益兴隆，事实显示non-UNIX的操作系统因为并没有内附如compiler等程式发展工具，很少有source 在网络上流传，也因此无法形成合作开发软件的风气。 
+提供上网服务的公司如CompuServe或Genie生意日益兴隆，事实显示non-UNIX的操作系统因为并没有内附如compiler等程式发展工具，很少有source 在网络上流传，也因此无法形成合作开发软件的风气。
 
 The mainstream of hackerdom, (dis)organized around the Internet and by now largely identified with the Unix technical culture, didn't care about the commercial services. These hackers wanted better tools and more Internet, and cheap 32-bit PCs promised to put both in everyone's reach.
 Hacker文化的主力，是散布在Internet各地，几乎可说是玩UNIX的文化。他们玩电脑才不在乎什么售後服务之类，他们要的是更好的工具、更多的上网时间、还有一台便宜32-bitPC。
@@ -235,7 +235,7 @@ Fortunately, there had been things going on out of sight of the trade press, and
 ## 早期的免费Unix
 
 Into the gap left by the Free Software Foundation's uncompleted HURD had stepped a Helsinki University student named Linus Torvalds. In 1991 he began developing a free Unix kernel for 386 machines using the Free Software Foundation's toolkit. His initial, rapid success attracted many Internet hackers to help him develop Linux, a full-featured Unix with entirely free and re-distributable sources.
-在这空窗期中，1992年一位芬兰HelsinkiUniversity的学生--LinusTorvalds开始在一台386PC上发展一个自由软件的UNIX kernel，使用FSF的程式开发工具。他很快的写好简单的版本，丢到网络上分享给大家，吸引了非常多的Hacker来帮忙一起发展Linux-一个功能完整的UNIX，完全免费且附上全部的原始码。 
+在这空窗期中，1992年一位芬兰HelsinkiUniversity的学生--LinusTorvalds开始在一台386PC上发展一个自由软件的UNIX kernel，使用FSF的程式开发工具。他很快的写好简单的版本，丢到网络上分享给大家，吸引了非常多的Hacker来帮忙一起发展Linux-一个功能完整的UNIX，完全免费且附上全部的原始码。
 
 Linux was not without competitors. In 1991, contemporaneously with Linus Torvalds's early experiments, William and Lynne Jolitz were experimentally porting the BSD Unix sources to the 386. Most observers comparing BSD technology with Linus's crude early efforts expected that BSD ports would become the most important free Unixes on the PC.
 
