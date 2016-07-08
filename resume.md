@@ -6,70 +6,77 @@ permalink: /resume/
 
 > “恭喜你发现了这里的宝藏！” **`我一直都在期待一些会让自己引以为傲的事情。`**
 
-这里罗列的是我自身的技能组合与相关经验，对于其中所用到的方法与技巧，我接下来会详细描述。这里肯定只能说出一家之言，如果你有更好的经验或是见解，欢迎随时来找我交流。通过开放自身的这些“设置”，我希望能获取到更为成熟的一些发展。
+这里罗列的是我自身的技能组合与相关经验，对于其中所用到的方法与技巧，我接下来会详细描述。这里肯定只能说出一家之言，如果你有更好的经验或是见解，欢迎随时来找我交流。通过开放自身所有这些“设置”，我希望能获取到更为成熟的一些发展。
 
-`（同时，对于任何更好的合作或者机会，我都持一种开放的心态，前提还是你认可这里的思考。）`
+`（同时，对于任何更好的合作或者机会，我都持一种开放的心态，前提是你能认可这里的思考。）`
 
 ## ABOUT
 
 ### 胡永波 | 1985
 
-**`哈尔滨工业大学 | 生物技术 | 辍学`**
+**哈尔滨工业大学 | 生物技术 | [辍学](#hacking_education)**
+
+**`appu@foxmail.com`**
 
 + 豆瓣：[AppU](http://www.douban.com/people/BitandLiteracy/)
 + GitHub：`http://bitandliteracy.github.io/`
-+ email: `appu@foxmail.com`
++ 个人公众号：`ABitCraft`
 
 ***
 
 ## SKILL SET
 
-技能系统不仅仅是一系列的技能与工具，更是把这些技能和工具有效组织起来发挥作用的生产能力（即效率系统）。对于技能组合，我会参考 [利器访谈](http://liqi.io/creators/)、[Google 的技术能力提升指南](https://www.google.com/about/careers/students/guide-to-technical-development.html) 及 [知道创宇研发技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/) 来不断完善自身；对于效率系统，我是参考 Dave Lee 的 [My Productivity System](http://heydave.org/post/26770221775/my-productivity-system) 与 [Productivity Tips](http://heydave.org/post/26770615111/productivity-tips) 来完善自己。
+技能系统不仅仅是一系列的技能和工具，更是让这些技能与工具有效发挥作用的生产能力，即效率：
 
-**`努力让每一天都能实现专注、回馈、成长的完整循环。`**
++ 对于技能组合，我会参考 [利器访谈](http://liqi.io/creators/)、[Google 的技术能力提升指南](https://www.google.com/about/careers/students/guide-to-technical-development.html) 及 [知道创宇研发技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/) 来不断完善自身；
++ 对于效率系统，我是参考 Dave Lee 的 [My Productivity System](http://heydave.org/post/26770221775/my-productivity-system) 与 [Productivity Tips](http://heydave.org/post/26770615111/productivity-tips) 来完善自己。
+
+**`努力让每天都能实现专注、回馈、成长的完整循环。`**
 
 ### 效率系统
 
+效率系统的要点如下：
 
++ 效率的核心是`专注`，专注的核心是善于说“不”。惟有如此，才能最优化自己的创造空间。
++ 专注依赖于及时`回馈`自己，最优化日常行为上的条件反射循环，避免“响应式”的思维模式。
++ `成长`不是一个结果，而是一种创造性过程，是专注所应达到的创造模式。成长不怕错误，通过回馈来榨干错误中的价值，会有着同样的收获。
 
-
-
-
-专注、回馈、成长
-
-my productivity system
-
-week chart
-
-daily focus area
-
-pomodoro timer
+对于具体操作，这里的日常安排还是参考 [Week Chart](http://heydave.org/post/24857123736/introducing-the-week-chart)、[Daily Focus Area](http://heydave.org/post/25486164367/the-daily-focus-area-is-a-simple-habit-that-helps) 与 [Pomodoro Timer](http://heydave.org/post/26317198789/the-timer-knows-best-why-i-love-the-pomodoro)。
 
 ### 工具清单
 
-`MacBook Air` `Markdown` `Jekyll` `GitHub` `Google` `Scrivener` `MyThoughts` `Feedly` `Pocket` `GIF Brewery` `youtube-dl`
+工具标签如下：
 
-以下是我经常用到的一些技术解决方案，其中包括我自己的掌握程度：
+**`MacBook Air` `Chrome` `Google` `Translator Toolkit` `MacDown` `GitBook` `Reeder|Feedly` `Pocket` `Evernote|备忘录` `youtube-dl` `GIF Brewery`**
 
-> + 掌握GitHub Pages: Git + Jekyll + Markdown
-> + 掌握科学上网：ssh/shadowsocks/VPN（可通过VPS搭建服务器端，弃用wallproxy/goagent）
-> + 了解Hacker News: vim-hackernews/Hacker-Bar/premii/hn + API + Arc（主要是算法）
-> + 学习 bash 和 vim，阅读用户手册，为进一步学习代码做准备。
-> + 熟悉操作系统和硬件配置，保持足够的动手能力。
+对于一些完整的技术方案，我的掌握清单如下：
 
-学习技术的个人兴趣是能够打造一个自己的 [R2D2](http://astromech.net) 。
+> + GitHub Pages: GitHub + Jekyll + Markdown `http://bitandliteracy.github.io/`
+> + 科学上网：ssh/Lantern/VPN `有个人的 VPS 服务器，弃用 wallproxy/goagent`
+> + FFmpeg: [尝试用 FFmpeg 来生成 GIF 图](http://bitandliteracy.github.io/FFmpeg-for-GIF)、制作字幕等。
+> + 此外，CMS 与微信后台：掌握相应的编辑和管理，了解 HTML 及相关样式。
+ 
+同时，我还熟悉常见操作系统及硬件配置，并保持有足够的动手能力。我学习技术的个人兴趣是希望能独立打造出一个自己的 [R2D2](http://astromech.net) 。
 
 ### Media Diet
 
-对于科技动态，现在我主要专注于 Hacker News 社区。
+`Reeder` `Pocket`
 
-> + 首先它的推荐算法和信息源筛选可以持续提供出一天之内多数有价值的科技内容。
-> + 其次它社区评论部分，很多时候比之信息源要更有价值——显然这些技术背景很深的人确实知道他们在讨论什么。
-> + 更重要的是，它的算法和 API 都是开放的，同时很多关于 Hacker News 的应用（vim-hackernews, Hacker-Bar 及 premii/hn 等）也在 GitHub 上开源，可以深入去学习很多东西。
+我在获取信息方面有着一套比较成型的方法，一些经典的书籍和文章确实让我获益匪浅：`《比特素养》` `《网络素养》` `《提问的智慧》`……目前，我 `Reeder` 上最核心的信息源是：[Hacker News](https://news.ycombinator.com)、[湾区日报](https://wanqu.co)、[ACM TechNews](http://technews.acm.org) 以及 [WaitButWhy](http://waitbutwhy.com)，我知道这些站点是如何运作的，也清楚这些人确实知道他们在说些什么。
 
-另外，Motherboard、WIRED（`你知道的~`）与 AnandTech（`技术细节`）以及 Ars Technica（`评论功能的设计应该是所有科技网站中最好的`）的信息和评论我也会去浏览。
+以 YC 的 Hacker News 技术社区为例，我是这样做的：
+
+> + 所用工具除了 RSS，我还会用 Mac 状态栏上的 `Hacker-Bar` `一览` 以及 `@premii`  所开发的 Hacker News 客户端。
+> + 社区筛选和算法推荐可以过滤掉很多没有价值的内容；而重要内容的社区评论，很多时候会比信息源要更有价值；结合这两方面，很容易去挖掘和构建比较有深度的话题。
+> + 它的算法和 API 有过不少公开的讨论，而不少关于 Hacker News 的应用（vim-hackernews, Hacker-Bar 及 premii/hn 等）也在 GitHub 上开源。`技术+社区+内容`可以给人一种更有深度的技术思考。
+
+在极客世界工作期间，我帮助团队把 RSS 阅读器从 `The Old Reader` 完整转换到更好用的 `Feedly`，重新组织出一套更为合理的信息结构，并匹配以相应的技能组合。
+
+至于虚拟现实方面，我常用的信息源则是 [MTBS3D](http://www.mtbs3d.com)、[AllThingsVR](http://www.allthingsvr.co) 和 [Voices of VR Podcast](http://voicesofvr.com)。
 
 ### 翻译
+
+`Google Translator Toolkit` `有道词典`
 
 我每天都会读一些国外网站的科技动态以及相关讨论，还会读一些英文原版的书。及时获取到原汁原味的资料和文档，我觉得我还是蛮享受这一点的。
 
@@ -262,9 +269,6 @@ pomodoro timer
 
 另外我还会帮助同事查找国外数据和技术文档。
 
-***
-## EXPERTISE
-
 ### Conference Hacking
 
 + 我参加过极客公园、创客空间、3W咖啡、FreeBuf 与 IDF 黑客沙龙，还有离线空间的线下活动及读书会。
@@ -273,6 +277,7 @@ pomodoro timer
 
 参与这些事情的最初目的主要还是在于观察和学习：观察国内科技行业的人都在做些什么、说些什么，学习一下他们从书中读到的内容跟自己有什么不一样。
 
+<a name="hacking_education" id="hacking_education"></a>
 ### Hacking Education
 
 我对“真正的大学”有一种不一样的偏执，我也愿意专门花时间潜下心来反思我自己的教育经历，我知道我有足够的智力。对于自己在这方面的长期阅读和思索过程，我整理出来 [未来的学习者](http://bitandliteracy.github.io/Dear-Future-Learners/) 和 [匠艺之心](http://bitandliteracy.github.io/ToolCraft/) 这两篇文档。
@@ -283,7 +288,11 @@ pomodoro timer
 
 > + 研究人的行为的学科：[Yale-EEB112](http://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122)（`从⽣物学看⼈类行为`）[Yale-PSYC110](http://oyc.yale.edu/psychology/psyc-110)（`心理学导论`）[Harvard-PSY1504](http://isites.harvard.edu/icb/icb.do?keyword=k14790&pageid=icb.page69129)（`积极⼼理学`）
 > + 计算机课程：[Harvard-CS50](http://cs50.tv/2012/fall/)（`计算机导论`）与 [Standford-CS83B](http://startupclass.samaltman.com)（`YC 创业课`）。
-> + …
+> + …
+
+***
+## EXPERTISE
+
 ### 星战迷
 
 我关心《星球大战》的一切，包括主剧情、衍生宇宙、幕后访谈以及爱好者社区，还有乔治·卢卡斯的Lucasfilm, IML, Skywalker Ranch 与 LucasArts 。作为粉丝，全面了解星战的创造和制作，我想这是一种天然的习性。Cass Sunstein 甚至把《星球大战》和《美国宪法》放到一起来解释如何准确地描述我们的创造力。
