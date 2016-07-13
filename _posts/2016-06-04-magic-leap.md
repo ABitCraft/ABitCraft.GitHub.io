@@ -4,7 +4,7 @@ title: 揭秘 Magic Leap——世界上最神秘的创业公司
 categories: VR
 ---
 
-> 2016年5月份《连线》杂志的这篇 KK 的长文 [The Untold Story of Magic Leap, the World’s Most Secretive Startup](http://www.wired.com/2016/04/magic-leap-vr/)，完整介绍了虚拟现实热门公司 [Magic Leap](http://magicleap.com/) 背后的故事。此处的中文翻译来自机器之心：[Magic Leap 再发 Demo，凯文·凯利万字长文揭秘](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650714847&idx=1&sn=006909cf2bbd6a548dbcd810e3f396e0&scene=1&srcid=0605Cl6booRrtBr22XLRNtu0)，其中的不完美之处我会稍加调整。
+> 2016年5月份《连线》杂志的这篇 KK 的长文 [The Untold Story of Magic Leap, the World’s Most Secretive Startup](http://www.wired.com/2016/04/magic-leap-vr/)，完整介绍了虚拟现实热门公司 [Magic Leap](http://magicleap.com/) 背后的故事。此处的中文翻译来自机器之心：[Magic Leap 再发 Demo，凯文·凯利万字长文揭秘](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650714847&idx=1&sn=006909cf2bbd6a548dbcd810e3f396e0)，仅作收录之用；其中的不完美之处我以后还会作稍调整。
 
 ***
 

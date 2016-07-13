@@ -78,6 +78,36 @@ permalink: /resume/
 
 `Google Translator Toolkit` `有道词典`
 
+消化媒体食谱上大量原汁原味的信息和资料，我会尝试去翻译一些有价值的内容，以更好地探究作者的本意：如何遣词用语、安排论点，如何谋篇布局、组织材料……特别是从挖掘材料中培养自己组织话题的能力。
+
+我仔细翻译并详加审校过的文章如下：
+
+> 黑客文化：
+> 
+> + [如何成为一名黑客](http://bitandliteracy.github.io/hacker-howto)
+> + [黑客行为作为一种应用哲学](http://bitandliteracy.github.io/hacking)
+> + [卡马克论想法更迭](http://bitandliteracy.github.io/idea-generation)
+> 
+> 虚拟现实：
+> 
+> + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
+> + [虚拟现实过去的声音](http://bitandliteracy.github.io/oral-history)
+> + [接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子](http://bitandliteracy.github.io/abrash-dev-days)
+> + [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
+> + [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
+> 
+> 其他内容：
+> 
+> + [组装一台游戏电脑来终结客厅里毫无意义的游戏主机之争](http://bitandliteracy.github.io/gaming-pc)
+> + [“25年的学习和欢笑”](http://bitandliteracy.github.io/gates-to-buffett)
+
+我翻译所用的工具是 `有道词典` 与 `Google Translator Toolkit`，
+工具和方法
+
+阐释表达意图
+
+
+
 我每天都会读一些国外网站的科技动态以及相关讨论，还会读一些英文原版的书。及时获取到原汁原味的资料和文档，我觉得我还是蛮享受这一点的。
 
 另外，我也尝过一些翻译，但我更为希望的还是通过挖掘材料能探究到作者的本意。英语确实是我们理解科技文化所不可或缺的工具。
