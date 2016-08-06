@@ -9,6 +9,7 @@ categories: VR
 ***
 
 **HYPER VISION**
+
 > 世上最火的初创公司并不在硅谷，而是位于佛罗里达的郊野。 Kevin Kelly 在本文中探索了这样一个问题: Magic Leap 那令人迷幻的技术透露出哪些有关虚拟现实未来的信息。
 
 <img src="https://www.wired.com/wp-content/uploads/2016/04/magic_leap-1.jpg" alt="Rony Abovitz" />

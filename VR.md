@@ -29,13 +29,14 @@ permalink: /VR/
 
 此处需要说明的一点是，这里的虚拟现实内容主要所关注的不在于技术实现本身。这里会有一些原理知识，但记录更多的还是虚拟现实背后的故事，因为我想知道的是这一切是怎么发生的，正在推动此事的人们都是怎么说的，他们所推崇的思想和远见卓识又来自何处……我也正是这样来组织接下来的内容的。
 
-与此同时，我正在用 GitBook 把这些内容来整理成一份更为专门的虚拟现实资料集：[虚拟现实全息仪](https://bitandliteracy.gitbooks.io/virtual-reality-holocron/content/)，分享出来以供学习交流之用，共享协议为 `CC-BY-NC-SA 4.0 International`。其中“全息仪”一词，即为“全息记录仪” `Holocron`，源自于《星球大战》。
+与此同时，我正在用 GitBook 把这些内容来整理成一份更为专门的虚拟现实资料集：[虚拟现实全记录](https://bitandliteracy.gitbooks.io/virtual-reality-holocron/content/)，分享出来以供学习交流之用，共享协议为 `CC-BY-NC-SA 4.0 International`。其中 `Holocron` 一词，即为“全息记录仪”，源自《星球大战》，此处写为“全记录”。
 
 这里我所能做的就是，力求能把读到的基本素材很好地组织起来，然后不断地调整和更新，希望最终能累积出一系列还算不错的虚拟现实资料。
 
 #### 基础
 
 + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
++ [Magic Leap 是如何工作的？]()
 
 #### 故事
 
@@ -53,4 +54,5 @@ permalink: /VR/
 #### VR Mind
 
 + [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
-+ [“看得见风景的房间”（1993）](http://bitandliteracy.github.io/CAVE)
++ [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
++ [未来的电影艺术（1955）](http://bitandliteracy.github.io/The-Cinema-of-the-Future)

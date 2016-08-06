@@ -49,7 +49,8 @@ permalink: /heroes/
 #### “地球上最牛逼的人”
 
 + [《硅谷钢铁侠》]()
-+ [The Engineer]()
++ [The Engineer](https://leanpub.com/theengineer/)
++ [未来十年，Tesla 将发展成价值万亿美元的公司](http://bitandliteracy.github.io/master-pan)
 
 #### Wait, But Why?
 
