@@ -50,7 +50,7 @@ permalink: /heroes/
 
 + [《硅谷钢铁侠》]()
 + [The Engineer](https://leanpub.com/theengineer/)
-+ [未来十年，Tesla 将发展成价值万亿美元的公司](http://bitandliteracy.github.io/master-pan)
++ [未来十年，Tesla 将发展成价值万亿美元的公司](http://bitandliteracy.github.io/master-plan)
 
 #### Wait, But Why?
 
