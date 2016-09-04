@@ -18,7 +18,7 @@ permalink: /CV/
 
 ### 胡永波 | 1985
 
-**哈尔滨工业大学 | 生物技术 | [辍学](#hacking_education)**
+**哈尔滨工业大学 · 生物技术 · [辍学](#hacking_education)**
 
 **`appu@foxmail.com`**
 
