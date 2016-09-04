@@ -340,6 +340,7 @@ permalink: /CV/
 > 当然，设定有意义的目标也很重要，交流观点并结识朋友是各类活动中所唯一不变的话题。
 
 <a name="hacking_education" id="hacking_education"></a>
+
 ### Hacking Education
 
 我对“真正的大学”有一种不一样的偏执，我也愿意专门花时间潜下心来反思我自己的教育经历，我知道我有足够的智力。对于自己漫长的阅读及思索过程，我整理出 [未来的学习者](http://bitandliteracy.github.io/Dear-Future-Learners/) 和 [匠艺之心](http://bitandliteracy.github.io/ToolCraft/) 两篇文档。
