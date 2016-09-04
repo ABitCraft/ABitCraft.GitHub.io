@@ -14,26 +14,27 @@ permalink: /hackerdom/
 
 我自己的阅读列表如下：
 
-`《黑客》《黑客与画家》《大教堂与市集》《若为自由故》《只是为了好玩》《沃兹传》《Doom启世录》《禅与摩托车维修艺术》《哥德尔、艾舍尔、巴赫书：集异璧之大成》`
+`《黑客》《黑客与画家》《大教堂与市集》《若为自由故》《只是为了好玩》《沃兹传》《Revolution in the Valley》《Doom启世录》……《禅与摩托车维修艺术》《哥德尔、艾舍尔、巴赫书：集异璧之大成》`
 
 视频内容则是这样的：
 
 > + [The Code](http://www.code.linux.fi/)
 > + [Revolution OS](http://www.revolution-os.com/)
 > + [Code Rush](https://wiki.mozilla.org/Code_Rush)
-> + [Triumph of the Nerds](http://www.pbs.org/nerds/)
-> + [The Virtual Revolution](http://www.bbc.co.uk/programmes/b00n4j0r/microsite)
+> + [Triumph of the Nerds](http://www.pbs.org/nerds/) `书呆子的复仇`
+> + [The Virtual Revolution](http://www.bbc.co.uk/programmes/b00n4j0r/microsite) `虚拟革命`
 > + [DEFCON: The Documentary](http://vimeo.com/69695831)
-> + [We Are Legion: The Story of the Hacktivists](http://www.bbc.co.uk/programmes/b01qxmwp)
+> + [The Hacker Wars - A Documentary About Prosecutions Director: Vivien Lesnik Weisman](https://www.anonymousvideo.eu/the-hacker-wars.html) `匿名者`
+> + [We Are Legion: The Story of the Hacktivists](http://www.bbc.co.uk/programmes/b01qxmwp) `匿名者`
 > + [We Steal Secrets: The Story of WikiLeaks](http://wikileaks-movie.com)
-> + [TPB AFK: The Pirate Bay Away from Keyboard](http://www.tpbafk.tv/)
+> + [TPB AFK: The Pirate Bay Away from Keyboard](http://www.tpbafk.tv/) `海盗湾：暂别离`
 > + [Deep Web: The Untold Story of BitCoin and Silk Road](http://www.deepwebthemovie.com/)
-> + [The Internet's Own Boy: The Story of Aaron Swartz](http://www.takepart.com/internets-own-boy)
-> + [Citizenfour](http://citizenfourfilm.com/)
+> + [The Internet's Own Boy: The Story of Aaron Swartz](http://www.takepart.com/internets-own-boy) `互联网之子`
+> + [Citizenfour](http://citizenfourfilm.com/) `第四公民`
 
 ## 黑客圈文档
 
-然后，补充一些黑客圈故事和文档：
+然后，补充一些我所整理的黑客圈故事及文档：
 
 + [《黑客圈简史》](http://bitandliteracy.github.io/hacker-history)
 + [《黑客与英雄们》](http://bitandliteracy.github.io/hacker-and-heroes)

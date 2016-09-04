@@ -139,7 +139,7 @@ permalink: /CV/
 
 **临摹大师的手法：**参照 ESR 的黑客文化名篇[《如何成为一名黑客》](http://bitandliteracy.github.io/hacker-howto)，我专门整理出一份对 John Carmack 的扩展阅读——[《游戏黑客之道》](http://bitandliteracy.github.io/game-hacker) 与 [《如何培养出一位游戏黑客》](http://bitandliteracy.github.io/Ryan)，力图剖析出原文中所表现的黑客文化的力度和效用。
 
-我还在参照 Tim Urban 为 Elon Musk 所写的那一系列 WaitButWhy 文章来阅读 Elon Musk， 我整理出了 Musk 传记的[书评]()以及完整的 Tesla 规划蓝图：[未来十年，Tesla 将发展成价值万亿美元的公司](http://bitandliteracy.github.io/master-plan)。我特别认同 Tim Urban 解释复杂问题时的头脑和方法，并希望像“歪理邪说”一样，把这样的深层解释同日常的实际生活很好地结合起来。
+尽管完成过一篇完整的 Tesla 规划蓝图：[未来十年，Tesla 将发展成价值万亿美元的公司](http://bitandliteracy.github.io/master-plan)，我还在参照 Tim Urban 为 Elon Musk 所写的那一系列 WaitButWhy 文章来进一步阅读 Elon Musk， 力求整理出一篇更为深刻的 Musk 传记。我特别认同 Tim Urban 解释复杂问题时的头脑和方法，并希望像“歪理邪说”一样，把这样的深层解释同日常的实际生活很好地结合起来。
 
 > 学习大师本身就是对自己头脑的一项很好锻炼。
 
@@ -357,26 +357,56 @@ permalink: /CV/
 
 ### “黑客圈”话题
 
-我喜欢阅读黑客圈内经典的文档与故事，喜欢
+我喜欢阅读黑客圈内经典的文档与故事，并乐于就这样的题材来展开创作，自发地去传播科技中的美和人性。其中，我的原创内容是这样的：
+
+> + [游戏黑客之道](http://bitandliteracy.github.io/game-hacker)
+> + [如何培养出一位游戏黑客](http://bitandliteracy.github.io/Ryan)
+> + [其实“黑客”原本可以说更多的](http://bitandliteracy.github.io/hackers)
+> + [为什么“极客”一词会受欢迎](http://bitandliteracy.github.io/why-geek)
+
+而整理和翻译的内容则如下：
+
+> + [如何成为一名黑客](http://bitandliteracy.github.io/hacker-howto)
+> + [黑客行为作为一种应用哲学](http://bitandliteracy.github.io/hacking)
+> + [卡马克论想法更迭](http://bitandliteracy.github.io/idea-generation)
 
 #### Heroes
 
+我最为敬仰的是黑客中那些一心求取卓越的英雄们。除却技术方面无可争议的天才们：Woz、RMS、Linus……我认为把技术与人生结合得最完美的，当属 John Carmack 和 Elon Musk。
 
+其中，我创作过多篇关于 John Carmack 的文章：
+
+> + [《游戏黑客之道》](http://bitandliteracy.github.io/game-hacker)
+> + [《卡马克论想法更迭》](http://bitandliteracy.github.io/idea-generation)
+> + [《如何培养出一位游戏黑客》](http://bitandliteracy.github.io/Ryan)
+> + [《“两个约翰”，一则关于创造力的寓言》](http://bitandliteracy.github.io/doom)
+
+而读过 Elon Musk 传记性的 [The Engineer](https://leanpub.com/theengineer/) 与《硅谷钢铁侠》，我特地整理出一篇完整的 Tesla 规划蓝图：[未来十年，Tesla 将发展成价值万亿美元的公司](http://bitandliteracy.github.io/master-plan)，不过我最欣赏的还是 Tim Urban 专门为 Elon Musk 所写的一系列 WaitButWhy 文章（我正为此在写一篇更为深刻的书评）：
+
+> + [Elon Musk: The World's Raddest Man](http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html) 
+> + [How Tesla Will Change the World](http://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) 
+> + [How (and Why) SpaceX Will Colonize Mars](http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html) 
+> + [The Chef and the Cook: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) 
+> + [The Deal With Solar City](http://waitbutwhy.com/2015/06/the-deal-with-solar.html) 
+> + [The Deal With the Hyperloop](http://waitbutwhy.com/2015/06/hyperloop.html) 
 
 #### 纪录片
 
-《互联网之子》
+同时，我还常常向人推荐一些黑客圈的视频纪录片：
 
-《第四公民》
-
-《虚拟革命》
-
-《书呆子的复仇》
-
-《海盗湾：暂别离》
-
-匿名者
-
+> + [The Code](http://www.code.linux.fi/)
+> + [Revolution OS](http://www.revolution-os.com/)
+> + [Code Rush](https://wiki.mozilla.org/Code_Rush)
+> + [Triumph of the Nerds](http://www.pbs.org/nerds/) `书呆子的复仇`
+> + [The Virtual Revolution](http://www.bbc.co.uk/programmes/b00n4j0r/microsite) `虚拟革命`
+> + [DEFCON: The Documentary](http://vimeo.com/69695831)
+> + [The Hacker Wars - A Documentary About Prosecutions Director: Vivien Lesnik Weisman](https://www.anonymousvideo.eu/the-hacker-wars.html) `匿名者`
+> + [We Are Legion: The Story of the Hacktivists](http://www.bbc.co.uk/programmes/b01qxmwp) `匿名者`
+> + [We Steal Secrets: The Story of WikiLeaks](http://wikileaks-movie.com)
+> + [TPB AFK: The Pirate Bay Away from Keyboard](http://www.tpbafk.tv/) `海盗湾：暂别离`
+> + [Deep Web: The Untold Story of BitCoin and Silk Road](http://www.deepwebthemovie.com/)
+> + [The Internet's Own Boy: The Story of Aaron Swartz](http://www.takepart.com/internets-own-boy) `互联网之子`
+> + [Citizenfour](http://citizenfourfilm.com/) `第四公民`
 
 ### 游戏迷
 
@@ -384,63 +414,64 @@ permalink: /CV/
 
 + 十年《魔兽世界》经历：游戏、比赛、嘉年华，一个都没有少；热衷于暴雪幕后访谈。
 + `剧情控`：读完全部魔兽小说；熟知星际与暗黑系列剧情。
-+ 我最着迷的是 Patrick Wyatt 回顾星际、魔兽与暗黑开发过程的 [Code of Honor]()；还有 Bill Roper 关于员工必须是游戏玩家的­见解（`要热爱工作的内容 ^.^`）。
++ 我最着迷的是 Patrick Wyatt 回顾星际、魔兽与暗黑开发过程的 [Code of Honor](http://www.codeofhonor.com/blog)；还有 Bill Roper 关于员工必须是游戏玩家的­见解（`要热爱工作的内容 ^.^`）。
 
 > 此外，关于游戏工作，我还特地整理过那篇 `Valve 新员工手册`。
 
-### 影视爱好者
+### 影视爱好
+
+闲暇时间，我常常看一些科技相关的影视作品及访谈播客，从而在多维媒介上强化自己对于科技的理解。
+
+而作为粉丝，全面了解“星战”的创造与制作，我想那只是一种天性：
+
+> 我会关心《星球大战》的一切，包括主剧情、衍生宇宙、幕后访谈与爱好者社区，还有乔治·卢卡斯及其Lucasfilm, IML, Skywalker Ranch 以及 LucasArts。
+
+`"Use the Force."`
+
+#### 科技题材
+
+科技题材上，我较为喜欢以上这些跟现实相关的影视作品和纪录片，特别是国家地理的[超级工厂](http://channel.nationalgeographic.com/ultimate-factories/)系列：
+
+影视：`《硅谷海盗》《社交网络》《史蒂夫·乔布斯》《模仿游戏》……《黑镜》《机器人大战》……`
+
+纪录片：`《微观世界》《行星地球》《从地球出发》……`
 
 #### "inspiring"
 
-《风雨哈佛路》
+当然，那些触动心灵的影视作品及游戏相关内容也不容错过：
 
-《十月的天空》
+影视：`《城市广场》《风雨哈佛路》《十月的天空》《太空先锋》《寿司之神》《我和世界不一样》`
 
-《》
+游戏：`《独立游戏大电影》《游戏之王》《心竞技》《魔兽世界：寻求组队》《我的世界》……`
 
-#### 科技话题
+#### 系列电影
 
+此外，是我最喜欢的系列电影以及相关创作：
 
-《当我们离开地球》
-
-超级工厂
-
-#### 电影
-
-《星球大战》
+**《星球大战》**
 
 > [桑斯坦论卢卡斯：要准确描述我们的创造力](http://bitandliteracy.github.io/creativity)
 
-《星际迷航》
+**《星际迷航》**
 
-> [《星际迷航》简史]()
+> [为什么《星际迷航》导演就能一次又一次地持续成功？](http://bitandliteracy.github.io/why-successful)
 
-《黑客帝国》《指环王》
+以及，`《黑客帝国》《指环王》《异形》`
 
 #### 剧集
 
-《硅谷》
+还有剧集方面：
+
+**《硅谷》**
 
 > [不可思议的《硅谷》](http://bitandliteracy.github.io/Uncanny-Silicon-Valley)
 
+极客相关：`《生活大爆炸》《黑客军团》《真实的人类》《怪胎与书呆》《霹雳游侠》`
 
-《权力的游戏》
-《生活大爆炸》`TBBT`
-
-《新闻编辑室》
-《真实的人类》
-
-
-
-我关心《星球大战》的一切，包括主剧情、衍生宇宙、幕后访谈以及爱好者社区，还有乔治·卢卡斯的Lucasfilm, IML, Skywalker Ranch 与 LucasArts 。作为粉丝，全面了解星战的创造和制作，我想这是一种天然的习性。Cass Sunstein 甚至把《星球大战》和《美国宪法》放到一起来解释如何准确地描述我们的创造力。
-
-当然，达斯·维德的兴亡与阿纳金·天行者的救赎更是一个讨论不完的话题，新绝地与旧绝地的原力哲学问题更像是在某种极端条件下探究科技背后的人性问题。"Use the Force." `Acess to Tools`
-
-
-
+以及，`《新闻编辑室》《权力的游戏》《纸牌屋》`
 
 ***
 
 ## Thank you for reading.
 
-感谢您花时间来了解我，期待能有机会合作出那些我们都会引以为傲的事情。
+感谢您花时间来了解我，期待能有机会合作出那些我们都能引以为傲的事情。
