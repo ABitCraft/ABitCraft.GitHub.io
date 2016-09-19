@@ -175,6 +175,10 @@ permalink: /CV/
 + [Head First HTML with CSS & XHTML](http://www.headfirstlabs.com/books/hfhtml)
 + [BitandLiteracy.GitHub.io](http://bitandliteracy.github.io) `Jekyll`
 
+### 寻求智慧
+
+
+
 ***
 
 ## PROJECTS
@@ -302,7 +306,7 @@ permalink: /CV/
 
 #### 帮助极客视界同外部内容团队建立联系
 
-通过转发一些比较硬核的科技内容，我帮助极客视界同 HardenedLinux、离线（The Offline）、元代码（VRerse）、Freebuf 等外部团队都建立了一定的联系，以期将来在内容上能有更多合作。
+通过转发一些比较硬核的科技内容，我帮助极客视界同 HardenedLinux、离线（The Offline）、元代码（VRerse）等外部团队都建立了一定的联系，以期将来在内容上能有更多合作。
 
 ### 北京鼎衡丰汇文化传播有限公司
 
