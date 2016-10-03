@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "My Precious"
-permalink: /CV/
+title: "my own, precious"
+permalink: /ABitCraft/
 ---
 
 > **“恭喜你发现了这里的宝藏！”**
@@ -75,7 +75,7 @@ permalink: /CV/
 > + 社区筛选和算法推荐可以过滤掉很多没有价值的内容；而重要内容的社区评论，很多时候会比信息源要更有价值；结合这两方面，很容易去挖掘和构建比较有深度的话题。
 > + 它的算法和 API 有过不少公开的讨论，而不少关于 Hacker News 的应用（vim-hackernews, Hacker-Bar 及 premii/hn 等）也在 GitHub 上开源。`技术+社区+内容`可以给人一种更有深度的技术思考。
 
-在极客世界工作期间，我帮助团队把 RSS 阅读器从 `The Old Reader` 完整转换到更好用的 `Feedly`，重新组织出一套更为合理的信息结构，并匹配以相应的技能组合。
+在极客视界工作期间，我帮助团队把 RSS 阅读器从 `The Old Reader` 完整转换到更好用的 `Feedly`，重新组织出一套更为合理的信息结构，并匹配以相应的技能组合。
 
 至于虚拟现实方面，我常用的信息源则是 [MTBS3D](http://www.mtbs3d.com)、[AllThingsVR](http://www.allthingsvr.co) 和 [Voices of VR Podcast](http://voicesofvr.com)。
 
@@ -134,8 +134,13 @@ permalink: /CV/
 
 具体而言，素材方面，我的挖掘一向较为细致，除了在 Google、Wikipedia 与 Internet Archive 上所能找到的书本、图文、视频，还特别注意评论及社交媒体的价值。以此来挖掘的内容示例如下：
 
-> + [《苹果如何来实现乔布斯想要的电视》](http://bitandliteracy.github.io/Apple-TV)
-> + [《从万圣节看美国人的动手能力，人家科技强不是没有道理的》](http://geekview.cn/g30/13880.html)
+> + [你以为殖民火星就够了吗？这个男人是想征服太阳系！](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802772&idx=1&sn=d34d94a02bb6112826bd9e259e70e290#rd)
+> + [让马斯克告诉你，如何成为下一个硅谷钢铁侠？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802419&idx=1&sn=7e9b5eb40fbed8700100be79e981150f#rd)
+> + [90后的失明少女，如何成为苹果不可或缺的工程师？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802609&idx=1&sn=52c2a92be4d5f571e072983c42c0dd81#rd)
+> + [曾经「改变世界」的苹果，为什么现在「只会赚钱」？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802246&idx=1&sn=837c61b0d21c53eeb9d39ffe3d0b5ab5#rd)
+> + [从万圣节看美国人的动手能力，人家科技强不是没有道理的](http://geekview.cn/g30/13880.html)
+> + [苹果如何来实现乔布斯想要的电视](http://bitandliteracy.github.io/Apple-TV)
+
 
 **临摹大师的手法：**参照 ESR 的黑客文化名篇[《如何成为一名黑客》](http://bitandliteracy.github.io/hacker-howto)，我专门整理出一份对 John Carmack 的扩展阅读——[《游戏黑客之道》](http://bitandliteracy.github.io/game-hacker) 与 [《如何培养出一位游戏黑客》](http://bitandliteracy.github.io/Ryan)，力图剖析出原文中所表现的黑客文化的力度和效用。
 
@@ -227,7 +232,7 @@ permalink: /CV/
 
 ### 深圳市极客视界科技有限公司
 
-`极客视界·科技编辑（2015年10月~至今）`
+`极客视界·高级编辑（2015年10月~至今）`
 
 #### “虚拟现实”
 
@@ -235,46 +240,56 @@ permalink: /CV/
 
 **基础知识：**
 
-+ [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
-+ [即便《我的世界》是当前最棒的 VR 游戏，那又如何？](http://bitandliteracy.github.io/minecraft-vr)
-+ [我们将如何使用 Magic Leap？](http://bitandliteracy.github.io/how-will-we-use-magic-leap)
+> + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
+> + [即便《我的世界》是当前最棒的 VR 游戏，那又如何？](http://bitandliteracy.github.io/minecraft-vr)
+> + [我们将如何使用 Magic Leap？](http://bitandliteracy.github.io/how-will-we-use-magic-leap)
 
 **故事：**
 
-+ [《他连小学都没上过，却把公司卖了20亿美元》](http://geekview.cn/g18/15794.html)
-+ [《这辈子你看过改变世界的产品：电脑手机之后，就是Oculus》](http://geekview.cn/g18/15761.html)
-+ [《一个能让「盖茨」和「马斯克」都羡慕嫉妒恨的人，还在继续改变世界》](http://geekview.cn/g26/15806.html)
+> + [他连小学都没上过，却把公司卖了20亿美元](http://geekview.cn/g18/15794.html)
+> + [这辈子你看过改变世界的产品：电脑手机之后，就是Oculus](http://geekview.cn/g18/15761.html)
+> + [一个能让「盖茨」和「马斯克」都羡慕嫉妒恨的人，还在继续改变世界](http://geekview.cn/g26/15806.html)
 
 **访谈：**
 
-+ [虚拟现实过去的声音](http://bitandliteracy.github.io/oral-history)
-+ [接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子](http://bitandliteracy.github.io/abrash-dev-days)
+> + [虚拟现实过去的声音](http://bitandliteracy.github.io/oral-history)
+> + [接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子](http://bitandliteracy.github.io/abrash-dev-days)
 
 **VR 之经典：**
 
-+ [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
-+ [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
-+ [未来的电影艺术（1955）](http://bitandliteracy.github.io/The-Cinema-of-the-Future)
+> + [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
+> + [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
+> + [未来的电影艺术（1955）](http://bitandliteracy.github.io/The-Cinema-of-the-Future)
 
 当虚拟现实技术真正降临时，传播给普通人的不仅仅是最新的虚拟现实产品，还有它的基础知识、技术背后的思想与文化——对照个人电脑与智能手机大规模普及时情形，虚拟现实同样将从最基础的知识、文化层面对这个时代的个体与公众产生深远的影响。
+
+#### "Elon Musk"
+
+> + [你以为殖民火星就够了吗？这个男人是想征服太阳系！](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802772&idx=1&sn=d34d94a02bb6112826bd9e259e70e290#rd)
+> + [让马斯克告诉你，如何成为下一个硅谷钢铁侠？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802419&idx=1&sn=7e9b5eb40fbed8700100be79e981150f#rd)
+> + [超级电池工厂，Tesla 的未来就靠它了](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650800928&idx=1&sn=40e5028e5ef500f88694a282179ab937#rd)
+> + [未来十年，Tesla 将发展成价值万亿美元的公司](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650800828&idx=1&sn=5537dc5bcb406008c06319611289a293#rd)
 
 #### 原创及翻译
 
 **原创方面：结合极客文化和有感染力的故事来输出比较有说服力的科技内容**
 
-> + [《为什么“极客”一词会受欢迎》](http://bitandliteracy.github.io/why-geek)
-> + [《这个美女黑客的发明，可能拯救无数生命，也可能毁灭全人类》](http://geekview.cn/g25/13853.html)
-> + [《从万圣节看美国人的动手能力，人家科技强不是没有道理的》](http://geekview.cn/g30/13880.html)
+> + [90后的失明少女，如何成为苹果不可或缺的工程师？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802609&idx=1&sn=52c2a92be4d5f571e072983c42c0dd81#rd)
+> + [曾经「改变世界」的苹果，为什么现在「只会赚钱」？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802246&idx=1&sn=837c61b0d21c53eeb9d39ffe3d0b5ab5#rd)
+> + [这个美女黑客的发明，可能拯救无数生命，也可能毁灭全人类](http://geekview.cn/g25/13853.html)
+> + [从万圣节看美国人的动手能力，人家科技强不是没有道理的](http://geekview.cn/g30/13880.html)
 > + ……
-> + [《如何培养出一位游戏黑客》](http://bitandliteracy.github.io/Ryan)
+> + [为什么“极客”一词会受欢迎](http://bitandliteracy.github.io/why-geek)
+> + [如何培养出一位游戏黑客](http://bitandliteracy.github.io/Ryan)
 
 我相信对极客话题及相关技术细节的融会贯通终将产生出真正有影响力的作品，而进一步用更为通俗的话语来把这层理解解释给普通读者，将能进一步扩大这种作品的影响力。
 
 **编译方面：主要是虚拟现实、黑客文化以及一些 DIY 的内容**
 
-> + [《要不是这个人讨厌纸上绘图，就不会有如今我们屏幕上的触控操作》](http://geekview.cn/g02/14166.html)
-> + [《组装一台游戏电脑来终结客厅里毫无意义的游戏主机之争》](http://bitandliteracy.github.io/gaming-pc)
-> + [《Gmail 大神告诉你如何用黑客思维来创业》](http://geekview.cn/g19/15879.html)
+> + [要不是这个人讨厌纸上绘图，就不会有如今我们屏幕上的触控操作](http://geekview.cn/g02/14166.html)
+> + [买不起特斯拉怎么办？这位大哥自己DIY了一辆](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650799254&idx=1&sn=03263dc7b115f53c8ca4fc8aba5f0c26)
+> + [组装一台游戏电脑来终结客厅里毫无意义的游戏主机之争](http://bitandliteracy.github.io/gaming-pc)
+> + [Gmail 大神告诉你如何用黑客思维来创业](http://geekview.cn/g19/15879.html)
 
 除了考究翻译本身的细节，我通常还会增加一些额外的 GIF 图来把难懂的技术细节解释清楚。例如，把[虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)一文拆分成[上](http://geekview.cn/g01/13890.html)、[中](http://geekview.cn/g04/13896.html)、[下](http://geekview.cn/g07/13915.html)三篇来解释其中的虚拟现实概念就取得过很好的效果。
 
