@@ -63,6 +63,7 @@ permalink: /ABitCraft/
 同时，我还熟悉常见操作系统及硬件配置，并保持有足够的动手能力。我学习技术的个人兴趣是希望能独立打造出一个自己的 [R2D2](http://astromech.net) 。
 
 <a name="media_diet" id="media_diet"></a>
+
 ### Media Diet
 
 `Reeder` `Pocket`
