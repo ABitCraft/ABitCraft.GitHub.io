@@ -134,3 +134,13 @@ categories:
 毕竟如今，支付宝在创新能力上不及微信，已经是不争的事实。
 
 不过有一点确定无疑，**“我们身处的行业不会尊重传统，只会尊重创新。”**
+
+***
+
+参考：
+
+[Beyond Nokia: A love story](https://techcrunch.com/2016/11/20/a-love-story/)
+
+[The upside to being let go by Nokia](http://www.bbc.com/news/magazine-25965140)
+
+《硅谷百年史》*5. 合作伙伴：比尔·休利特、戴维·帕卡德和弗雷德·特曼在惠普和斯坦福（1930-1970）*
