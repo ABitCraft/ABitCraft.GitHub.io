@@ -15,7 +15,7 @@ categories:
 
 由于不再专注于通话，我们就再也回不到那个摔不坏、碾不烂、砸不碎的功能机时代。
 
-![]({{ site.baseurl }}/images/Nokia-iPhone.jpg)
+![]({{ site.baseurl }}/images/Nokia-iPhone.gif)
 
 但我们依然忍不住去怀念当年诺基亚的1110，那样的设计、品质、通话体验……堪称完美的一代神机。
 
@@ -49,7 +49,7 @@ categories:
 
 > “有很长一段时间，在诺基亚的任何一栋办公楼里，你都能感受到那种‘我们可以实现一切’的激情和信念。你可以在各个楼层中转一转，看看每个人脸上的神情，你就知道他们在做有意义的事情。我很喜欢这种氛围。”
 
-![]({{ site.baseurl }}/images/Nokia-love.jpg)
+![]({{ site.baseurl }}/images/Nokia-love.png)
 
 甚至还有人这样说：
 
