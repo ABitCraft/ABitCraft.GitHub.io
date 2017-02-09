@@ -4,16 +4,6 @@ title: resume
 permalink: /resume/
 ---
 
-> **“恭喜你发现了这里的宝藏！”**
-
-此处罗列的是我自己的各项技能及相关经验，对于如何将之编织成一套系统的方法论，我接下来会详述其中的细节和技巧。
-
-`当然，这肯定只能说出我一家之言，如果你有更好的见解或方法，欢迎随时 email 于我。`
-
-> 公开自身最基本的“参数设置”，我是想把这一开放的头脑保持下来，从而更为成熟地发展自己。**毕竟，我一直都在期待一些会让自己引以为傲的事情。**
-
-**`同时，对于任何有趣的机会或是合作，请优先考虑过以下的观点及方法。`**
-
 ## ABOUT
 
 ### 胡永波 | 1985
@@ -26,8 +16,21 @@ permalink: /resume/
 + GitHub：`http://bitandliteracy.github.io/`
 + 个人公众号：`ABitCraft`
 
-
 ***
+
+工具标签如下：
+
+**`MacBook Air` `Surge` `Chrome` `Google` `Translator Toolkit` `MacDown` `GitBook` `Reeder|Feedly` `Pocket` `Evernote|备忘录` `Scrivener` `youtube-dl` `GIF Brewery`**
+
+对于一些完整的技术方案，我的掌握清单如下：
+
+> + GitHub Pages: GitHub + Jekyll + Markdown `http://bitandliteracy.github.io/`
+> + 科学上网：Surge/Shadowsocks/VPN `使用个人 VPS 服务器，已弃用 wallproxy/goagent`
+> + FFmpeg: [尝试用 FFmpeg 来生成 GIF 图](http://bitandliteracy.github.io/FFmpeg-for-GIF)、制作字幕等。
+> + 此外，CMS 与微信后台：掌握相应的编辑和管理，了解 HTML 及相关样式。
+ 
+同时，我还熟悉常见操作系统及硬件配置，并保持有足够的动手能力。我学习技术的个人兴趣是希望能独立打造出一个自己的 [R2D2](http://astromech.net) 。
+
 
 ## PROJECTS
 
@@ -79,7 +82,11 @@ permalink: /resume/
 
 ### 深圳市极客视界科技有限公司
 
-`极客视界·高级编辑（2015年10月~至今）`
+`极客视界·高级编辑（2015年10月~2016年12月）`
+
+在职期间，致力于极客文化、苹果、虚拟现实、马斯克、自动驾驶等话题上的创作，极客视界微信公众号的新榜排名从100开外提升至最高20多名。
+
+其中原创作品 [《90后的失明少女，如何成为苹果不可或缺的工程师？》](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802609&idx=1&sn=52c2a92be4d5f571e072983c42c0dd81#rd) 受到了新榜、广东省残联的推荐和转发，另有一些文章还被《航空知识》所转发。
 
 #### “虚拟现实”
 
@@ -174,9 +181,11 @@ permalink: /resume/
 
 `电科技·内容编辑（2015年4月~6月）`
 
+在职期间所写的 [《苹果如何来实现乔布斯想要的电视》](http://bitandliteracy.github.io/Apple-TV) 一文，受到电视从业者圈子的热情转发。
+
 **原创作品：**
 
-通过挖掘外媒文章以及 Reddit、Hacker News 与 Ars Technica 等社区的评论，我能找出很好的线索来完成一些很有说服力的作品：
+通过挖掘外媒文章以及 Reddit、Hacker News 与 Ars Technica 等社区的评论，我能找出很好的线索来完成一些有说服力的作品：
 
 > + [《苹果如何来实现乔布斯想要的电视》](http://bitandliteracy.github.io/Apple-TV)
 > + [《玩家战胜巨头 Valve搁置付费MOD》](http://www.diankeji.com/game/20820.html)
