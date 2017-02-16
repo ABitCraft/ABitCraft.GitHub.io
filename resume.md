@@ -8,37 +8,90 @@ permalink: /resume/
 
 ### 胡永波 | 1985
 
+> 寻求智慧，努力写出科技的灵魂
+
 **哈尔滨工业大学 · 生物技术 · [辍学](#hacking_education)**
 
 **`appu@foxmail.com`**
 
 + 豆瓣：[AppU](http://www.douban.com/people/BitandLiteracy/)
-+ GitHub：`http://bitandliteracy.github.io/`
-+ 个人公众号：`ABitCraft`
+
++ GitHub blog：`http://bitandliteracy.github.io/`
+
++ 微信公众号：`ABitCraft`
+
+**工具清单：**
+
++ `MacBook Air`、`Shadowsocks`、`Surge`
++ `Reeder`、`Pocket`、`VoodooPad`、`备忘录`、`MacDown`
++ `youtube-dl`、`GIF Brewery`、`FFmpeg`
++ `BeFocused`
+
+**效率系统：**
+
+> 参考 Dave Lee 的 [My Productivity System](http://heydave.org/post/26770221775/my-productivity-system) 系统框架
+
++ `Week Chart`
++ `Daily Focus Area`
++ `Pomodoro Timer`
+
 
 ***
 
-工具标签如下：
+## SKILL SET
 
-**`MacBook Air` `Surge` `Chrome` `Google` `Translator Toolkit` `MacDown` `GitBook` `Reeder|Feedly` `Pocket` `Evernote|备忘录` `Scrivener` `youtube-dl` `GIF Brewery`**
+### 科学上网
 
-对于一些完整的技术方案，我的掌握清单如下：
+工具如下：
 
-> + GitHub Pages: GitHub + Jekyll + Markdown `http://bitandliteracy.github.io/`
-> + 科学上网：Surge/Shadowsocks/VPN `使用个人 VPS 服务器，已弃用 wallproxy/goagent`
-> + FFmpeg: [尝试用 FFmpeg 来生成 GIF 图](http://bitandliteracy.github.io/FFmpeg-for-GIF)、制作字幕等。
-> + 此外，CMS 与微信后台：掌握相应的编辑和管理，了解 HTML 及相关样式。
- 
-同时，我还熟悉常见操作系统及硬件配置，并保持有足够的动手能力。我学习技术的个人兴趣是希望能独立打造出一个自己的 [R2D2](http://astromech.net) 。
++ shadowsocks + VPS
++ Surge
 
+### 英语翻译
+
+我翻译过一些黑客文化和虚拟现实方面的经典文档，有不少内容还是首次被翻译成中文，如：
+
++ 《黑客行为作为一种应用哲学》
++ 《虚拟现实过去的声音》
++ 虚拟和增强现实溯源：Sutherland 的《终极显示》
+
+### RSS Feed
+
+RSS Feed 是获取互联网信息的利器，而获取信息的关键是在于有条理地精读。为此目的，我在 Reeder 上所整理的主要信息源如下：
+
++ 动态浏览：Hacker News、ACM TechNews
++ 精品文章：Daring Fireball、湾区日报
++ 长文写作： WaitButWhy、Backchannel，还有老牌科技媒体的一些长文。 
++ 此外，虚拟现实领域：AllThingsVR、VRerse、MTBS3D、Voices of VR Podcast。
+
+### HTML
+
+读过读"Head First HTML and CSS"一书：
+
++ 精通Markdown，写了自己的GitHub Pages站点；
++ 掌握超文本编辑器，CMS与微信后台管理；
++ 掌握内容相关的搜索引擎优化。
+
+### GIF动图
+
++ 熟练用GUI工具制作动图：PhotoShop、GIF Brewery；
++ FFmpeg命令行工具：写过用FFmpeg来生成GIF动图的批处理脚本，会用FFmpeg来制作硬字幕。
+
+***
 
 ## PROJECTS
 
 `个人项目`
 
-### [Skill Set: ABitCraft]()
+### [能力框架：一点修为](http://bitandliteracy.github.io/ABitCraft/)
 
-此处罗列的是我自己的各项技能及相关经验，对于如何将之编织成一套系统的方法论，我接下来会详述其中的细节和技巧。
+`协同放大效应`
+
+工作对知识和技能的打磨，激励我不断地反思并阅读更多，进而意识到一种更好的能力框架：“使自己所做的事情，能够同自身的学识、能力、进取心相得益彰，协同放大彼此的效果。”
+
+其内核是从生活的基本事务中寻求智慧，在细节上编织好自身的学识、技能和进取心，促成它们与日常所做的各种事情之间的协同放大效应，从而更好地收割每一天的工作和生活。
+
+我所尝试的，是培育和设计一个会学习，并在学习的过程中还能存活的能力有机体：让自己既可以以最有效的方式完成任务，又可以在此过程中变成一个更有能力、更富创造力的人。
 
 ### [虚拟现实全记录](https://bitandliteracy.gitbooks.io/virtual-reality-holocron/content/)
 
@@ -50,13 +103,15 @@ permalink: /resume/
 
 ### [BitandLiteracy.GitHub.io](http://bitandliteracy.github.io)
 
-了解到 GitHub Pages 和 Jykell 之后，特别是读过 Tom Preston-Werner 那篇 ["Blogging Like a Hacker"](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)，我也搭建起自己的页面来存档自己的写作，并维护一些有用或有趣的文档。
+读过 Tom Preston-Werner 那篇 ["Blogging Like a Hacker"](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)，我也搭建起自己的 GitHub 页面来存档写作，并维护一些`有用/有趣`的文档。
 
 `这里的作品主要是关于虚拟现实与黑客文化的，另外就是我自己的一些翻译——那些让我深受启迪的文档。`
 
-我最初用的是 Jekyll 的 [Brume](https://github.com/aigarsdz/brume) 主题，后改用为 [Pixyll](http://www.pixyll.com/) 的设计。用惯 Markdown 与 Jekyll 后，我又重读了 `Head First HTML and CSS` 一书，而后以 [Pixyll](http://www.pixyll.com/) 的结构设计结合 [汉字排版框架](http://css.hanzi.co/) 的字体排版重做了这里的页面。
+用惯 Markdown 与 Jekyll 后，我又重读 `Head First HTML and CSS` 一书，而后结合 [汉字排版框架](http://css.hanzi.co/) 来改写 [Pixyll](http://www.pixyll.com/) 代码，这就是你现在所看到的页面结构。
 
-不过现在的设计，想必还有很多值得改进的地方。好在“我能随时修改CSS和页面模版。所有东西备份在GitHub上……系统简单到我能控制整个的转换过程。”“我想它会让我成为一个更好的博客作者。”
+不过我想，更好的做法是，将来从零设计出自己尚在构思中的页面。毕竟，“我能随时修改CSS和页面模版。所有东西备份在GitHub上……系统简单到我能控制整个的转换过程。”
+
+“我想它会让我成为一个更好的博客作者。”
 
 > 诚然，这里的文档本身不会产生价值，但却会让运用它们的人提升价值。维护这些内容，一则是为科技文化本身服务，二则是为提升自己，并与大家共勉。
 
@@ -72,7 +127,7 @@ permalink: /resume/
 > + [读罢《离线》，回顾《1024》](http://book.douban.com/review/7112369/) 之于《离线·开始游戏》；
 > + [其实“黑客”原本可以说更多的](http://book.douban.com/review/7423445/) 之于《离线·黑客》。
 
-我还为“离线”公众号写过关于《Doom启世录》的书评：
+我还为“离线”公众号写过一篇关于《Doom启世录》的书评：
 
 > +  [‘两个约翰’，一则关于创造力的寓言]( http://bitandliteracy.github.io/doom)
 
@@ -86,30 +141,32 @@ permalink: /resume/
 
 在职期间，致力于极客文化、苹果、虚拟现实、马斯克、自动驾驶等话题上的创作，极客视界微信公众号的新榜排名从100开外提升至最高20多名。
 
-其中原创作品 [《90后的失明少女，如何成为苹果不可或缺的工程师？》](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802609&idx=1&sn=52c2a92be4d5f571e072983c42c0dd81#rd) 受到了新榜、广东省残联的推荐和转发，另有一些文章还被《航空知识》所转发。
+其中，几篇虚拟现实的经典文章是由我第一次翻译成中文，苹果、马斯克等热门话题的创作大多由我执笔，原创作品 [《90后的失明少女，如何成为苹果不可或缺的工程师？》](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802609&idx=1&sn=52c2a92be4d5f571e072983c42c0dd81#rd) 受到了新榜、广东省残联的推荐和转发。
 
-#### “虚拟现实”
+#### 内容方面
+
+**`虚拟现实`**
 
 我非常兴奋能在新一轮技术浪潮行将啸起的阶段，有机会针对该技术的资料和文化进行挖掘。具体到虚拟现实方面，我系统整理并翻译过的内容如下：
 
-**基础知识：**
+基础知识：
 
 > + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
 > + [即便《我的世界》是当前最棒的 VR 游戏，那又如何？](http://bitandliteracy.github.io/minecraft-vr)
 > + [我们将如何使用 Magic Leap？](http://bitandliteracy.github.io/how-will-we-use-magic-leap)
 
-**故事：**
+故事：
 
 > + [他连小学都没上过，却把公司卖了20亿美元](http://geekview.cn/g18/15794.html)
 > + [这辈子你看过改变世界的产品：电脑手机之后，就是Oculus](http://geekview.cn/g18/15761.html)
 > + [一个能让「盖茨」和「马斯克」都羡慕嫉妒恨的人，还在继续改变世界](http://geekview.cn/g26/15806.html)
 
-**访谈：**
+访谈：
 
 > + [虚拟现实过去的声音](http://bitandliteracy.github.io/oral-history)
 > + [接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子](http://bitandliteracy.github.io/abrash-dev-days)
 
-**VR 之经典：**
+VR 之经典：
 
 > + [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
 > + [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
@@ -117,16 +174,16 @@ permalink: /resume/
 
 当虚拟现实技术真正降临时，传播给普通人的不仅仅是最新的虚拟现实产品，还有它的基础知识、技术背后的思想与文化——对照个人电脑与智能手机大规模普及时情形，虚拟现实同样将从最基础的知识、文化层面对这个时代的个体与公众产生深远的影响。
 
-#### "Elon Musk"
+**`Elon Musk`**
 
 > + [你以为殖民火星就够了吗？这个男人是想征服太阳系！](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802772&idx=1&sn=d34d94a02bb6112826bd9e259e70e290#rd)
 > + [让马斯克告诉你，如何成为下一个硅谷钢铁侠？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802419&idx=1&sn=7e9b5eb40fbed8700100be79e981150f#rd)
 > + [超级电池工厂，Tesla 的未来就靠它了](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650800928&idx=1&sn=40e5028e5ef500f88694a282179ab937#rd)
 > + [未来十年，Tesla 将发展成价值万亿美元的公司](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650800828&idx=1&sn=5537dc5bcb406008c06319611289a293#rd)
 
-#### 原创及翻译
+**`原创`**
 
-**原创方面：结合极客文化和有感染力的故事来输出比较有说服力的科技内容**
+结合极客文化和有感染力的故事来输出比较有说服力的科技内容
 
 > + [90后的失明少女，如何成为苹果不可或缺的工程师？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802609&idx=1&sn=52c2a92be4d5f571e072983c42c0dd81#rd)
 > + [曾经「改变世界」的苹果，为什么现在「只会赚钱」？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802246&idx=1&sn=837c61b0d21c53eeb9d39ffe3d0b5ab5#rd)
@@ -138,7 +195,9 @@ permalink: /resume/
 
 我相信对极客话题及相关技术细节的融会贯通终将产生出真正有影响力的作品，而进一步用更为通俗的话语来把这层理解解释给普通读者，将能进一步扩大这种作品的影响力。
 
-**编译方面：主要是虚拟现实、黑客文化以及一些 DIY 的内容**
+**`编译`**
+
+虚拟现实、黑客文化、DIY 等一些比较硬核的内容
 
 > + [要不是这个人讨厌纸上绘图，就不会有如今我们屏幕上的触控操作](http://geekview.cn/g02/14166.html)
 > + [买不起特斯拉怎么办？这位大哥自己DIY了一辆](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650799254&idx=1&sn=03263dc7b115f53c8ca4fc8aba5f0c26)
@@ -147,13 +206,23 @@ permalink: /resume/
 
 除了考究翻译本身的细节，我通常还会增加一些额外的 GIF 图来把难懂的技术细节解释清楚。例如，把[虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)一文拆分成[上](http://geekview.cn/g01/13890.html)、[中](http://geekview.cn/g04/13896.html)、[下](http://geekview.cn/g07/13915.html)三篇来解释其中的虚拟现实概念就取得过很好的效果。
 
-#### 完善团队的 RSS 信息源
+#### 团队建设
+
+在团队建设上，由我大幅改善了团队的工具与技能组合，系统化了内容生产流程，并且为内容团队制作出一份自己的手册（基于Reid Hoffman的《联盟》与Valve的《新员工手册》）。
+
+> + 工具方面，团队的RSS信息源、Youtube下载与动图制作都用上了我所推荐的高效工具。特别是针对低配办公电脑上的动图制作，我专门做出对配置要求更低的FFmpeg批处理工具来缓解团队压力。
+> 
+> + 技能培训上，从选题到素材处理、表达要点与内容排版，由我全程指导新员工适应完整的写作流程。
+
+其他相关工作，我还参与过微信公众号与网站后台的相关管理、内容相关的SEO优化、网站改版方案的细节讨论，等等。
+
+**完善团队的 RSS 信息源**
 
 我把团队的 RSS 阅读器从 `The Old Reader` 换成常用的 `Feedly`，并大幅度地精简了冗余的 RSS 信息源，同时以《比特素养》所强调的原则来把这些信息重新加以分类。
 
 这一改变很快就提升了团队的选题效果，也把选题范围纠正到国外科技媒体的最新资讯上来。此外，我自己还能随时推荐给团队成员一些极具力度的素材。
 
-#### 改进内容团队的工具
+**改进内容团队的工具**
 
 除了 Feedly，我还把 Pocket 推荐给团队成员用于选题素材的管理。
 
@@ -161,7 +230,7 @@ permalink: /resume/
 
 针对令人头疼的 GIF 图制作过程，由于团队所用的只是用于文字处理的低配置电脑，使用 `PhotoShop` 着实吃力，我又钻研并编写出 `FFmpeg` 的批处理脚本，即[尝试用 FFmpeg 来生成 GIF 图](http://bitandliteracy.github.io/FFmpeg-for-GIF)，极大地缓解了因 GIF 图制作而造成的团队冲突。
 
-#### 改善内容团队的技能组合
+**改善内容团队的技能组合**
 
 基于对“读写素养”及“数字素养”的理解，特别是 Reid Hoffman 的`《联盟》`以及 Valve 的`《新员工手册》`，我也为自己的团队制作出来一份手册，其中对素材搜集、各类文件处理及文章排版等细节给出了详尽的解读。
 
@@ -169,19 +238,17 @@ permalink: /resume/
 
 其中的一些长期打算，特别是以科技题材的纪录片、影视作品及人物传记来加强大家对于科技背景的了解，效果还不是很明朗。
 
-#### 参与网站改版
+**参与网站改版**
 
 为重新设计更具吸引力的网站首页，我们内容和技术团队在改版期间持续讨论首页设计的种种细节，最终所用的方案是我推荐的 `Motherboard` 布局，结合众筹网站 `Kickstarter` 的设计细节——以契合网站本身年轻化与智能硬件的主旨。
-
-#### 帮助极客视界同外部内容团队建立联系
-
-通过转发一些比较硬核的科技内容，我帮助极客视界同 HardenedLinux、离线（The Offline）、元代码（VRerse）等外部团队都建立了一定的联系，以期将来在内容上能有更多合作。
 
 ### 北京鼎衡丰汇文化传播有限公司
 
 `电科技·内容编辑（2015年4月~6月）`
 
-在职期间所写的 [《苹果如何来实现乔布斯想要的电视》](http://bitandliteracy.github.io/Apple-TV) 一文，受到电视从业者圈子的热情转发。
+在职期间，我写的 [《苹果如何来实现乔布斯想要的电视》](http://bitandliteracy.github.io/Apple-TV) 一文，受到电视从业者圈子的热情转发；电科技网站2015年度Google I/O大会的内容报道也是由我独立完成。
+
+我还为公司准备过一篇关于虚拟现实和增强现实的演讲大纲，名为《两种混合现实》。此外，我不时会帮其他同事查找并翻译国外的数据和技术文档。
 
 **原创作品：**
 
@@ -190,8 +257,6 @@ permalink: /resume/
 > + [《苹果如何来实现乔布斯想要的电视》](http://bitandliteracy.github.io/Apple-TV)
 > + [《玩家战胜巨头 Valve搁置付费MOD》](http://www.diankeji.com/game/20820.html)
 > + [《任天堂才是游戏主机的终结者？》](http://www.diankeji.com/guandian/21229.html)
-
-另外，我还为公司准备过一篇关于虚拟现实和增强现实的演讲大纲，名为《两种混合现实》。
 
 **独立报道 Google I/O 大会：**
 
@@ -203,11 +268,9 @@ permalink: /resume/
 > + [物联网的福音：Brillo系统和Weave语言](http://www.diankeji.com/news/21479.html)
 > + [CardBoard转向虚拟现实内容创作](http://www.diankeji.com/news/21503.html)
 
-此外，我不时还会帮助同事查找并翻译国外的数据和技术文档。
-
 ### Conference Hacking
 
-+ 我参加过极客公园、创客空间、3W咖啡、FreeBuf 与 IDF 黑客沙龙，还有离线的线下活动及读书会。
++ 我参加过不少线下活动与读书会，常去极客公园、3W咖啡、离线空间等聚会。
 + 我还赢得过奇点大会的 [“拼智商，你要问Elon Musk 什么？”](http://www.geekpark.net/topics/203065) 问题征集活动 。
 
 参与这些活动的主要原因是兴趣，同时还可以从嘈杂的活动背景中去观察和聆听，在他们的话语、言行中来比对他们从书本中所学到的东西。
@@ -218,15 +281,15 @@ permalink: /resume/
 
 ### Hacking Education
 
-我对“真正的大学”有一种不一样的偏执，我也愿意专门花时间潜下心来反思我自己的教育经历，我知道我有足够的智力。对于自己漫长的阅读及思索过程，我整理出 [未来的学习者](http://bitandliteracy.github.io/Dear-Future-Learners/) 和 [匠艺之心](http://bitandliteracy.github.io/ToolCraft/) 两篇文档。
+我对“真正的大学”有一种不一样的偏执，始终不甘心被大学里的照本宣科就此葬送，最后下定决心辍学。我知道自己将会需要一套能够取代大学教育的知识与技能组合，我也愿意为此付出时间和精力，我知道我有足够的智力。
 
-> 从读写能力到数字素养再到黑客文化，我一直在大量地阅读，特别是相关的文档、访谈与纪录片，以寻求一种更加合理的思考框架，关键词则来自理查德·费曼的演讲稿中[“这个不科学的年代”]()。
+> 之后数年，从读写能力到数字素养再到黑客文化，我一直在大量地阅读，特别是相关的文档、访谈与纪录片，以寻求一种更加合理的思考框架。这是一场漫长的重建过程，我整理出来的是 [未来的学习者](http://bitandliteracy.github.io/Dear-Future-Learners/)、[匠艺之心](http://bitandliteracy.github.io/ToolCraft/) 这样的文章。
 
-但我更为需要的，则是以这样的理解为基础，组织起一套更为有效的技能系统，以智慧来回应当前教育的无能。这样的技能诚如查理·芒格所言，要习以为常地使用在每一门基础学科的一年级课程中会学到的那些简单易学的道理：
+阅读的层次从基本读写技巧到作者的表达逻辑，在到写作背后的思维模型……其中对创新、智慧和技术英雄的关注，让我逐渐编织起一套有灵魂的科技思维，以及相应的知识、工具、技能组合。然后，找到一份科技相关的工作来把这些思考用起来，又是一场修行。
 
-> 特别是那些研究**人的行为**的基本学科：[Yale-EEB112](http://oyc.yale.edu/ecology-and-evolutionary-biology/eeb-122)`从⽣物学看⼈类行为`、[Yale-PSYC110](http://oyc.yale.edu/psychology/psyc-110)`心理学导论`、[经济学原理](https://book.douban.com/subject/3719533/)、[Harvard-PSY1504](http://isites.harvard.edu/icb/icb.do?keyword=k14790&pageid=icb.page69129)`积极⼼理学`
+> 修行是为进一步提升自己：以最有效的方式完成任务，同时让自己也变得更有能力、更富创造力。实践中的打磨让我意识到，要使自己所做的事情，能够同自身的学识、能力、进取心相得益彰，协同放大彼此的效果。
 
-而要极为系统地打造出这样的一套技能，不仅仅是要有效地组织起必要的基础知识，还要积极获取并持续优化自己所用的技术工具，以一种不一样的人的形象及其思考框架，不断去寻求更为卓越的自己，力求每一刻都能保持对自己的责任感，保持对生命的敬畏。
+这样的能力框架就是我对”真正的大学“的答案，它足以取代照本宣科的大学教育，同时还能让我总是进化得更好。
 
 ***
 ## EXPERTISE
