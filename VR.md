@@ -36,7 +36,8 @@ permalink: /VR/
 #### 基础
 
 + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
-+ [Magic Leap 是如何工作的？]()
++ [Magic Leap 是如何工作的？](http://bitandliteracy.github.io/how-magic-leap-will-work)
++ [我们将如何使用 Magic Leap？](http://bitandliteracy.github.io/how-will-we-use-magic-leap)
 
 #### 故事
 
@@ -44,6 +45,14 @@ permalink: /VR/
 + [PlayStation VR 诞生记](http://bitandliteracy.github.io/PSVR)
 + [HTC Vive 诞生记](http://bitandliteracy.github.io/HTC-Vive)
 + [揭秘 Magic Leap——世界上最神秘的创业公司](http://bitandliteracy.github.io/magic-leap)
+
+*[这辈子你看过改变世界的产品：电脑手机之后，就是Oculus](http://mp.weixin.qq.com/s/6Q3Tjf2OGfDoX7ljxxHESg)
+
+*[他连小学都没上过，却把公司卖了20亿美元](http://mp.weixin.qq.com/s/efCWxwy8I9s9AB-siF751A)
+
+*[一个能让「盖茨」和「马斯克」都羡慕嫉妒恨的人，还在继续改变世界](http://mp.weixin.qq.com/s/b1mBkH9eL_mMObXa0m2puQ)
+
+*[这哥们在“虚拟现实”里待了48小时，吃饭睡觉都在里面](http://mp.weixin.qq.com/s/GBHnnS3KJQm-UEdePWKNZg)
 
 #### 访谈
 
@@ -56,3 +65,13 @@ permalink: /VR/
 + [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
 + [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
 + [未来的电影艺术（1955）](http://bitandliteracy.github.io/The-Cinema-of-the-Future)
+
+#### 业界
+
+*[错过智能手机和VR元年，英特尔能迎来MR的爆发吗？](http://mp.weixin.qq.com/s/fNhAZwLIstBtiQh6vrB--g)
+
+*[VR界的搅局者，Valve正在下一盘怎样的大旗？](http://mp.weixin.qq.com/s/nm4mBeP3PwMcHpA23RGPLw)
+
+*[VR 不死，现实永续](http://mp.weixin.qq.com/s/T4wuoi_jhWR6cCFi34A5Ew)
+
+*[不服来战，英特尔发大招！融合现实完爆AR/VR](http://mp.weixin.qq.com/s/XuNLt4InNxG98b8Svb_JEw)
