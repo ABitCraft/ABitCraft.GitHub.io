@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我们就是科幻：人工智能在如何碾压人类？
+title: 人工智能正在碾压人类，这不是科幻
 categories: [Heroes, Translation]
 ---
 
@@ -8,7 +8,7 @@ categories: [Heroes, Translation]
 
 > “我不需要科幻（也能了解未来的样子），因为我当下就处在科幻之中。我们公司已经相当接近科幻作品所能描述的那些先进技术了。虚拟现实、人工智能、机器人，这些我们正在研发的技术，足以让我们切身体验到那样的科幻场景。”
 
-行文着重参考了黄仁勋两篇博客（[智能工业革命](https://blogs.nvidia.com/blog/2016/10/24/intelligent-industrial-revolution/)、[GPU 为人工智能加速:崭新的计算模型](https://blogs.nvidia.com/blog/2016/01/12/accelerating-ai-artificial-intelligence-gpus/)）的观点。
+行文着重参考了黄仁勋的两篇博客（[智能工业革命](https://blogs.nvidia.com/blog/2016/10/24/intelligent-industrial-revolution/)、[GPU 为人工智能加速:崭新的计算模型](https://blogs.nvidia.com/blog/2016/01/12/accelerating-ai-artificial-intelligence-gpus/)），以及 Tim Urban 那两篇 [人工智能革命](http://bitandliteracy.github.io/AI-Revolution)。
 
 ***
 

@@ -4,52 +4,26 @@ title: 人工智能
 permalink: /AI/
 ---
 
+对于人工智能社区，我的第一印象是人工智能领域的 YC。
+
+内容方面的基本思路，一是像 The Macro 那样为自己发声，二是以科技的灵魂写出真正的影响力。
+
+而具体的写作，除了常见的编译、改写，就是通过大量的人工智能阅读来输出真正的观点，把技术、行业与人物的特点放在故事中去写。
+
+在人工智能渗透到生活的过程中，如何用简单的语言来把错综复杂的人工智能话题说清楚？对于 Wait But Why 写作的研读让我有信心应对好这一挑战。
+
 ## 人工智能
 
-[人工智能正在碾压人类，这可不是科幻片里的剧情](http://mp.weixin.qq.com/s/6JzWHnDix1fb4119RaR-9A)
+我在人工智能话题下的作品：
 
-[让美国总统告诉你，未来社会将如何实现人工智能？](http://mp.weixin.qq.com/s/8r9CHuPsaYWsbT8_zUKyIQ)
++ [会说话的回忆](http://bitandliteracy.github.io/speak-memory)——关于一个特别的聊天机器人的故事
++ [人工智能正在碾压人类，这不是科幻](http://bitandliteracy.github.io/AI-progressing)——从黄仁勋的观点来解读人工智能的进展
++ [iBrain：看苹果如何让你的iPhone用好人工智能](http://bitandliteracy.github.io/iBrain)——解读苹果对于人工智能的理解
 
-[会说话的回忆](http://bitandliteracy.github.io/speak-memory)
+## 科技的灵魂
 
-[iBrain：iPhone 7没惊喜？那是因为你还不知道这些](http://mp.weixin.qq.com/s/gaunZpaDAIqrzxVCWIpe3A)
+YC 的灵魂是《黑客与画家》，并把“黑客行为作为一种应用哲学”。而科技的灵魂，则源自于我们对那些科技英雄的解读。
 
-[柯洁别做梦了！人类再进化5000年也干不过AlphaGo](http://mp.weixin.qq.com/s/H1I7XJReSNtk43pALZUzuw)
++ [游戏黑客之道](http://bitandliteracy.github.io/game-hacker)——卡神之道，约翰·卡马克
 
-[我们来严肃的讨论一下“机器人消灭人类”这件事](http://mp.weixin.qq.com/s/JfVxzNAWC2uoSUoMXJyC-Q)
-
-## 自动驾驶
-
-[交警叔叔，那抢我车道的车里没人！](http://mp.weixin.qq.com/s/qF3nfpuISESWYmH8TbmOqg)
-
-[奥巴马力挺自动驾驶，想让你享受总统级出行待遇](http://mp.weixin.qq.com/s/YafcC_Akcrsw4mI4CVJjDQ)
-
-## Elon Musk
-
-[让4425颗卫星上天，马斯克将如何打造「太空互联网」？](http://mp.weixin.qq.com/s/7FgOsf7uE4inA4dl35yT5A)
-
-[太阳城可以赚钱，只是石油巨头害怕你知道这个秘密](http://mp.weixin.qq.com/s/89bANotD0oobTW-15lb_ZA)
-
-[特斯拉再开发布会，“我们是一家房地产公司！”](http://mp.weixin.qq.com/s/32iYMZmBmu48YEyzBi8Sxw)
-
-[你以为殖民火星就够了吗？这个男人是想征服太阳系！](http://mp.weixin.qq.com/s/CLQHIcHU6c5MnYHq5xxA9Q)
-
-[让马斯克告诉你，如何成为下一个硅谷钢铁侠？](http://mp.weixin.qq.com/s/gdTyJ4gX5DMwmnlDBOlL4g)
-
-[超级电池工厂，Tesla 的未来就靠它了](http://mp.weixin.qq.com/s/4CnQ36w09iEry0PDCmtg4g)
-
-[未来十年，Tesla 将发展成价值万亿美元的公司](http://mp.weixin.qq.com/s/qgus3YQK6uHi_HGQxItOXA)
-
-## 苹果
-
-[新MacBook Pro全拆解：难用又难修！](http://mp.weixin.qq.com/s/O3i8x8jK5-sWbPD8_47ygg)
-
-[正在逝去的数字中枢：为什么电脑越来越令人失望？](http://mp.weixin.qq.com/s/Uo8RiCAhtlSJho-ho-Fx_w)
-
-[如果库克创造出 iPhone 式的辉煌，他的成就会比乔布斯还大](http://mp.weixin.qq.com/s/zDqGxwnmJQ1O2-sIwm3sJA)
-
-[90后的失明少女，如何成为苹果不可或缺的工程师？](http://mp.weixin.qq.com/s/260DeqjDO-zxEHtUQe5YDw)
-
-[曾经「改变世界」的苹果，为什么现在「只会赚钱」？](http://mp.weixin.qq.com/s/xPz91MJV5NI_nVRRX6dL1Q)
-
-[iPhone 7没惊喜？那是因为你还不知道这些](http://mp.weixin.qq.com/s/gaunZpaDAIqrzxVCWIpe3A)
+*[未来十年，Tesla 将发展成价值万亿美元的公司](http://mp.weixin.qq.com/s/qgus3YQK6uHi_HGQxItOXA)——用事实来解读马斯克的两篇特斯拉蓝图
