@@ -14,7 +14,7 @@ permalink: /AI/
 
 ## 人工智能
 
-我在人工智能话题下的作品：
+我在人工智能话题下的一些作品：
 
 + [会说话的回忆](http://bitandliteracy.github.io/speak-memory)——关于一个特别的聊天机器人的故事
 + [人工智能正在碾压人类，这不是科幻](http://bitandliteracy.github.io/AI-progressing)——从黄仁勋的观点来解读人工智能的进展
@@ -22,7 +22,9 @@ permalink: /AI/
 
 ## 科技的灵魂
 
-YC 的灵魂是《黑客与画家》，并把“黑客行为作为一种应用哲学”。而科技的灵魂，则源自于我们对那些科技英雄的解读。
+`特地说明一下“科技的灵魂”`
+
+YC 的灵魂是《黑客与画家》，并把“黑客行为作为一种应用哲学”。而科技的灵魂，则源自于我们对那些科技英雄的解读：
 
 + [游戏黑客之道](http://bitandliteracy.github.io/game-hacker)——卡神之道，约翰·卡马克
 
