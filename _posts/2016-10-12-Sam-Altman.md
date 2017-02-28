@@ -4,13 +4,9 @@ title: Sam Altman 的科技使命
 categories: [Heroes, Translation]
 ---
 
-Sam Altman：从 Y Combinator CEO 到 OpenAI 联合创始人
-
-黑板报值日生1 个月前
-Sam Altman：从 Y Combinator CEO 到 OpenAI 联合创始人
 本文为《纽约客》最新一期文章，介绍了 YC 孵化器 CEO、OpenAI 联合创始人 Sam Altman。文中包含了众多科技投资、Open AI 人工智能研究的独家内容，是不可错过的一篇特写。
 
-作者：Tad Friend，原标题：SAM ALTMAN’S MANIFEST DESTINY，机器之心编译（微信：almosthuman2014），极客公园已获得转载授权。
+***
 
 五月的一个温柔夜晚，硅谷三十个顶级企业家齐聚在旧金山 Berlinetta Lounge 的一间私人会客室里。Paul Graham 望着 Instacart, DoorDash, Docker, 和 Stripe 的创始人们，他们都身着连帽衫黑色牛仔裤。Paul Graham 突然说道，「这就是硅谷，就在我们脚下。」所有的创始人都来自 Y Combinator（简称 YC），Graham 是这家创业公司孵化器的创始人之一。YC 为创业者提供为期三个月的训练营，一年开两场，让创业新手学会如何创办一家「独角兽公司」—像 Valleyspeak 那样的市值 10 亿美元的公司。今年，大约有 13000 家新兴的软件公司申请进入 YC，成功入选的只有 240 家，比考进斯坦福还要难一倍。而 YC 在成功孵化出 13000 家创业公司后，成为一座权力——特权——之岛。
 

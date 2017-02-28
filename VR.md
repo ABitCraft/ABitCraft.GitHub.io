@@ -29,10 +29,6 @@ permalink: /VR/
 
 此处需要说明的一点是，这里的虚拟现实内容主要所关注的不在于技术实现本身。这里会有一些原理知识，但记录更多的还是虚拟现实背后的故事，因为我想知道的是这一切是怎么发生的，正在推动此事的人们都是怎么说的，他们所推崇的思想和远见卓识又来自何处……我也正是这样来组织接下来的内容的。
 
-与此同时，我正在用 GitBook 把这些内容来整理成一份更为专门的虚拟现实资料集：[虚拟现实全记录](https://bitandliteracy.gitbooks.io/virtual-reality-holocron/content/)，分享出来以供学习交流之用，共享协议为 `CC-BY-NC-SA 4.0 International`。其中 `Holocron` 一词，即为“全息记录仪”，源自《星球大战》，此处写为“全记录”。
-
-这里我所能做的就是，力求能把读到的基本素材很好地组织起来，然后不断地调整和更新，希望最终能累积出一系列还算不错的虚拟现实资料。
-
 #### 基础
 
 + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
@@ -46,14 +42,6 @@ permalink: /VR/
 + [HTC Vive 诞生记](http://bitandliteracy.github.io/HTC-Vive)
 + [揭秘 Magic Leap——世界上最神秘的创业公司](http://bitandliteracy.github.io/magic-leap)
 
-*[这辈子你看过改变世界的产品：电脑手机之后，就是Oculus](http://mp.weixin.qq.com/s/6Q3Tjf2OGfDoX7ljxxHESg)
-
-*[他连小学都没上过，却把公司卖了20亿美元](http://mp.weixin.qq.com/s/efCWxwy8I9s9AB-siF751A)
-
-*[一个能让「盖茨」和「马斯克」都羡慕嫉妒恨的人，还在继续改变世界](http://mp.weixin.qq.com/s/b1mBkH9eL_mMObXa0m2puQ)
-
-*[这哥们在“虚拟现实”里待了48小时，吃饭睡觉都在里面](http://mp.weixin.qq.com/s/GBHnnS3KJQm-UEdePWKNZg)
-
 #### 访谈
 
 + [虚拟现实过去的声音](http://bitandliteracy.github.io/oral-history)
@@ -66,7 +54,19 @@ permalink: /VR/
 + [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
 + [未来的电影艺术（1955）](http://bitandliteracy.github.io/The-Cinema-of-the-Future)
 
-#### 业界
+我所能做的，就是力求把读到的基本素材很好地组织起来，然后不断地调整和更新，进而累积出一些还算不错的虚拟现实内容。
+
+***
+
+**其他文章**
+
+*[这辈子你看过改变世界的产品：电脑手机之后，就是Oculus](http://mp.weixin.qq.com/s/6Q3Tjf2OGfDoX7ljxxHESg)
+
+*[他连小学都没上过，却把公司卖了20亿美元](http://mp.weixin.qq.com/s/efCWxwy8I9s9AB-siF751A)
+
+*[一个能让「盖茨」和「马斯克」都羡慕嫉妒恨的人，还在继续改变世界](http://mp.weixin.qq.com/s/b1mBkH9eL_mMObXa0m2puQ)
+
+*[这哥们在“虚拟现实”里待了48小时，吃饭睡觉都在里面](http://mp.weixin.qq.com/s/GBHnnS3KJQm-UEdePWKNZg)
 
 *[错过智能手机和VR元年，英特尔能迎来MR的爆发吗？](http://mp.weixin.qq.com/s/fNhAZwLIstBtiQh6vrB--g)
 
