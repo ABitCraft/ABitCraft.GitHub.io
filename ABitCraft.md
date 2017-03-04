@@ -300,11 +300,12 @@ heroes
 
 ### John Carmack
 
-
+“卡神”：个人进取的典范
 
 ### Elon Musk
 
-
+“真·钢铁侠”：人类进取的典范
 
 ### Charlie Munger
 
+人类智慧的典范
