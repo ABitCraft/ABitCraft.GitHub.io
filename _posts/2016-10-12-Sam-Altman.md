@@ -4,9 +4,13 @@ title: Sam Altman 的科技使命
 categories: [Heroes, Translation]
 ---
 
-本文为《纽约客》最新一期文章，介绍了 YC 孵化器 CEO、OpenAI 联合创始人 Sam Altman。文中包含了众多科技投资、Open AI 人工智能研究的独家内容，是不可错过的一篇特写。
+本文是《纽约客》一篇写 Sam Altman 的长文 [SAM ALTMAN’S MANIFEST DESTINY](http://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)，原译文来自[机器之心](http://www.jiqizhixin.com/article/1616)。
+
+此处收录下来，是作为他的[YC 创业宝典](http://bitandliteracy.github.io/startup-playbook)的补充材料。
 
 ***
+
+![]({{ site.baseurl }}/images/Sam-Altman-01.jpg)
 
 五月的一个温柔夜晚，硅谷三十个顶级企业家齐聚在旧金山 Berlinetta Lounge 的一间私人会客室里。Paul Graham 望着 Instacart, DoorDash, Docker, 和 Stripe 的创始人们，他们都身着连帽衫黑色牛仔裤。Paul Graham 突然说道，「这就是硅谷，就在我们脚下。」所有的创始人都来自 Y Combinator（简称 YC），Graham 是这家创业公司孵化器的创始人之一。YC 为创业者提供为期三个月的训练营，一年开两场，让创业新手学会如何创办一家「独角兽公司」—像 Valleyspeak 那样的市值 10 亿美元的公司。今年，大约有 13000 家新兴的软件公司申请进入 YC，成功入选的只有 240 家，比考进斯坦福还要难一倍。而 YC 在成功孵化出 13000 家创业公司后，成为一座权力——特权——之岛。
 
@@ -28,11 +32,15 @@ categories: [Heroes, Translation]
 
 Altman 正在硅谷之外的地方建立一个新的中心，想要替代硅谷的地位。这是一个超级资本企业家协会，里面的企业家会互助起来拯救这个破碎的世界。每个人都在警告他不要这么做。硅谷奖励过度的野心，但有希望它能「集中火力」制造世界上最好的游艇租赁平台或干邑送货服务。Reid Hoffman，一名行业领先的风投家曾警告过，「雄心勃勃是件好事，但硅谷的传统是，当一个人想改造一片区域时，最终的结果会很糟糕。」Altman 餐后照例饮下一杯酒后，也警告那些胆小鬼：「只有在经济不断增长中，民主才能运行下去，经济不恢复增长，民主试验会失败。所以我必须考虑 YC 对经济增长至关重要。」 
 
+***
+
 2016 年创办一家创业公司就和 1996 年组建一支摇滚乐队或 1971 年发动一场越南战争差不多。自 2005 年 YC 建立以来，各个地方的孵化器如雨后春笋般出现，帮助创业公司从一行代码发展成为一家真正的公司，以换取 5% 到 7% 的创业股权。
 
 在加速器还未出现的上世纪九十年代，创业公司通常由一群处于事业发展中期的工程师或者在创业的企业家做起来的，他们从风投那里找来数百万美元的资金，然后悄悄地干上几年。后来由于网络主机的价格暴跌，以及个人电脑和手机的激增，像 Mark Zuckberg 或者 Larry Page 和 Sergey Brin 那样的大学辍学生突然开始在自己的笔记本上创办公司。Paul Graham 是一个天才的程序员，他把自己的创业公司卖给了雅虎，赚了 5000 万美元，是第一批紧随这股创业趋势的人之一。他那篇 2005 年的文章「How to Start a Startup」，与 Steven Blank 的「The Four Steps to the Epiphany」还有 Eric Ries 的「The LeanStartup」，这三篇文章，一时间塑造了现代企业家的精神：自我举荐；从一个「可行性最低的产品」开始，然后快速迭代；宁要十个狂热粉丝也不要一万个只是喜欢谈不上爱的客户。
 
 Graham 与他的妻子和两个朋友在马萨诸塞州剑桥市共同创立了 Y Combinator（得名于一个不起眼的数学函数），这既是他们的一个暑期投资实验，也是重新想象暑期工作的一个激进的尝试。在 Graham 的著作《Hackers & Painters》中，他计算得到：在一家创业公司，聪明的 hacker 可以比平均水平的办公室职员完成多 36 倍的工作——而且他们也将最终颠覆我们所知的就业。他让这个听起来很有爱国心和有意思；一个技术寡头怎么会出错呢？「hacker 是不遵守规则的，」他写道，「这正是 hacking 的本质，这也是美国做派（American-ness）的本质。」
+
+![]({{ site.baseurl }}/images/Sam-Altman-02.jpg)
 
 Graham 可以衡量申请者的技术能力，而他的妻子 Jessica Livingston 则是一位出色的个性判断者。他们非常看重 20 多岁中期的人，Graham 写道：这个年纪的人的优势包括「耐力、贫穷、无根、同事和无知」。首批的八家公司（其中包括 Sam Altman 和两位朋友创立的移动应用 Loopt）平均每位创始人得到的 6000 美元，外加 Graham 的建议和家常煨鸡块，以及在那个夏季结束时可以向他的富有的朋友做十五分钟推销的承诺。这八家公司中包括 Reddit——现在已经价值 6 亿美元，而两年后的一批公司中还包括现已价值 100 亿美元的 Dropbox。
 
@@ -44,6 +52,12 @@ Graham 可以衡量申请者的技术能力，而他的妻子 Jessica Livingston
 
 随着 YC 成长，它搬迁到了山景城的一个远郊的办公室隔间，在旧金山南方一小时车程，在那里 YC 与一家名叫 Anybots 的公司共享办公空间。（在这间办公室里面，这些创始人必须小心谨慎不要被机器人碾压。）这家加速器很快就扩展到了第二个隔间，位于街对面，而现在这栋建筑也快达到消防规范的限制了。Altman 将 YC 比作谷歌的母公司 Alphabet，这是 Altman 的雄心壮志的体现；Alphabet 也由很多独立的互相合作的单元组成，也有一个类似的「登月」部门（moon-shot division）——X 研究组。他最近发了一条推文说 YC 帝国已经达到了 Alphabet 市值的 14%，而 Alphabet 的市值是世界上最高的公司之一，并且还在增长。「还有很长的路要走……」这是一个显失公平的比较：YC 对其公司的平均所有权，在被后续的风险投资稀释后只有 3%。然而 Altman 告诉我：「和谷歌不一样，随着我们越来越大，我们的发展也越来越快。我们会在十年内赶上它们。」
 
+***
+
+As the sun set over Atherton, the loveliest town in unlovely Silicon Valley, Altman challenged Geoff Ralston, another YC partner, to a table-tennis match by Ralston’s pool. They were about to host a party for the thirty-two companies they were responsible for in the winter batch; the goal was to relieve the pressure of Demo Day, which was three weeks off, in late March. That was when the founders would have two and a half minutes to wow investors—six hundred in the room and twenty-five hundred more watching online. Two founders were already having anxiety attacks.
+
+Altman was raising his arms in victory as the founders began to amble in and gaze around at startup Valhalla: a seven-thousand-square-foot mansion, catered food under a grapefruit tree festooned with lights, a back yard that seemed to stretch to Redwood City. (Ralston made his fortune building what became Yahoo Mail.) Luke Miles, the eighteen-year-old founder of Restocks, tried not to look overawed. Restocks is a messaging service for young “super-consumers” who want to know, five minutes ahead of everyone else, when small shipments of Supreme T-shirts and Yeezy Boost 350 shoes go on sale. Miles was accepted to YC after excelling in YC Fellowship, the new program for embryonic startups, in which they receive as much as twenty thousand dollars and the opportunity to consult with a partner over Skype. Miles said, “The money they gave me was enough to prove to my parents that I wasn’t wasting my life dropping out of college.”
+
 对于许多创业者来说，YC 提供了他们希望他们能有的大学经历。Michael Seibel 是最近负责这些批的 YC 合伙人，他已经经历这个项目两次了，他说：「P.G.」——指 Paul Graham——「过去常常在每批开始告诉每个人：『这里的一些人会出现在你的婚礼上，』对 300 个陌生人说这样话是件很怪异的事情。但几乎我所有的伴郎都在 YC。这让你想起了什么？大学。」Y Combinator 的创始人在每间隔一周的周二到这栋楼里面参加集体办公时间，而且还有额外的单独一个小时与他们指派的合伙人（那些教授）一起办公，然后他们一起在富美加长桌上吃面（食堂），听取 Marissa Mayer 和 Mark Zuckerberg 这些成功人士（访问学者）的观点。最后，他们在 Demo Day 上展示（为自己的观点辩护），看能筹到钱（合格）还是不能拿到钱（失败）。 
 
 这个课程故意搞得很斯巴达。一位 YC 合伙人 Kevin Hale 说：「我们对创业公司的要求非常简单，但要做到也很难。一，做人们想要的东西，」——这是 Graham 的一个短语，其被印在了给创业者的灰色 T 恤上——「二，你要做的所有事情就是和你的客户交流并打造东西。」YC 一家量子计算创业公司的创始人 Chad Rigetti 告诉我他的办公室墙壁完全是一片素白，「这样我的团队的神经元就不会因为外部刺激而偶然放电。」
@@ -54,11 +68,15 @@ Graham 写道，一位创业者的首要目标应该是做到「拉面盈利（r
 
 在 Ralston 的柚子树旁边，Omer Sadika 和 Sebastian Wallin 一边品尝着开胃小菜，一边比较他们关于推出自己的安全公司 Secful 和 Castle 的压力的笔记。「我们目前每天睡觉最多五小时，」Sadika 说。Wallin 嘀咕道：「我已经忘了今天是几号了。」这两个男人都在计划搬到硅谷；Sadika 来自以色列，而 Wallin 来自马尔莫。「我们的客户在这里，」Sadika 说。而 Wallin 指出：「而且你离 Airbnb 和 Stripe 的企业家仅一步之遥。」YC 提供了进入硅谷的即时通道——硅谷这个地方，尽管说是精英的社区，却通常需要来自一个同事的「热情引荐」，而且这个同事通常是一位白人男性。这个聚会的所有早期的进入者都是男人；这一批的女性创业者当时正在参加一个关于作为一位女性创始人的难题的演讲。YC 比其它许多科技界的组织都更具多样性，但它也知道自己还有很长的路要走。 
 
+![]({{ site.baseurl }}/images/Sam-Altman-03.jpg)
+
 在一个火坑较远的一边，Shypmate（一款可以帮你和飞机乘客链接起来的应用，他们可以便宜地帮你的包裹从加纳带到尼日利亚）的两位创始人正在吐槽。Kwadwo Nyarko 说：「我们在享受旅行者的好处，就像他们说的，他们的行李箱从来没有装满过。」Perry Ogwuche 喃喃地说：「YC 告诉我们，『和你的客户交谈』，但我们很难找到我们客户。」Altman 走过去加入了他们，就像生日派对的魔术师一样尽责。「所以，你们有什么爱好？」他问。Ogwuche 不知所措地说：「我们工作然后我们去健身房。你的爱好呢？」 
 
 「嗯，我喜欢赛车，」Altman 说，「我有五辆，包括两辆迈凯轮和一辆老款特斯拉。我喜欢在加利福利亚上空驾驶租来的飞机。哦，还有一个很奇怪的——我为幸存做准备。」看到他们不明所里，他解释说：「我的问题是当我的朋友喝醉了，他们说起话来就好像世界就要完蛋了。在五年前荷兰一家实验室修改了 H5N1 禽流感病毒使其极具传染性之后，一种致命的合成病毒在未来二十年内被释放出来的概率就变得，呃，不再是零了。另一个最流行的情形是人工智能攻击我们以及国家之间为争夺稀缺资源使用核武器进行战争。」Shypmate 的这两位创始人看起来神情严肃。「我尽量不在这方面想太多，」Altman 说，「但我有枪、黄金、碘化钾、抗生素、电池、水、来自以色列国防军的防毒面具，还有在大苏尔（Big Sur）的一大块我可以飞过去的土地。」
 
 Altman 的母亲 Connie Gibstine 是一位皮肤科医生，她告诉我：「Sam 的内心确实有很多糟糕的东西。他会打电话然后说他的头很痛——他会在谷歌上搜索，所以他也有一些网络疑病症。我必须不断向他再次确认他没有脑膜炎或淋巴瘤，只是因为压力而已。」如果疫情确实爆发了，Altman 的后备计划是与他的朋友、亿万富豪风险资本家 Peter Thiel 飞往 Thiel 在新西兰的房子。Thiel 告诉我：「Sam 并不信特定的宗教，但他在文化上非常犹太人——一个乐观主义者也是一个活命主义者，他总是觉得事情总是会变得非常糟糕，而且世界上没有任何地方能让你深深感到有在家的感觉。」
+
+***
 
 Altman 每年都会列表写出当年的目标，他每过几周都会回看一遍。这份列表总是包含一个高难度的体能挑战—每周进行一次 100 长的英里自行车骑行，50 个连续引体向上，同时也有一系列工作计划。今年，因为 YC，目标列表中的目标包含了「保持与合作伙伴的关系，将业务扩展至中国，如何将公司规模再扩展两倍。」这份最新的清单中也包含了提醒自己要资助阐释那些反直觉的量子物理现象的视频（QM 实验/物理讲解），也包括一个小提示告诉自己重读赫芬顿邮报上一篇向死者表示哀悼的文章「我希望这能让自己更开心一点」。
 
@@ -78,9 +96,13 @@ Altman 想要创建一个万亿美元的大集团，推动世界的前进。然�
 
 Altman 一直想要开始自己的核能源公司，现在他有了 YC 来资助自己能找到的最好的核裂变与融合创业公司。然后，他个人也投资这些公司，成为董事。致力于社交的创业公司有数千家，但致力于核裂变与融合的创业公司不多于 20 家，Altman 说，「难事其实要比易事容易。因为人们感觉它有趣，就想要提供帮助。一家移动 app？你也就看一眼。一家火箭公司？每个人都想要进入太空。」
 
+***
+
 Graham 曾写道在咨询创业公司时常援用的创始人是 Steve Jobs 和 Altman，「在设计问题上，我会问『Steve 会怎么做？』在策略或野心的问题上，我会问『Altman 会怎么做。』」在危机中的创始人首先呼叫 Altman，依靠他在硅谷最受欢迎的银行的快速交易的本领。他会说，「我呼叫 Brain，并解决了问题。」他把 Sam 比喻为 Brain Chesky（有能力将人看为棋子，并摸清下棋的路数。）YC 的一个创始人告诉我，「因为 Sam 能看见未来，我们就想让他告诉我们接下来会发生什么。」
 
 挪威创业公司 Konsus 的这两位创始人和 Altman 抵达 YC 在旧金山市场南区的新站点时，他们就想朝圣者迈向山顶神社一样庄重。当时做商业与数据输入或网页设计的自由职业者对接服务的 Konsus 正处于寒冬期。尽管在 Demo Day 之后融资了 160 万美金之后，创始人仍旧充满焦虑。Fredrik Thomassen 说，他们想要获得永久的基金，Sondre Rasch 也提到为了省钱他选择主导郊区附近的 12 企业家的集体宿舍。所以，他们真的需要买工程计算机吗？这两个胡子邋遢，瘦的不成样子的人盯上了 Altman。
+
+![]({{ site.baseurl }}/images/Sam-Altman-04.jpg)
 
 Altman 冷淡的说，「这是犯得较少的错误之一，试图太过节省。但如果有人能做到的，那就是斯堪的纳维亚人（挪威一人种）。所以，买计算机。」公司的两位创始人认真的店点了点头。从见过 Altman 之后，他们就很尊敬他。那时，他们对 Konsus 公司业务的解释是「公司将办公任务发给我们，基于技能和时间方便性，我们及时将这些任务分配给世界各地的顶尖自由职业者。」Altman 即刻问道，「那你们不就是按需临时代理吗？」 
 
@@ -90,9 +112,13 @@ Altman 发现他们过分紧张并鼓励道：他相信，「做到最好的创�
 
 Altman 简要的预知使得一个 YC 创始人称他为「创业公司的尤达大师。」企业家满怀沉重的来见他，15 分钟后就出来，问题得以解决。他的大部分建议都遵循 YC 透明度的标准规则：如果你担心投资者对 setback 的反应，「告诉他们」；你对潜在客户的沉默预示感到迷惑，「问他们」；棘手的问题引发他做出判断；「在竞争对手击败你之前，不要一直担心对方，」Altman 在午餐桌上这样告诉 Elucify 的创始人，「竞争对手是萦绕在你梦想中的最后怪兽中的一个。」几分钟后，他又开始了与加拿大自动驾驶公司 Varden Labs 的电话交流。在这家公司创始人告诉 Altman 自己的融资忧虑时，穿着大口袋短裤、灰色连帽衫的 Altman 挥舞着青铜时代的剑（买来作为送给 Paul Graham 的礼物）说，「融资 5000 万，」两手持剑猛地一划，「你要么需要一项重大技术突破，要么大客户要走。」他荡开想象的对手，无情的前行。那长期计划呢？这家公司的创始人问道，「无论你做什么一直考虑多增加一个零，不要再做多考虑。」一击命中心脏。
 
+***
+
 四年前，在与旧金山北部的朋友为期一整天的徒步旅行中，Altman 放下了人类是非凡的的观念。在他们讨论人工智能发展状况的时候，Altman 意识到「认为在 13 年内不会有能够复制我们大脑的硬件的看法是毫无理由的。当然，一些事仍觉得专属人类——创造力、什么时候灵光一闪、同时感觉悲喜交加，但计算机将会有自己的期望和目标系统。当我意识到智能能被模拟时，我放弃了人类独一无二的观念，这也没有我想象的那样受创。」他凝视了一会儿，「成为一台机器有一定的优势。人类被输入-输出率所限制，每秒只学习 2 比特，丢失大量数据。而对机器而言，我们看起来肯定像是被减速的 whale songs。」
 
 Altman 与 Elon Musk 建立的非盈利组织 OpenAI 是对人类主导的结局的对冲，一种战略防御构想，防止我们受到自己创造的事物的伤害。OpenAI 诞生于 Musk 持有的人工智能将意外的清除人类的信念。管理缺乏人类价值观的强大系统的难题得到了「paperclip maximizer」的例证，这是瑞典哲学家 Nick Bostrom 2003 年提出的场景。如果你告诉一个有全权的人工智能做尽可能多的回形针，且不给其他指令，它能耗尽地球所有的资源做回形针，包括我们体内的原子，假设它们不会完全的杀死我们，从而保证做更多回形针的任务不会被终止。OpenAI 特别担心谷歌 DeepMind 科技追求的强人工智能会监控全球竞争者，Musk 告诉我，「如果他们开发的人工智能扭曲了，我们就有风险会有永久的强大的独裁者。有一点的性格缺陷，它可能就会谋杀所有的人工智能研究员作为第一步行动。」 
+
+It was clear what OpenAI feared, but less clear what it embraced. In May, Dario Amodei, a leading A.I. researcher then at Google Brain, came to visit the office, and told Altman and Greg Brockman, the C.T.O., that no one understood their mission. They’d raised a billion dollars and hired an impressive team of thirty researchers—but what for? “There are twenty to thirty people in the field, including Nick Bostrom and the Wikipedia article,” Amodei said, “who are saying that the goal of OpenAI is to build a friendly A.I. and then release its source code into the world.”
 
 Altman 说，「我们不打算开放所有代码，但也不要尝试做任何纠正，这只会使其更糟糕。」 
 
@@ -118,11 +144,15 @@ Altman 想了一会，说：「如果你或者你的副职之一能够来 YC 讲
 
 「我亲自来。」Carter 答应道。
 
+![]({{ site.baseurl }}/images/Sam-Altman-05.jpg)
+
 大家出来的时候，前微软高管、现国防部数字部门的领导 Chris Lynch 告诉 Altman：「要是谈谈 OpenAI 就好了」Altman 含糊地点了点头。2017 年美国军方预算中，有 300 亿美元被、划拨给了人机合作，即 Centaur Warfighting 计划，下一年中还有自己判定目标的远程导弹。Lynch 后来向我透露，OpenAI 系统会非常合适。
 
 对于将 OpenAI 产品交给 Lynch 和 Carter，Altman 有点犹豫：「我毫不掩饰地热爱这个国家，这是世界上最伟大的国家，」他说。在斯坦福大学时，他参与了 DARPA 一个涉及无人直升机的研究项目。「但有些东西我们绝对不会和国防部一起做。」他补充说，「我的一个朋友说，『能将我们从国防部的手里救下来的事情是：尽管他们有很多钱，但他们能力不是很强。』但我觉得很矛盾，因为他们有世界上最好的网络控制力。」在扫清混乱的本能的驱动下，Altman 想要帮助增强我们的军事力量，然后捍卫我们的世界免受新出现的力量的破坏。
 
-在 Demo Day 之后，它们的平均估值增至 1000 万美元。为什么短短三个月内这些公司的估值会跃升近 6 倍？人们对此有一些理论。其中一个是最好的创业者适合最好的加速器，而 YC 擅长选出那些无论如何都会成功的创业者。负责过过去几批的 Paul Buchheit 说：「这完全在于创业者自己。Facebook 有 Mark Zuckerberg，而 MySpace 只有一群猴子。」 
+***
+
+Nearly all YC startups enter the program with the same funding, and thus the same valuation: $1.7 million. 在 Demo Day 之后，它们的平均估值增至 1000 万美元。为什么短短三个月内这些公司的估值会跃升近 6 倍？人们对此有一些理论。其中一个是最好的创业者适合最好的加速器，而 YC 擅长选出那些无论如何都会成功的创业者。负责过过去几批的 Paul Buchheit 说：「这完全在于创业者自己。Facebook 有 Mark Zuckerberg，而 MySpace 只有一群猴子。」 
 
 这样的必然结果是 Y Combinator 教会了它的公司如何在 Demo Day 上讲故事，从而让这些公司更有吸引力。很钦佩 YC 的风险资本家 Chris Dixon 说：「这些创业者得到了很好的训练，他们知道该如何对我们进行反向工程，一直到展示领域专长和讲述能够显示他们的毅力和勇气的关于他们的背景的趣闻。」在这个冬季批，开始保持着和以往差不多的调性：将自己和一家有名的独角兽公司链接起来（「我们是保姆行业的 Uber……非洲的 Stripe……医疗行业的 Slack」）或如果没有合适的类比，就说「X 坏了。未来 Y 会修复 X。我们正在做 Y。」然后夹杂着耐人寻味的流行语来表达你的陈述：我们「利用技术以一种完全自动化的方式来实现个性化」（实际上是：个性化洗发水）。Paul Graham 很高兴地承认了这一点，还不忘阐述理念：「我们帮助让糟糕的创业者和优秀的创业者看起来不一样。」
 
@@ -135,6 +165,8 @@ Altman 想了一会，说：「如果你或者你的副职之一能够来 YC 讲
 确实没有什么反理论（counter-theory）。「打击 YC 的是，在 Demo Day 那天，他们的用户仅仅是 YC 的公司，这完全解释了为什么他们都增长的如此之快。但是你有多大能耐能让一千多家公司都愿意使用你的产品呢！」不仅仅是 YC 的创业公司可以让 Airbnb 和 Stripe 去使用它们的应用程序；而且这个校友网络一窝蜂的成硅谷最大的公司。YC 的 121 家创业公司中，有很多在过去年中都被 Facebook、苹果和谷歌吸收了。
 
 然而，Altman 担心这个网络的异常高效会成为一个问题。在二月，他给最近的几批从训练班毕业的创业者发了一封邮件，警告一些已经有点自大和头衔的创业者。然后他告诉我，「如果这些公司仅仅依靠 YC 的名声才能保持活力，那么这对这些公司以及硅谷来说都是坏消息。烂公司迅速消亡对每个人都是更好的事情。」 
+
+***
 
 在 Altman 家的一个晚上，他的弟弟 Max 和 Jack 正取笑说到他 35 岁时应该竞选 2020 年的总统。28 岁的 Max 说：「Sam，谁会比你更好呢？」Altman 试图不那么激烈地改变下话题，27 岁的 Jack 说，「这不是单纯的过家家。我确实认为技术需要一个好的候选人。」
 
@@ -162,6 +194,8 @@ Max 在 Y Combinator 孵化的 Zenefits 公司工作；Jack 联合创立了一�
 
 尽管 Altman 显然享受于经营 YC，但有时他似乎想知道在他迅速崛起的职业生涯中是否落下了一些东西。在其 Loopt YC 夏季项目过后的许多年里，他都无法忍受曾赖以度日的方便面或星巴克的咖啡冰淇淋；现在那些味道让他充满了渴望。今年春天，他看到 Nick Sivo 历经了一个新公司的诞生，这件事搅动起 Altman 少年时期积在心底的东西。当我跟这两人一起说话时，Altman 说，「我还把 Nick 给我的感觉冻结在 18 岁，而且我觉得他对我的看法也是一样。」Sivo 说，「我真的不明白你是什么意思。」「像一个无人认识和在意的大学生，」Altman 惆怅地说。
 
+![]({{ site.baseurl }}/images/Sam-Altman-06.jpg)
+
 推动世界的前进可能最终会开启巨大价值，但其代价昂贵。为了积聚必要的资金，Altman 静静地向硅谷更深处挖掘：他已经开始使 Y Combinator 变得更像一个投资公司。YC 一直以一个温柔、有益的天使投资人的形象出现，一个反对那些购买后就力求丰厚回报的冷酷的风险资本家的力量。Paul Graham 曾发表了一篇文章叫「风投蚕食统一理论（A Unified Theory of VC Suckage），」而早期 YC 项目的一个发言人搭起了一个标题为「风投：没有灵魂的撒旦代理人或只是笨拙的强奸犯？」的幻灯片。
 
 通过签署合同确保能够减轻风投们对公司财务状况的束缚，YC 已经帮助把权力移交给了企业家。这也完全以数字等级的形式给创业者提供了风险投资的书面评估。自从 Bryce Roberts 把他的入场标记借给一个非正式会员以来，其风险企业连续四年都未曾被邀请参加路演，他说：「他们的打压工具就是给你们贴标签。」
@@ -178,6 +212,8 @@ Altman 的投资方法已经由 Peter Thiel 塑造成型，他是一个 48 岁�
 
 当我向 Altman 提出这一想法时，他疯了。「在我经营 YC 时我们是不会领导 A 轮融资的！」他宣布。「这将给我们挑选最优公司的程序造成无法挽回的损害。」然而，帮助编写建立 YC 法律框架的 YC 合伙人 Jonathan Levy 观察道，「文件中有足够多可以做出优化的余地。看，Sam 很尊重红杉吗？是的。他是否认为他能做得更好？绝对地。他会做得更好吗？必须地。我是否能看到 Sam 接管整个风投系统？毫无疑问。原计划将会有一个例外，接着是两个，然后该系统就将改变。」 
 
+***
+
 在一次去纽约的旅行中，Altman 在一个星期六顺便去了趟我的公寓，讨论技术如何改变我们对于自己是谁的看法。他蜷缩在沙发上，膝盖抵住下巴，说，「我记得，当 Deep Blue 在 1997 年击败 Garry Kasparov 时，为什么任何人都不再在意国际象棋了？现在我对我们输给 DeepMind 的 AlphaGo 这一事实感到很伤心，」（AlphaGo 最近打败了世界围棋冠军）「我是人类团队的一员。我没有一个很好的逻辑原因来解释为什么我很难过，排除掉人类更擅长的事物梯队持续收缩这个原因，」过了一会儿，他补充说，「『忧郁』是一个比『悲伤』更好的词。」
 
 硅谷的许多人都痴迷于模拟假设，该争论认为我们作为现实的经历实际上是由一台计算机上编造的；两个技术届的亿万富翁已经走了很远的路来秘密地聘用科学家致力于将我们从模拟中解放出来。对 Altman 来说，危险不是来自于我们可能的创造者，而是来自于我们自己的创造物。「这些手机已经控制了我们，」他告诉我，正对着自己的 iPhone SE 皱眉。「融合已经开始——而融合是我们的最佳行动方案。任何不带融合的版本都将会有冲突：我们奴役人工智能或者人工智能奴役我们。完全疯狂的融合版本是将我们自己的大脑上传到云端。我喜欢这个版本，」他说。「我们需要提升人类的层次，因为我们的后代将要么征服银河，要么在宇宙中永远地熄灭意识。活着多神奇！」 
@@ -190,9 +226,13 @@ Altman 凝视着前方，情绪偶尔会笼罩在他那无瑕的面罩上。他�
 
 他更喜欢把创新的结构视为一个系统问题。即刻的挑战是计算机会使我们大多数人失业。Altman 的补救措施是 YC Research 的一项五年期的研究——基本收入项目（Basic Income project），计划于 2017 年启动，一个突然流行起来的古老思想：给每个人足够的钱去生活。扩大在加拿大尼托巴省、乌干达等地的早期试验规模，YC 将给奥克兰的多达一千个人每年大约 1.2 万至 2.4 万美元。
 
+![]({{ site.baseurl }}/images/Sam-Altman-07.jpg)
+
 这个想法的问题与预想的一样基础：为什么那些不需要津贴的人会拿到钱？难道免费鼓励了人们懒惰吗？而里面的算术令人震惊的：如果你给每个美国人 24,000 美元，年账单将会高达 8 万亿美元——是联邦财政税收的两倍。然而，Altman 告诉我们，最让人们担忧的是「如果劳动力成本降低为零」——因为机器人已经取代了所有的工作。人们生活所需成本也会急剧下降。如果我们能用上核能那么电力就是免费的，那么交通费用会大大减少。人们的花费将从用电转为食物和水。人们现在在获取好的教育上花费了大量钱财，而如今你可以通过手机就可以在大多数事情上成为专家。所以，如果一个美国的四口之家需要 7 万美元才能生活的快乐，这也正是你常听到的金额数目。那么在未来十到二十年内，这一数目将会出现数量级上的下降。除去住房的支出外，一个家庭只需花费 3,500 到 4,000 美元即可拥有开心的生活。
 
  在最好的情况下，科技将带来强有力的改革，Altman 不需要在少数和多数中作出选择。当人工智能重新改造经济时，他告诉我：「我们将拥有无止尽的财富，大量工作岗位将被替代。所以基本的收入就能满足生活所需。在此基础上，薪水将会逐渐变为零，每一百万人中就会有一个人能够创造出下一家苹果。
+
+***
 
 在接近冬季训练营快结束时，YC 合伙人和团队开展了一个全面会议。Paul Buchheit，负责的合伙人讲到创业者们的调查结果。人们对于食物（没有足够的选择给不吃茄科食物的人）和咖啡（速溶的）都有怨言。最主要的批评，Buchheit 说，是这一批里有 127 个公司。「YC 觉得太多了，我们也都有同样的感觉。创业者并非是一群学生或农场里放牧的动物。他们是下一个 Mark Zuckerberg。他们是一群对于我们的成功至关重要的人，因为他们爱我们。」他总结道，「我的目标是下一场训练营中只能有 100 个公司。」
 
@@ -208,3 +248,6 @@ Altman 的掌管让一些 YC 的人们怀念起过去 YC 如家庭般的友情�
 
 你能想象这个大都市可以成为人工智能运行的后人类城市的典范，一个 21 世纪的雅典，或者是为精英服务的带警卫的社区，一个隔绝外界混乱的堡垒。对 Altman 来说探索未来究竟会有些什么的最佳方式就是自己去创造一个未来。他在 OpenAI 做的头几件事之一就是把 Admiral Hyman Rickover 的话印在会议室的墙上。「人生的伟大目标不在于知而在于行。」Rickover 的名言。「我相信这是每个人的义务去活得像世界的命运取决于他一样，我们必须为了未来而活，而不是为了个人的舒适或成功。」同样来自 Rickover。Altman 回数了 Rickover 为了建造美国核海军所克服的困难。「不可思议」他评价道，但在片刻的思考停顿后，他又补充说：「在他生命的尾声，上到一定的年纪之后，他也确实说过该把这一切沉于海底。这有一些值得思考的东西在里面。」
 
+***
+
+via: [New Yorker](http://www.newyorker.com/magazine/2016/10/10/sam-altmans-manifest-destiny)
