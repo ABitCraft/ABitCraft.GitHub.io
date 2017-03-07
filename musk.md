@@ -26,7 +26,7 @@ permalink: /musk/
 
 + [Elon Musk: The World's Raddest Man](http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html) （中文版：[Elon Musk：激进分子中的激进分子](http://bitandliteracy.github.io/elon-musk)）
 + [How Tesla Will Change the World](http://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) （中文版：[特斯拉是如何改变世界的](http://bitandliteracy.github.io/Tesla)）
-+ [How (and Why) SpaceX Will Colonize Mars](http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html) （中文版：[SpaceX 如何以及为什么能殖民火星](http://bitandliteracy.github.io/SpaceX)）
++ [How (and Why) SpaceX Will Colonize Mars](http://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html) （中文版：[SpaceX 如何以及为何能殖民火星](http://bitandliteracy.github.io/SpaceX)）
 + [The Chef and the Cook: Musk's Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) （中文版：[厨子之于大厨：Musk 头脑的秘密作料](http://bitandliteracy.github.io/musk-mind)）
 + [The Deal With Solar City](http://waitbutwhy.com/2015/06/the-deal-with-solar.html) 
 + [The Deal With the Hyperloop](http://waitbutwhy.com/2015/06/hyperloop.html) 

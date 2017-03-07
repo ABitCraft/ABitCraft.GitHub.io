@@ -13,7 +13,7 @@ categories: [Translation]
 
 ***
 
-对于大多数单身男女，生活常常感觉就是这个样子：
+对于大多数单身男女，生活的感觉常常就是这个样子：
 
 ![]({{ site.baseurl }}/images/life-partner-01.jpg)
 
