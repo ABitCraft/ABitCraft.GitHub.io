@@ -6,7 +6,7 @@
 
 .site-header a {
   color: #fff;
-  font-size: $h3;
+  font-size: $h2;
   font-weight: 300;
 }
 
@@ -20,10 +20,12 @@
 
 .site-nav {
   margin-top: $space-2;
+  background-color: #fff;
 }
 
 .site-header nav a {
-  color: #fff;
+  color: #406C80;
+  font-size: $h3;
 }
 
 .site-header nav a:hover,
