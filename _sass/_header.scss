@@ -19,12 +19,10 @@
 }
 
 .site-nav {
-  margin-top: $space-4;
-  background-color: #fff;
+  margin-top: $space-2;
 }
 
 .site-header nav a {
-  color: #406C80;
   font-size: $h3;
 }
 
@@ -55,7 +53,7 @@
   text-align: center;
 }
 
-.social-icons .left, .social-icons .right {
+/*.social-icons .left, .social-icons .right {
   text-align: center;
   float: none;
 }
