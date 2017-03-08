@@ -1,6 +1,6 @@
 .site-header {
   padding-top: $space-1;
-  padding-bottom: $space-2;
+  padding-bottom: $space-3;
   background-color: #406C80; /* dark blue slate thing */
 }
 
@@ -11,7 +11,7 @@
 }
 
 .site-header a:hover {
-  opacity: 0.6;
+  opacity: 0.8;
 }
 
 .site-header .site-title {
@@ -19,7 +19,8 @@
 }
 
 .site-nav {
-  margin-top: $space-2;
+  margin-top: $space-1;
+  width: 100%;
   background-color: #fff;
 }
 
