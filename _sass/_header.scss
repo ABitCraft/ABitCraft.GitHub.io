@@ -14,6 +14,10 @@
   opacity: 0.8;
 }
 
+.site-header a + a {
+  margin-left: 1em;
+}
+
 .site-header .site-title {
   font-size: $h1;
 }
