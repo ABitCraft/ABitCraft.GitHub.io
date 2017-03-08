@@ -19,12 +19,10 @@
 }
 
 .site-nav {
-  margin-top: $space-1;
-  background-color: #406C80;
+  margin-top: $space-2;
 }
 
 .site-header nav a {
-  color: #fff;
   font-size: $h3;
 }
 
@@ -37,7 +35,7 @@
 }
 
 .site-nav a + a {
-  margin-left: 1em;
+  margin-left: 2em;
 }
 
 .posts .post a:hover .post-meta,
