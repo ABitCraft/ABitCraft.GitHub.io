@@ -1,6 +1,6 @@
 .site-header {
   padding-top: $space-1;
-  padding-bottom: $space-2;
+  padding-bottom: $space-1;
   background-color: #406C80; /* dark blue slate thing */
 }
 
@@ -14,16 +14,12 @@
   opacity: 0.8;
 }
 
-.site-header a + a {
-  margin-left: 1em;
-}
-
 .site-header .site-title {
   font-size: $h1;
 }
 
 .site-nav {
-  margin-top: $space-2;
+  margin-top: $space-3;
 }
 
 .site-header nav a {
