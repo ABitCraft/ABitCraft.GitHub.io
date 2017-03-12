@@ -14,6 +14,9 @@ permalink: /ABitCraft/
 
 > "Some peple see the ugliness in this world. **I choose to see the beauty.**"
 
+* 能力框架
+{:toc}
+
 **But, the beauty of every day life is built on wisdom.**
 
 ## "Seeking Wisdom"
@@ -72,39 +75,19 @@ permalink: /ABitCraft/
 
 使用英语，不仅可以直接跟作者的头脑展开交流，还可以直接了解作者的其他言行及个性，更可以同这些话题下有着同样兴趣的人建立起联系，如黑客社区。通过英语，理解并融入一些核心社区，同时把人、技术链条、公司机构相互关联在一起进行考虑，可以在思维上培养出一些优势。
 
-而后是翻译，我翻译过一些黑客文化和虚拟现实方面的经典文档，有不少内容还是首次被翻译成中文。在翻译过程中不断推敲作者的文笔和思路：如何遣词用语、安排论点，如何谋篇布局、组织材料……总是能让我有所启发、有所收获。
-
-> 黑客文化：
-> 
-> + [如何成为一名黑客](http://bitandliteracy.github.io/hacker-howto)
-> + [黑客行为作为一种应用哲学](http://bitandliteracy.github.io/hacking)
-> + [卡马克论想法更迭](http://bitandliteracy.github.io/idea-generation)
-> 
-> 虚拟现实：
-> 
-> + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
-> + [虚拟现实过去的声音](http://bitandliteracy.github.io/oral-history)
-> + [接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子](http://bitandliteracy.github.io/abrash-dev-days)
-> 
-> 经典文档：
-> 
-> + [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
-> + [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
-> + [未来的电影艺术（1955）](http://bitandliteracy.github.io/The-Cinema-of-the-Future)
-
 ### Media Diet
 
 `Hacker News`
 
-RSS Feed 是获取互联网信息的利器。然则，获取信息的关键并不在于接收多少，而是你所能吸收并转化出来的那些东西，这就要求精读。阅读本身的层次我会在过程部分仔细分析，这里主要理一理内容上的层次。
+RSS Feed 是获取互联网信息的利器。然则，获取信息的关键并不在于接收多少，而是你所能吸收并转化出来的那些东西，这就要求精读。阅读本身的层次我会在过程部分仔细分析，这里先理一理内容上的层次。
 
 首先，日常性的科技阅读：我一直喜欢 YC 社区的 [Hacker News](https://news.ycombinator.com)，以及 [ACM TechNews](http://technews.acm.org)，前者总能让你找出满是科技灵魂的文章和评论，后者则能让你紧跟最新的技术进展；我还喜欢 JOHN GRUBER 的 [Daring Fireball](http://daringfireball.net) 与 [w](http://liqi.io/w-wanqu/) 的 [湾区日报](https://wanqu.co) 所聚合的精品文章；再有就是 [WaitButWhy](http://waitbutwhy.com) 与 [Backchannel](https://backchannel.com) 的写作，外加老牌科技媒体的一些长文。
 
-至于具体的科技话题，我会关注 #Hackerdom、#YC、Elon Musk、#space、#self-driving、#AI、 #VR 等等。
+至于具体的科技话题，我会关注 #indiehackers、#YC、#Musk、#space、#self-driving、#AI、 #VR 等等。
 
-长文之后是书——深度阅读最为重要的部分。我整理有5份书单，并将进一步完善：[technica](https://www.douban.com/doulist/2626865/) `科技`、[techno-utopian](https://www.douban.com/doulist/2626644/) `未来`、[core wisdom](https://www.douban.com/doulist/3381814/) `跨学科思维模型`、[shell wisdom](https://www.douban.com/doulist/3381878/) `寻求智慧`、[Bit and Literacy](https://www.douban.com/doulist/2627422/) `工具与能力增长`。
+长文之后是书——深度阅读最为重要的部分。我整理有5份书单，接下来会进一步完善它们：[technica](https://www.douban.com/doulist/2626865/) `科技`、[techno-utopian](https://www.douban.com/doulist/2626644/) `未来`、[core wisdom](https://www.douban.com/doulist/3381814/) `跨学科思维模型`、[shell wisdom](https://www.douban.com/doulist/3381878/) `寻求智慧`、[Bit and Literacy](https://www.douban.com/doulist/2627422/) `工具与能力增长`。
 
-接下来，是最核心的[多学科基本思维模型](https://hurricanecapital.wordpress.com/mental-models/)。对于数学、物理学、工程学、进化、心理学、经济学等学科的基本思维，名校课程与经典教材可以教会我们入门和理解。但要习以为常地把这上百种基本思维用出来，惟有不停地阅读和练习：把读到的东西和所证明的基本概览联系起来、将问题的答案和有条理的深层理论联系起来。
+当然，还有最核心的[多学科基本思维模型](https://hurricanecapital.wordpress.com/mental-models/)。对于数学、物理学、工程学、进化、心理学、经济学等学科的基本思维，名校课程与经典教材可以教会我们入门和理解。但要习以为常地把这上百种基本思维用出来，惟有不停地阅读和练习：把读到的东西和所证明的基本概览联系起来、将问题的答案和有条理的深层理论联系起来。
 
 ### 科学上网
 
@@ -126,7 +109,9 @@ RSS Feed 是获取互联网信息的利器。然则，获取信息的关键并�
 
 > 你做任何一件事都可以把它做的很漂亮，或是很丑陋。如果你想要有高水平的表现，就必须具备鉴赏力和达到目标的方法……我们的文化只会给你……磨刀的时候该如何拿刀子，或者如何使用缝纫机，或者如何混合胶水，如何擦胶水，它认为只要你照着这些步骤去做，自然会有高水准的表现。然而，它把鉴赏力给忽略了……要想具有鉴赏力，了解如何完成高级的工作，体会和工作融为一体的感觉，就要培养内心的宁静……它涉及到一种自然的态度，让人与周围的环境完全融合在一起。
 
-反过来，“如果你自视甚高，那么你观察新事物的能力就会降低……如果你把事情搞砸了，你很可能不愿意承认。如果你被蒙蔽，自以为表现得很好，你很可能会相信你确实表现得很好……”《禅与摩托车维修艺术》这样来解释。而驱动这一过程，最要紧的则是进取心。
+反过来，“如果你自视甚高，那么你观察新事物的能力就会降低……如果你把事情搞砸了，你很可能不愿意承认。如果你被蒙蔽，自以为表现得很好，你很可能会相信你确实表现得很好……”
+
+在《禅与摩托车维修艺术》的解释中，如何驱动这一过程，最要紧的就是进取心。
 
 > 如果你想要修理一部摩托车，那么充足的进取心是最重要的工具。如果你还没有足够的热忱，你最好收拾工具暂放一边，因为它们不会对你有任何帮助。进取心是精神的补给品，能够推动事情的进行，如果你没有它，就不可能修理摩托车。但是如果你有了它，你就可会知道如何运用它，那么无论如何，一定能修好这部摩托车。
 
@@ -134,15 +119,17 @@ RSS Feed 是获取互联网信息的利器。然则，获取信息的关键并�
 
 读写过程是头脑中最基本的 I/O 进程（输入、输出），而这一过程的高水准表现，自然会把个人的学识和思维能力协同提升至相应的水准。
 
-[The Cook and the Chef: Musk’s Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) 一文用厨子与大厨的对比来分析 Elon Musk 的原创性思维能力。厨子只会依照菜谱来做菜，而大厨才是发明菜谱的那个人，其中的差别就在于基于第一原理的思维能力，而这一能力的根基正是最基本的读写过程。
+[The Cook and the Chef: Musk’s Secret Sauce](http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html) 一文用厨子与大厨的对比来分析 Elon Musk 的原创性思维能力。厨子只会依照菜谱来做菜，而大厨才是发明菜谱的那个人，其中的差别就在于基于第一原理的思维能力，而这一能力的根基正是最为基础的读和写。
 
-对于真正的三星级大厨来说，“怎样做才可以变得更美味？”就是这一基本进程的基本问题。但是首先，“不了解最好的食材，不知道最棒的滋味，即使想要模仿、接近也是做不到的。”
+对真正的三星级大厨来说，“怎样做才可以变得更美味？”其中所隐含的鉴赏能力，正是在不停地 “读” 与 “写” 中培育出来的。真正理解最好的食材，真正懂得最棒的滋味，以第一原理来支撑烹制的整个过程，你的用心和水准才能展现出真正的价值。
 
-“寿司之神”小野二郎的第一原理思维，就是这么一种逻辑：学习和鉴别原材料本身的属性，练习并且品味让各种不同的原材料融合为寿司成品的制作过程，配以拿捏配料和用具的火候，再加上打理工作间的用心，最终使得空气都能融入到寿司饭中。
+制作寿司的逻辑，在小野二郎的手艺下，转化为某种美学：学习和鉴别原材料本身的属性，练习并且品味让各种不同的原材料融合为寿司成品的制作过程，配以拿捏配料和用具的火候，再加上打理工作间的用心，最终使得空气都能融入到寿司饭中。
+
+“寿司之神”所告诉我们的过程，不是简单的菜谱，不是生硬的步骤，而是正如《禅与摩托车维修艺术》中的解释：
 
 > 一个人在修理摩托车的时候，对车子的了解分分秒秒都在改变，因而得到了全新知识……你必须对工作的品质有某种情感，你必须能判断什么才是好的，这一点才能促使你行动……不论你被卡得多严重，这种现象终将消失……其实怕被卡住是不必要的，因为被卡住越久，你就越能看清楚让你脱困的良质……无私地接纳这种被卡住的现象是个关键。
 
-所以，一旦采取正确的态度，真正投入进去，以充足的进取心、高水准的鉴赏力来增强读写过程的思维能力，头脑中不断输入、输出的好作品，肯定会把你和你的生活打磨成另一番光景。
+而把这样的态度用在读写上，真正投入进去，头脑的思维能力就会在高水准鉴赏力的加持下，不断输入、输出好的作品。只要保持充足的进取心，你与你的生活，就会被打磨成另外一番光景。
 
 > **“无师自通的技术人员就是因为常常被卡住，才比接受学院训练的人员更了解良质。因为他们懂得如何处理（过程中的）突发状况。”**
 
@@ -154,85 +141,156 @@ RSS Feed 是获取互联网信息的利器。然则，获取信息的关键并�
 
 《如何读，为什么读》写道：我们阅读……是为了增强自我，了解自我的真正利益……是在追求一颗比我们自己的心灵更原创的心灵，尽管我们未必自知。
 
-对于阅读所能达到的程度，查理·芒格是这样阐述的：
+而对阅读所能达到的程度，查理·芒格有过这样的阐述：
 
 > “我这辈子遇到的聪明人（来自各行各业的聪明人）没有不每天阅读的——没有，一个都没有。沃伦读书之多，我读书之多，可能会让你感到吃惊。我的孩子们都笑话我。他们觉得我是一本长了两条腿的书。”
 
-在一次演讲中，他还专门解释到：
+在 [基本的、普世的智慧](http://bitandliteracy.github.io/elementary-worldly-wisdom) 演讲中，芒格专门解释到：
 
 > “我相信有某种方法……比绝大多数人所用的方法都有效……你们需要的是在头脑里形成一个由各种思维模型构成的框架。然后将你们的实际经验和间接经验（通过阅读等手段得来的经验）悬挂在这个强大的思维框架上。使用这种方法可以让你们将各种知识融会贯通，加深对现实的理解。”
 
-意识到高水准表现的程度是一方面，而如何在自己身上打造出同样的高水准表现，则是真正的关键。
+关注现实、训练思维能力，顺便还能让自己更有智慧，这就是阅读过程所应表现出来的真正水准。而真正达到这样的程度，必然要对所读的内容及阅读的过程做相当细致的考究。内容部分的层次，前面有过探讨；如何把阅读本身的层次理清楚，则是接下来的关键。
 
 **读内容**
 
-精读 关注现实
+《如何阅读一本书》解释，阅读的层次是渐进的。识字不难，如何从字面上的阅读理出内容上的结构和重点，就要用上一些技巧了；而用精读来咀嚼和消化、完全吃透这些内容，则需要专门下一些功夫。
+
+精读过程的完成，是以你对作者的回应为标志的。受教是一种美德。你可以赞同作者，也可以反对作者，但争论不是目的所在。在此基础上做出行动，让自身的力量得到更多加持，阅读才更有意义。
+
+这就要求我们关注现实，在阅读中能加深对现实的理解。也就是说，要把读到的东西同自己和现实关联起来，把内容的逻辑跟基本的多学科思维模型关联起来，把作者的表达意图同他的个人背景与话题环境关联起来。
+
+这里唯一的窍门，就是去读自己真心敬仰的人，去钻研自己真正着迷的话题。读进去之后，琢磨透彻的多了，才有可能拿捏出水准来。
 
 **读思维**
 
-多学科思维模型
+在 TED 访谈 [Elon Musk: The mind behind Tesla, SpaceX, SolarCity …](https://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity) 中，Musk 这样解释他自己的思维框架：
+
+> "Well, I do think there's a good framework for thinking. It is physics. You know, the sort of first principles reasoning. Generally I think there are — what I mean by that is, boil things down to their fundamental truths and reason up from there, as opposed to reasoning by analogy... But when you want to do something new, you have to apply the physics approach. Physics is really figuring out how to discover new things that are counterintuitive, like quantum mechanics. It's really counterintuitive..."
+
+而对于非全新的基本生活，查理芒格则认为，“不能苛求每个人对天体力学的掌握达到与拉普拉斯并驾齐驱的地步，也不必苛求大家在其他领域也达到如此精湛的水平”：
+
+> “事实证明，每门学科真正重要的概念并不多，只需要大体了解，就能掌握其精髓。而且这些概念既不是无穷的，相互之间的影响也不复杂……对大多数人来说，掌握多学科的重要知识并非难到不可能的程度。”
+
+具体来说，“你要习以为常地使用在每一门基础学科的一年级课程中会学到的那些简单易学的道理。当你掌握了这些基本的概念，你想要解决的问题就不会受到制约……”
+
+相反，“如果你在思考问题时全然依赖别人，经常花钱向专业人士寻求咨询，那么无论你何时跨出自己的狭小区域，都会遭受很多不幸。”
+
+> **你必须用跨学科的方式来进行思考。**
+
+对于常见的多学科思维模型，Hurricane Capital 已经整理出一个名为 [Mental Models](https://hurricanecapital.wordpress.com/mental-models/) 的清单。你所要做的，就是在阅读、思考的过程中拿起这把利器。
 
 **读人**
 
-> “最接近把一个人的生活重新过一遍的事情是回忆那种生活，并用文字记录下来，让这种生活尽可能地长久。”
+芒格研究过爱因斯坦、达尔文、牛顿的生平和科学著作，不过他最欣赏的英雄从来都是本杰明·富兰克林。他这样解释：
 
-heroes
+> “我本人是个传记狂，而且我认为，当你要教会人们一些行之有效的伟大观念的时候，最好和那些伟人们的生平及其个性结合起来。我觉得要是你和亚当·斯密成了朋友，那你一定会把经济学得更好。这听起来很滑稽，和那些离世的伟人交朋友。不过，如果你一生都和那些思路正确的离世伟人交朋友，我觉得会对你的生活和教育都有所裨益。这比只给出一些简单的概念要好得多。”
 
-> 保持内心的宁静在机械工作上并不是一件小事，它是工作的核心。能够使你平静的就是高级的手艺，反之，则是低级的。规格说明、测量仪器、品质监督与最后阶段的品质检查，这些都是达到内心宁静的方法。而最后真正重要的，就是要达到内心的平静，除此之外别无它物。因为只有内心平静，我们才能觉察到良质的存在……无论进行任何工作，都必须具有良质……让自己不要和工作环境疏离，做其他的工作时也是同样的。
+如果说好书、好文章对你的影响，是在于知识和思维层面；一个真正敬仰的人，对你的影响则要深得多：
 
+> ”你所表现出来的行为，你所带来的活力与承诺，你为人处事的品质，你对待周围人的方式……诸如此类的东西，对你的影响要超出你的预期。“
 
+因为他们所做到的事情，他们身上所证明出来的东西，自然而然就能告诉你，你想要生活在其中的世界究竟是一个什么样子，你如何才能做到那个样子。
 
-《如何阅读⼀本书》解释，阅读就是学习。
+如果在阅读的时候，你就能把作者、人物在这方面的细节同自己关联起来，找出它们对你好的影响，剔除那些毫无益处的负面影响……那么，你肯定就能为自己构建出一种美好、进取的生活氛围，
 
-[Media Diet](#media_diet) 部分是为获知资讯而进行的基础阅读，还需要以增进理解为目的的深度阅读来把读到的东西跟生活中的有效经验组织起来。
+而后，等你垂垂老矣的时候，西塞罗的这段话还将提醒你——你确有用心活过这一生：
 
-以[黑客文化](http://bitandliteracy.github.io/hackerdom/)为例，可以有这样一种阅读思路：
-
-> + 把读到的东西和所证明的基本概览联系起来：《黑客》/《黑客与画家》/《虚拟革命》…
-> + 将答案和有条理的深层理论联系起来：《如何成为一名黑客》/《大教堂与市集》/ Free as in Freedom…
-> + 让行之有效的伟大观念和那些伟人们的生平以及个性联系起来：John Carmack / Masters of Doom / .plan file…
-
-除了比较系统地阅读黑客文化，我对[虚拟现实](http://bitandliteracy.github.io/VR/)方面也有着一定的理解。不过我最热衷的话题，还是对自己心目中的那些[英雄们](http://bitandliteracy.github.io/heroes/)的比较阅读，特别是理解他们一身所求的卓越、对自身的责任感及其所代表的那种不一样的人的形象，从而更好地增进自己头脑内的力量。
-
-有效地用阅读来维护并更新自己的知识、技能和经验，把读到、领悟到的点点滴滴编织到生活的方方面面，便是我所理解的阅读艺术，一种真正个性化的学习之道。
-
+> “晚年的最佳保护铠甲是一段在它之前被悉心度过的生活，一段被用于追求有益的知识、光荣的功绩和高尚举止的生活；过着这种生活的人从青年时代就致力于提升他自己，而且将会在晚年收获它们产生的最幸福的果实；这不仅是因为有益的知识、光荣的功绩和高尚的举止将会陪伴他终生，甚至直到他生命的最后一刻，也会因为见证了正直的人生的良心和对过往美好功绩的回忆而给灵魂带来无上的安慰。”
 
 #### 写作之路
 
-`写作是阅读的逆过程。`
+`作为一种沟通`
 
+同阅读的逻辑一样，把知道的字词写到语句里还不能算是真正的写作。
 
+就非虚构写作而言，最好的方式就是临摹大师的手法，对精致内容的深度阅读，可以让你写出一点自己的东西来，然后再读点，再写些，多读点，多写些……如此往复，你就能领悟到原作在写法上的力度与效果。追随大师的做法，对自己头脑始终是一项很好锻炼。
+
+具体操作上，你可以翻译、改写、灵活运用大师的手法……直至写出自己的风格。
+
+**翻译**
+
+翻译是在完整拓摹原作者的写作与思考，好的翻译可以对原作的表述与构思的深度提炼。因而，选择合适的文章进行翻译，会非常有助于自己的写作。
+
+我所翻译的，是黑客文化及虚拟现实方面的一些经典文档，有不少内容还是首次被翻译成中文。
+
+> 黑客文化：
+> 
+> + [如何成为一名黑客](http://bitandliteracy.github.io/hacker-howto)
+> + [黑客行为作为一种应用哲学](http://bitandliteracy.github.io/hacking)
+> + [卡马克论想法更迭](http://bitandliteracy.github.io/idea-generation)
+> 
+> 虚拟现实：
+> 
+> + [虚拟现实基础知识](http://bitandliteracy.github.io/VR-Basics)
+> + [虚拟现实过去的声音](http://bitandliteracy.github.io/oral-history)
+> + [接下来的两年内，虚拟现实能够、应当以及几乎必定会变成什么样子](http://bitandliteracy.github.io/abrash-dev-days)
+> 
+> 经典：
+> 
+> + [虚拟和增强现实溯源：Sutherland 的《终极显示》](http://bitandliteracy.github.io/The-Ultimate-Display)
+> + [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
+> + [未来的电影艺术（1955）](http://bitandliteracy.github.io/The-Cinema-of-the-Future)
+
+在翻译过程中不断推敲作者的文笔和思路：如何遣词用语、安排论点，如何谋篇布局、组织材料……总是能让我有所启发、有所收获。接下来，我会在特定的话题上进一步来打磨自己的学习能力及翻译水准
+
+**改写**
+
+改写则是另一条练习路径，前提自然是真正读懂原作。因而，多了解一些写作的技巧，在阅读的过程中自然就能体会到它们的用法。比如，《〈华尔街日报〉是如何讲故事的》会告诉你基本的写作流程及写作素材的处理；而《哈佛非虚构写作课：怎样讲好一个故事》则能告诉你表达与构思的一些细节。
+
+当然，这都很基础，但只要能用出来，就会非常管用。
+
+至于我改写出来的内容，有的是把表述比较复杂的长文改写简单，比如把 Backchannel 那篇 [The iBrain is Here：and it’s already inside your phone](https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.cg37ae5f0) 改为只写技术部分的 [iBrain：看苹果如何让你的iPhone用好人工智能](http://bitandliteracy.github.io/iBrain)；有的是把主题相关的不同话题改写到一起，比如把 The Verge 长文 [SPEAK, MEMORY](http://www.theverge.com/a/luka-artificial-intelligence-memorial-roman-mazurenko-bot) 与《黑镜》话题改写成对应更好的 [会说话的回忆](http://bitandliteracy.github.io/speak-memory)……你总是可以在阅读中抓住灵感。
+
+累积的素材多了，你就可以把 Mashable 这种文章 [This blind Apple engineer is transforming the tech world at only 22](http://mashable.com/2016/07/10/apple-innovation-blind-engineer/#8Xfo28OlaZqg) 用更生动的方式重新表述出来 [90后的失明少女，如何成为苹果不可或缺的工程师？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802609&idx=1&sn=52c2a92be4d5f571e072983c42c0dd81#rd)，这是一个非常有趣的锻炼。
+
+**运用大师的手法**
+
+当然，你终究是要自己去构思话题、整理素材来展开写作的。在此过程中，合理的借鉴那些有效的构思与技巧，会让你比较容易抓住作品的灵魂。这方面我有做过这样的尝试：
+
++ 参照 ESR 的黑客文化名篇 [《如何成为一名黑客》](http://bitandliteracy.github.io/hacker-howto)，我尝试整理出一个专门讲 John Carmack 的话题——[《游戏黑客之道》](http://bitandliteracy.github.io/game-hacker)，以及关于他传授黑客之道的 [《如何培养出一位游戏黑客》](http://bitandliteracy.github.io/Ryan)，并衍生出这篇 [《一个能让「盖茨」和「马斯克」都羡慕嫉妒恨的人，还在继续改变世界》](http://mp.weixin.qq.com/s/b1mBkH9eL_mMObXa0m2puQ)，以此来探究黑客之道的作用。
+
++ 而  Elon Musk 关于 Tesla 的两篇 Master Plan，与 Tim Urban 写 Elon Musk 的一系列 WaitButWhy 文章结合起来，再补充《硅谷钢铁侠》的相关细节，很明显就能理出一份对应于 Tesla 完整蓝图的 Fact Check——[未来十年，Tesla 将发展成价值万亿美元的公司](http://bitandliteracy.github.io/master-plan)。
+
+对于 [Tim Urban is an Expert on not Being an Expert](https://medium.com/@Pocket/tim-urban-is-an-expert-on-not-being-an-expert-ad7dc67929df#.ojnwcqi9p)，我是相当赞同的。把复杂难解的话题，用浅显易懂的语言解释出来，这与查理·芒格的多学科思维模型有着异曲同工之妙，都是把事情背后的道理说清楚、用出来。
+
+这会是我今后写作和努力的重要方向，当然这样的写作过程并不容易，如同摩托车的维修过程一样：
 
 > 在维修摩托车的时候，往往你提出的许多问题，都会碰到无法解决的状况，因而你就可能丧失信心。其实大可不必如此。如果你一时找不到答案，就表明你设计的问题无法替你找到你想要的答案，因而你对问题的了解必须更广泛。所以你要做的是进一步研究你的问题，而不是摈弃这些无法回答的状况，它们和是与否的答案同样重要，甚至更重要，它们能够让你成长！
 
+以上所说的，仅仅是写作的操作过程。写作完成之后，你的理解和想法、你的态度、你做事情的质量、你内心的学识和状态……都将融入到你所写的作品中，它们将决定你写出来的风格。而这里，则有两个层面的问题值得悉心思量：
 
-**临摹大师的手法：**
+**作为一种沟通**
 
-> 学习大师本身就是对自己头脑的一项很好锻炼。
+把复杂的概念、想法讲解到易于传播，这是 TED 神教的入门功夫。如果你的头脑里有了一些值得分享的东西，而你又想用合适的方式和技巧把它们讲出来，TED talks 的经验中所累积出来的《演讲的力量》，则可以告诉你很多值得借鉴的细节。
 
-参照 ESR 的黑客文化名篇[《如何成为一名黑客》](http://bitandliteracy.github.io/hacker-howto)，我专门整理出一份对 John Carmack 的扩展阅读——[《游戏黑客之道》](http://bitandliteracy.github.io/game-hacker) 与 [《如何培养出一位游戏黑客》](http://bitandliteracy.github.io/Ryan)，力图剖析出原文中所表现的黑客文化的力度和效用。
+一个简单的想象，就是把书写过程的文字表达，类比成你在讲台上直面读者的现场沟通。有效的说话，也就是口语化的沟通，所表达的不仅仅是作品中的内容形象，还要求写作者所传达的自我形象是不是足够有趣、有吸引力。
 
-尽管完成过一篇完整的 Tesla 规划蓝图：[未来十年，Tesla 将发展成价值万亿美元的公司](http://bitandliteracy.github.io/master-plan)，我还在参照 Tim Urban 为 Elon Musk 所写的那一系列 WaitButWhy 文章来进一步阅读 Elon Musk， 力求整理出一篇更为深刻的 Musk 传记。我特别认同 Tim Urban 解释复杂问题时的头脑和方法，并希望像“歪理邪说”一样，把这样的深层解释同日常的实际生活很好地结合起来。
+这层形象对于认真经营你跟读者的关系是很有意义的，而 Ronald Adler 那本 [Looking Out Looking In](http://lookingoutlookingin.net) 不仅能有助于你的面对面沟通，也能有助于你的文字沟通。
 
-翻译
+**inspiring**
 
-阅读过程的累积让我长于黑客文化以及有感染力的小故事，能够输出比较有说服力的观点。
+Chris Anderson 说，“过分追求技巧，希望在理性与感性层面都能征服观众”的后果将是可怕的。因为，
 
-具体而言，素材方面，我的挖掘一向较为细致，除了在 Google、Wikipedia 与 Internet Archive 上所能找到的书本、图文、视频，还特别注意评论及社交媒体的价值。以此来挖掘的内容示例如下：
+> “启迪性不是表演出来的，它是观众对真诚、勇气、无私奉献以及真正智慧的领悟。”
 
-> + [你以为殖民火星就够了吗？这个男人是想征服太阳系！](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802772&idx=1&sn=d34d94a02bb6112826bd9e259e70e290#rd)
-> + [让马斯克告诉你，如何成为下一个硅谷钢铁侠？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802419&idx=1&sn=7e9b5eb40fbed8700100be79e981150f#rd)
-> + [90后的失明少女，如何成为苹果不可或缺的工程师？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802609&idx=1&sn=52c2a92be4d5f571e072983c42c0dd81#rd)
-> + [曾经「改变世界」的苹果，为什么现在「只会赚钱」？](http://mp.weixin.qq.com/s?__biz=MzA4ODY4MDEzOQ==&mid=2650802246&idx=1&sn=837c61b0d21c53eeb9d39ffe3d0b5ab5#rd)
-> + [从万圣节看美国人的动手能力，人家科技强不是没有道理的](http://geekview.cn/g30/13880.html)
-> + [苹果如何来实现乔布斯想要的电视](http://bitandliteracy.github.io/Apple-TV)
+但是真正的好作品，确实能在字里行间让我们有所感悟、有所希冀，并促使我们行动起来去成为更好的人。
 
+需要说明的是，对于写作完成后的话题，我过去的思考并不多。所以，还有很多东西需要读，很多细节需要去琢磨和练习。
 
-**[虚拟现实全记录](https://bitandliteracy.gitbooks.io/virtual-reality-holocron/content/)：**从零开始学习并梳理虚拟现实方面的资料，是一件我过去从未有系统地去从事过的一件事。这是我第一次从书刊、论文、访谈与专利文档中去阅读如此之多的原始素材，把一些经典的虚拟现实文章第一次翻译成中文，同时分析素材中的逻辑并有条理地将其整理成文。
+我希望这次努力的结果，是一些真正有灵魂的东西，是生活中实实在在的智慧流动。正如 Chris Anderson 在书中所写下的：
 
-这不光是弄懂虚拟现实的原理和基本知识，更重要的是记录其背后的故事与技术进展，因为我想知道的是这一切是怎么发生的，正在推动此事的人们都是怎么说的，他们所推崇的思想和远见卓识又来自何处……我相信所搜集到的这些基本素材，经过持续地调整和完善，最终可以累积出一份很好的虚拟现实中文资料。
+> “……要梦想某种比你自己更为重要的东西，专注于那个梦想，直到它成为某种真正有价值的思想。”
+
+***
+
+读和写，是一套相对艰辛的底层过程；接下来，是梳理网络条件下比较实用的信息和编程过程。用 John Carmack 的话说，就是：
+
+> “在信息时代，客观障碍已不复存在，所谓障碍都是主观上的。如果你想动手开发什么全新的技术，你不需要几百万美元的资金，你只需要在冰箱里放满比萨和可乐，再有一台便宜的计算机，和为之献身的决心。”
 
 ### 数字素养
+
+
+
 
 在信息时代，万维网汇聚着贯通全球的事实、⽂件和媒体，只要⼀台便宜的计算机和为之献⾝的决心，良好的数字素养就足以让我们迅速掌握⾃己所需要的一切工具和信息。
 
@@ -246,7 +304,7 @@ heroes
 
 `十年学会编程`
 
-学习编程就象学习用优美的自然语言写作一样。最好的做法是阅读大师的一些名著，试着写点自己东西，再读些，再写点，再读些，再写点……如此往复，直到你的作品达到范文的力度和效果。
+
 
 #### 计算机基础
 
@@ -269,7 +327,7 @@ heroes
 算法 AI
 
 ***
-## Hacking Education
+## hacking education
 
 我对“真正的大学”有一种不一样的偏执，始终不甘心就此被大学里的照本宣科所葬送，最终下定决心辍学。我知道自己将会需要一套能够取代大学教育的知识与技能组合，我也愿意为此付出时间和精力，我知道我有足够的智力。
 
@@ -280,6 +338,75 @@ heroes
 > 修行是为进一步提升自己：以最有效的方式完成任务，同时让自己也变得更有能力、更富创造力。实践中的打磨让我意识到，要使自己所做的事情，能够同自身的学识、能力、进取心相得益彰，协同放大彼此的效果。
 
 这里的能力框架正是我对“真正的大学”的解答，它足以取代照本宣科的大学教育，同时还让我总是能进化到更好。
+
+## hackerdom
+
+此处的内容是对于我所理解的黑客文化的一次梳理，这里的思路是这样的：
+
+> + “把读到的东西和所证明的基本概览联系起来”：《黑客：计算机革命的英雄》
+> + “将（问题的）答案和有条理的深层理论联系起来”：《如何成为一名黑客》
+> + “让行之有效的伟大观念和那些伟人们的`生平`以及`个性`联系起来”：John Carmack 及其 .plan file
+
+我对黑客文化有兴趣的原因，是想要更好地理解科技及其背后的英雄们；至于技术本身我并不在行，如果你是想通过黑客文化来提升技能的话，请去参考技能树部分来自 Google 及 Knownsec 的行家们的推荐。
+
+我自己的阅读列表如下：
+
+`《黑客》《黑客与画家》《大教堂与市集》《若为自由故》《只是为了好玩》《沃兹传》《Revolution in the Valley》《Doom启世录》……《禅与摩托车维修艺术》《哥德尔、艾舍尔、巴赫书：集异璧之大成》`
+
+视频内容则是这样的：
+
+> + [The Code](http://www.code.linux.fi/)
+> + [Revolution OS](http://www.revolution-os.com/)
+> + [Code Rush](https://wiki.mozilla.org/Code_Rush)
+> + [Triumph of the Nerds](http://www.pbs.org/nerds/) `书呆子的复仇`
+> + [The Virtual Revolution](http://www.bbc.co.uk/programmes/b00n4j0r/microsite) `虚拟革命`
+> + [DEFCON: The Documentary](http://vimeo.com/69695831)
+> + [The Hacker Wars - A Documentary About Prosecutions Director: Vivien Lesnik Weisman](https://www.anonymousvideo.eu/the-hacker-wars.html) `匿名者`
+> + [We Are Legion: The Story of the Hacktivists](http://www.bbc.co.uk/programmes/b01qxmwp) `匿名者`
+> + [We Steal Secrets: The Story of WikiLeaks](http://wikileaks-movie.com)
+> + [TPB AFK: The Pirate Bay Away from Keyboard](http://www.tpbafk.tv/) `海盗湾：暂别离`
+> + [Deep Web: The Untold Story of BitCoin and Silk Road](http://www.deepwebthemovie.com/)
+> + [The Internet's Own Boy: The Story of Aaron Swartz](http://www.takepart.com/internets-own-boy) `互联网之子`
+> + [Citizenfour](http://citizenfourfilm.com/) `第四公民`
+
+**黑客圈文档**
+
+然后，补充一些我所整理的黑客圈故事及文档：
+
++ [《黑客圈简史》](http://bitandliteracy.github.io/hacker-history)
++ [《黑客与英雄们》](http://bitandliteracy.github.io/hacker-and-heroes)
++ [《混沌通讯会议：一场很德国的黑客大会》](http://bitandliteracy.github.io/CCC)
++ [《如何成为一名黑客》](http://bitandliteracy.github.io/hacker-howto)
++ [《十年学会编程》](http://bitandliteracy.github.io/idea-generation)
++ [《黑客行为作为一种应用哲学》](http://bitandliteracy.github.io/hacking)
++ [《卡马克论想法更迭》](http://bitandliteracy.github.io/idea-generation)
+
+此外，我自己还构思过两篇关于 John Carmack 的文章：
+
++ [《游戏黑客之道》](http://bitandliteracy.github.io/game-hacker)
++ [《如何培养出一位游戏黑客》](http://bitandliteracy.github.io/Ryan)
+
+**技能树**
+
++ Google's [Guide to Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
++ [知道创宇研发技能表](http://blog.knownsec.com/Knownsec_RD_Checklist/)
+
+**"Hackers are builders."**
+
+黑客是数字世界最初的原住民，他们的技能和态度中所蕴涵的一些基本素养，是我们在数字世界中不断完善自身所必须要具备的东西。这一点是我从这些英雄们和他们的故事中所学到的最为重要的东西：`把自己打造得更好`。
+
+数字素养方面，我所理解的是：`《比特素养》《网络素养》《提问的智慧》……` 。
+
+获取信息方面，我喜欢 `Hacker News`（安全方面的信息则可以参考 `The Hacker News`），偏技术一些的话，是 `ACM TechNews` 与 `IEEE Spectrum` 。
+
+基本技能方面，英语、科学上网、"Blogging Like a Hacker"……
+
+……
+
+归根结底，我是用《网络素养》与 John Carmack 所说过的话改编出来这样一句：
+
+> 在信息时代，万维网汇聚着贯通全球的事实、⽂件和媒体，只要⼀台便宜的计算机和为之献⾝的决心，良好的数字素养便可以让我们迅速掌握⾃己所需要的东西。
+
 
 ## Heroes
 
