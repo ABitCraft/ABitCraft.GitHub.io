@@ -18,7 +18,7 @@ title: 不可思议的《硅谷》
 几乎西海岸科技圈的每一个人都会证实说这部剧逼真得吓人，即使是（或特别是）当这些虚构的人物体现出现实中的码仔队（brogrammer）、“创”业者（wantrepreneur）和反社会型投资人的最坏一面时。《硅谷》几乎就是现实中的沙丘路的影子，或如 Snapchat CEO [所形容的那样](http://www.rollingstone.com/tv/news/thomas-middleditch-the-supergeek-star-of-silicon-valley-20140512)，“基本就是在拍一部纪录片”。
 
 跟往常一样，习惯于妙语连珠的 Box 联合创始人，一语道破《硅谷》的特色：
-
+     
 <img src="http://cdn.geekview.cn/ueditor/php/upload/image/20160704/1467635537883962.png" alt="" />
 
 > “HBO 的这部 《硅谷》，好就好在它太过真实，坏也坏在它太过真实。”

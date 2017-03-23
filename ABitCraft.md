@@ -12,7 +12,7 @@ permalink: /ABitCraft/
 
 其内核是从生活的基本事务中寻求智慧：让生活能自动服务于个人力量的发展，同时在每项事务上都保持一种进取的态度，使自己总是去做到更好，从而实现某种正反馈效果的日常循环。
 
-> "Some peple see the ugliness in this world. **I choose to see the beauty.**"
+> "Some people see the ugliness in this world. **I choose to see the beauty.**"
 
 * 能力框架
 {:toc}
@@ -231,7 +231,7 @@ RSS Feed 是获取互联网信息的利器。然则，获取信息的关键并�
 > + [看得见“风景”的“房间”（1993）](http://bitandliteracy.github.io/CAVE)
 > + [未来的电影艺术（1955）](http://bitandliteracy.github.io/The-Cinema-of-the-Future)
 
-在翻译过程中不断推敲作者的文笔和思路：如何遣词用语、安排论点，如何谋篇布局、组织材料……总是能让我有所启发、有所收获。接下来，我会在特定的话题上进一步来打磨自己的学习能力及翻译水准
+在翻译过程中不断推敲作者的文笔和思路：如何遣词用语、安排论点，如何谋篇布局、组织材料……总是能让我有所启发、有所收获。接下来，我会在特定的话题上进一步来打磨自己的学习能力及翻译水准。
 
 **改写**
 
@@ -285,7 +285,7 @@ Chris Anderson 说，“过分追求技巧，希望在理性与感性层面都�
 
 读和写，是一套相对艰辛的底层过程；接下来，是梳理网络条件下比较实用的信息和编程过程。用 John Carmack 的话说，就是：
 
-> “在信息时代，客观障碍已不复存在，所谓障碍都是主观上的。如果你想动手开发什么全新的技术，你不需要几百万美元的资金，你只需要在冰箱里放满比萨和可乐，再有一台便宜的计算机，和为之献身的决心。”
+> “在信息时代，客观障碍已不复存在，所谓障碍都是主观上的。如果你想动手开发什么全新的技术，你不需要几百万美元的资金，你只需要在冰箱里放满披萨和可乐，再有一台便宜的计算机，和为之献身的决心。”
 
 ### 数字素养
 
@@ -326,13 +326,6 @@ Chris Anderson 说，“过分追求技巧，希望在理性与感性层面都�
 AI
 
 ***
-## hacking education
-
-此处尝试系统化独立于学校教育的能力培养与个人发展。
-
-+ [Standford-CS183B](http://startupclass.samaltman.com) `YC 创业课`
-
-
 ## hackerdom
 
 `黑客圈`
@@ -370,6 +363,12 @@ AI
 > + [Citizenfour](http://citizenfourfilm.com/) `第四公民`
 
 黑客是数字世界最初的原住民，他们的技能和态度中所蕴涵的一些基本素养，是我们在数字世界中不断完善自身所必须要具备的东西。
+
+## hacking education
+
+此处尝试系统化独立于学校教育的能力培养与个人发展。
+
++ [Standford-CS183B](http://startupclass.samaltman.com) `YC 创业课`
 
 ## Heroes
 
