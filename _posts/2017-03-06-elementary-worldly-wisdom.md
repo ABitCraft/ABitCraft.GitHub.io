@@ -519,4 +519,4 @@ title: 论基本的、普世的智慧，及其与投资管理和商业的关系�
 
 ***
 
-via: 《穷查理宝典》
+via: [A Lesson on Elementary, Worldly Wisdom](http://abinoda.com/clippings/Lesson-on-Elementary-Worldly-Wisdom.pdf)，《穷查理宝典》
