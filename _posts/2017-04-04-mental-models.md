@@ -22,7 +22,7 @@ title: 细数思维模型
 
 * * * 
 
-<center>![]({{ site.baseurl }}/images/lollapalooza.jpg)</center>
+![]({{ site.baseurl }}/images/lollapalooza.jpg)
 
 <center>【本页面将定期更新。】</center>
 
@@ -42,7 +42,7 @@ title: 细数思维模型
 > 
 > 你可能会说，“天哪，这也太难做到了。”但幸运的是，它并没有你想的那么难——因为，掌握八、九十个模型就差不多能让你成为一个具备普世智慧的人。而这八、九十个模型里面，真正重要的仅有几个。»
 
-<center>![]({{ site.baseurl }}/images/Charlie-Munger.jpg)</center>
+![]({{ site.baseurl }}/images/Charlie-Munger.jpg)
 
 赫伯特·西蒙，这个诺贝尔经济学奖得主也有强调：
 
@@ -62,7 +62,7 @@ title: 细数思维模型
 + [成长资本支出 (Growth Capital Expenditures)](http://www.valuewalk.com/wp-content/uploads/2015/11/042.Owner-Earnings-vs-Free-Cash-Flow.pdf)
 + [沉没成本 (Sunk Cost)](http://www.businessdictionary.com/definition/sunk-cost.html)
 
-<center>![]({{ site.baseurl }}/images/Accounting.jpg)</center>
+![]({{ site.baseurl }}/images/Accounting.jpg)
 
 #### 生物学
 
@@ -71,7 +71,7 @@ title: 细数思维模型
 + 遗传学 (Genetics)
 + 生理学 (Physiology)
 
-<center>![]({{ site.baseurl }}/images/Biology.jpg)</center>
+![]({{ site.baseurl }}/images/Biology.jpg)
 
 #### 商业
 
@@ -82,7 +82,7 @@ title: 细数思维模型
 + [五力分析 (Five Forces)](https://asiakas.kotisivukone.com/files/laatuoptimi2013.kotisivukone.com/tiedostot/porter_5competitive_forces.pdf)
 + 品牌 (Brand)
 
-<center>![]({{ site.baseurl }}/images/Business.jpg)</center>
+![]({{ site.baseurl }}/images/Business.jpg)
 
 #### 化学
 
@@ -93,7 +93,7 @@ title: 细数思维模型
 + 测不准原理 (Uncertainty Principle)
 + 黏度 (Viscosity)
 
-<center>![]({{ site.baseurl }}/images/Chemistry.jpg)</center>
+![]({{ site.baseurl }}/images/Chemistry.jpg)
 
 #### 经济学
 
@@ -131,7 +131,7 @@ title: 细数思维模型
 + 交易成本 (Transactions Costs)
 + 效用 (Utility)
 
-<center>![]({{ site.baseurl }}/images/Economics.jpg)</center>
+![]({{ site.baseurl }}/images/Economics.jpg)
 
 #### 工程学
 
@@ -142,7 +142,7 @@ title: 细数思维模型
 + [安全边际 (Margin of Safety)](https://hurricanecapital.wordpress.com/2014/05/12/mental-model-margin-of-safety/) / 备用系统 (Backup System)
 + 断点 (Breakpoints)
 
-<center>![]({{ site.baseurl }}/images/Engineering.jpg)</center>
+![]({{ site.baseurl }}/images/Engineering.jpg)
 
 #### 法律系统
 
@@ -155,7 +155,7 @@ title: 细数思维模型
 + 无罪推定 (Presumption of Innocence)
 + 合理怀疑 (Reasonable doubt)
 
-<center>![]({{ site.baseurl }}/images/Legal.jpg)</center>
+![]({{ site.baseurl }}/images/Legal.jpg)
 
 #### 管理科学
 
@@ -163,7 +163,7 @@ title: 细数思维模型
 + [帕金森定律 (Parkinson’s Law)](https://www.farnamstreetblog.com/2013/12/parkinsons-law/)
 + [过程与结果 (Process versus Outcome)](https://www.washingtonpost.com/business/barry-ritholtz-outcome-or-process--what-investment-focus-succeeds-over-time/2014/02/21/66e5b4c4-98cb-11e3-b931-0204122c514b_story.html)
 
-<center>![]({{ site.baseurl }}/images/Management.jpg)</center>
+![]({{ site.baseurl }}/images/Management.jpg)
 
 #### 数学
 
@@ -172,7 +172,7 @@ title: 细数思维模型
 + 大数定律 (Law of Large Numbers)
 + 概率论 (Probability Theory)
 
-<center>![]({{ site.baseurl }}/images/Mathematics.jpg)</center>
+![]({{ site.baseurl }}/images/Mathematics.jpg)
 
 #### 哲学
 
@@ -183,7 +183,7 @@ title: 细数思维模型
 + 还原论 (Reductionism)
 + 明喻 (Similes)
 
-<center>![]({{ site.baseurl }}/images/Philosophy.jpg)</center>
+![]({{ site.baseurl }}/images/Philosophy.jpg)
 
 #### 物理学
 
@@ -217,7 +217,7 @@ title: 细数思维模型
 + 定标 (Scaling)
 + 灵敏度分析 (Sensitivity Analysis)
 
-<center>![]({{ site.baseurl }}/images/Physics.jpg)</center>
+![]({{ site.baseurl }}/images/Physics.jpg)
 
 #### 心理学
 
@@ -565,7 +565,7 @@ title: 细数思维模型
 + 零风险偏差 (Zero-Risk Bias)
 + 零和启发 (Zero-Sum Heuristic)
 
-<center>![]({{ site.baseurl }}/images/Psychology.jpg)</center>
+![]({{ site.baseurl }}/images/Psychology.jpg)
 
 #### 统计学
 
@@ -573,16 +573,16 @@ title: 细数思维模型
 + 标准差 (Standard Deviation) / 正态分布 (Normal Distribution)
 + 趋均数回归 (Regression to the Mean)
 
-<center>![]({{ site.baseurl }}/images/Statistics.jpg)</center>
+![]({{ site.baseurl }}/images/Statistics.jpg)
 
 #### 决策过程
 
 + 五W问题 (Asking the Who, What, When, Where, and Why Questions)
 + 反置 (Invert)
 
-<center>![]({{ site.baseurl }}/images/decision-making.jpg)</center>
+![]({{ site.baseurl }}/images/decision-making.jpg)
 
-**上述方法或模型并非源自于我。**
+<center>**上述方法或模型并非源自于我。**</center>
 
 ## 更多资料
 
