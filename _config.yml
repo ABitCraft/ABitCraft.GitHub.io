@@ -1,10 +1,10 @@
 # Site settings
 title:       一点修为
-email:       AppU.hyb@gmail.com
-author:      AppU
+email:       
+author:      HughCraft
 description: "A Bit Craft"
 baseurl:     ""
-url:         "http://BITandLiteracy.github.io"
+url:         "http://ABitCraft.github.io"
 
 # Google analytics
 google_analytics:
